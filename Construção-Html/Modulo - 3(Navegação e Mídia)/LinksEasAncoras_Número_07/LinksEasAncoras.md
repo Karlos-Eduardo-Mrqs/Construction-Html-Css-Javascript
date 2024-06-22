@@ -9,7 +9,7 @@ Um ste que podemos usar esse exemplo, é o Wikipedia. Observe:
 Nota-se que os links estão destacados em azul? Ao clicar nessas palavras em azul, você é direcionado para outra página; onde neste caso, a página irá te direcionar para uma explicação de uma espécie de dinossauros.
 ***
 # Tag Html e Atributos
-A tag que utilizamos para usar ancoras e links é ``<a> </a>``. E lembra que no Modulo 2, falamos sobre atributos? Senão lembra, é uma característica que podemos **atribuir** para uma tag. Para mais detalhes [entre nesse arquivo aqui.]() . 
+A tag que utilizamos para usar ancoras e links é ``<a> </a>``. E lembra que no Modulo 2, falamos sobre atributos? Senão lembra, é uma característica que podemos **atribuir** para uma tag. Para mais detalhes [entre nesse arquivo aqui.](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Constru%C3%A7%C3%A3o-Html/Modulo%20-%202(Manipula%C3%A7ao%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md) . 
 ***
 ## Atributos e Estrutura
 Sua estrutura funciona dessa maneira:
