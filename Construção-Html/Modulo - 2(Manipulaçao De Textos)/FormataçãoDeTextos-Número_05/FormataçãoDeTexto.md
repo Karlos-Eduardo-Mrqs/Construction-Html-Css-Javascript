@@ -1,4 +1,3 @@
-@ -0,0 +1,39 @@
 # Formatação De Texto 
 Agora que aprendemos a lidar com a Estrutura Básica, Headings(Cabeçalhos/Titulos) e Paragrafos, está na hora de aprender a lidar com a **manipulação de textos**.
 
