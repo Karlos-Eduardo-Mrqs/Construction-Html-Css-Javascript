@@ -11,7 +11,7 @@ Nesse modulo, aprenderemos a estruturar um formulário. Onde séria uma forma do
 ### Atributo Mais Usado Pelo Label
 **for: indicado pelo "identificação(id)", qual é o input de "conexão"**
 ***
-**``<input/>``: Como o próprio nome diz, é a entrada/interação que o usuário vai ter com o formulário; Falarei mais sobre os inputs no outro [arquivo.md](Construção-Html\Modulo - 5(Formulários)\FormsEosInputs\Inputs.md) !**
+**``<input/>``: Como o próprio nome diz, é a entrada/interação que o usuário vai ter com o formulário; Falarei mais sobre os inputs no outro [arquivo.md]() !**
 ***
 **``<button> </button>``: Tag usada para enviar ou apagar os dados;**
 ### Tipos do  Botão
