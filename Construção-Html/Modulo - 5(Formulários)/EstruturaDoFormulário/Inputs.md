@@ -41,8 +41,15 @@ Seus tipos podem ser chamados pelo *atributo "type"(seus atributos serão falado
 ***
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/3f3d53ed-e6cf-4e8c-a6a7-0c92e0a6cfe5)
 ***
+#### 8. **textarea**:Uma área de texto, usada como um bloco de texto dentro do formulário:![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/ed80b31a-a5ef-4731-84bd-07e02725cc6c)
+***
+##### Atributos Para o Input Área de Texto:
+- rows: Determina quantas linhas que o seu texto possui dentro  dessa área.
+***
+
 ### Tipos De Entrada de Datas
-#### 1. **date**: Uma caixa de seleção para inserir uma data:
+#### 1. **date**: Uma caixa de seleção para inserir uma data:![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8460f654-beda-4cb4-9df3-ef76887e7a98)
+
 ***
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/154d5e1c-bae1-4c11-90ac-721aa7d65388)
 ***
