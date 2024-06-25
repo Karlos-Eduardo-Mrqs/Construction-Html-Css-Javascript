@@ -4,7 +4,7 @@ Retomando a parte 1 sobre as entradas, ou seja os inputs. Temos agora outros tip
 ## Tipos De Entrada De Caixas De Seleção: 
 ***
 ### 1. **checkbox**:Uma caixa *"check"*, usada para marcação ou seleção, representado por um ⬜ : ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a55165bc-9242-4ed6-a282-8bff5f47a939)
-#### Formtação em Html(checkbox):
+#### Formatação em Html(checkbox):
 `` <input type="checkbox" name="termos" id="termo"> ``
 
 ### 2. **radio**: Uma caixa de única opção, representado por um ⚪: ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/e17fed6e-5578-4887-8bba-50c9179819d9)
@@ -49,5 +49,20 @@ Pórem, possuí outro input com botão chamado **"image", onde utiliza-se uma im
 ```
 <input type="range" name="range" id="range" min="0" max="50" step="2" >
 ```
-
-## Atributos Adionais ...
+#### 4.**hidden**: Um texto escondido, onde o usuário não poderá ver esse texto, somente inspecionando = "CTRL+⬆️+I" .
+##### Formatação em html(Hidden):
+```
+<input type="hidden" name="hidden" value="000289" />
+```
+## Atributos Adionais 
+- multiple:"Multiplos", **dentro dos tipos de seleção e file, pode ser utilizado para escolher mais de uma opçao ou iserir mais de um arquivo**
+- accept:"Aceito",**dentro do file, pode se usar ele para definir que documentos são aceitos para envio**
+- min e max:"Máximo e Mínimo",**dentro do range, pode definir o valor mínimo e máximo da "faixa"**
+- step:"Passo",**também dentro do range, posso definir que um passo padrão. Exemplo, posso definir que ele ande em 2 em 2 passos.**
+- required:"Obrigátorio",**atributo globlal que pode ser usado para definir, quais são os campos de preenchimento obrigátorio**
+- disabled:"Desabilitado",**atributo global que pode ser usado para desabilitar a interção de um campo**
+- read only:"Somente para leitura",**atributo global que pode ser usado para campos de leitura**
+- value:"Valor",**atributo que define o valor constante/variável de um campo. Dependendo da situação**
+# Agrupamento De Campos:
+Dentro do formulário, precisamos agrupar certos campos dele para melhor visualização e leitura para o usuário, mostrando o que será importante, para fazer isso usamos uma tag chamada **``<fieldset> Para criar esse agrupamento <legend> Como Título Desse Agrupamento </legend> </fieldset>``**. Observe o exemplo abaixo:
+![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1eff2f5e-6a80-4fce-a4c9-d1af423c2136)
