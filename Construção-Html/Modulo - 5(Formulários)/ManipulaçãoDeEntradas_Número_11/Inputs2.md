@@ -1,4 +1,4 @@
-# [Continuando a Parte 1] () 
+# [Continuando a Parte 1] (https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/edit/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio/Inputs.md) 
 Retomando a parte 1 sobre as entradas, ou seja os inputs. Temos agora outros tipos como:
 ***
 ## Tipos De Entrada De Caixas De Seleção: 
