@@ -10,12 +10,12 @@
     <form action="FormularioEnviado.html" method="post">
         <p>
             <label for="input-number"> Numero </label>
-            <input type="number" name="num" id="input-number" min="0" max="" />
+            <input type="number" name="num" id="input-number" min="0" max="100" />
         </p>
 
         <p>
             <label for="input-rua"> rua </label>
-            <input type="text" name="rua" id="input-rua" />
+            <input type="text" name="rua" id="input-rua" placeholder="Digite o nome da sua rua" />
         </p>
         <p>
             <label for="input-email"> Email </label>
@@ -54,13 +54,17 @@
             <label for="input-month"> Mês </label>
             <input type="month" name="mes" id="input-month" />
         </p>
-
-        
+ 
         <p>
-            <label for="input-week"> Mês </label>
+            <label for="input-week"> Semana </label>
             <input type="week" name="semana" id="input-week" />
         </p>
         <button type="menu"> Enviar </button>
+    </form>
+    <form action="FormularioEnviado.html" method="get">
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome">
+        <button type="submit"> Enviar</button>
     </form>
 </body>
 </html>
