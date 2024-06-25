@@ -67,4 +67,3 @@ Seus tipos podem ser chamados pelo *atributo "type"(seus atributos serão falado
 - **id:Define uma identificação própria;**
 - **type:Classifica o tipo do input;**
 - **placeholder:Uma dica, do que o usuário deve inserir naquela caixa:![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5efd7067-5d20-44a6-b0ee-10455b3e6cbc)**
-
