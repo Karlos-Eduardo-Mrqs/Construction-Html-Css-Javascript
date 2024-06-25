@@ -3,6 +3,7 @@ Nesse modulo, aprenderemos a estruturar um formulário. Onde séria uma forma do
 ***
 ## Estrutura De Um Formulário
 **`` <form> </form>``: Tag que inicia o nosso formulário;**
+***
 ### Atributos nescessários para o "FORM"
 **action: Indica para qual página os dados são enviados;**
 **method: "Método/Maneira" que os dados são enviados pelo actiom. Podendo ele ser pelo corpo da página(POST) ou pela url da Página(GET)**
@@ -19,3 +20,12 @@ Os tipos do botão, podem ser denominados pelo _atributo type, podendo ser eles:
 - *submit: Botão de Envio O Formulário;*
 - *reset: Botão de Apagar/Resetar O Formulário;*
 - *button: Botão Normal;*
+***
+# Código Final: 
+```
+<form action="FormularioEnviado.html" method="get">
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome">
+        <button type="submit"> Enviar</button>
+    </form>
+```
