@@ -10,16 +10,16 @@
     <form action="FormularioEnviado.html" method="post">
         <p>
             <label for="input-number"> Numero </label>
-            <input type="number" name="num" id="input-number" min="0" max="100" />
+            <input type="number" name="num" id="input-number" min="0" max="100" disabled />
         </p>
 
         <p>
             <label for="input-rua"> rua </label>
-            <input type="text" name="rua" id="input-rua" placeholder="Digite o nome da sua rua" />
+            <input type="text" name="rua" id="input-rua" placeholder="Digite o nome da sua rua" required />
         </p>
         <p>
             <label for="input-email"> Email </label>
-            <input type="email" name="email" id="input-email" />
+            <input type="email" name="email" id="input-email" value="MeuEmail@gmail.com" readonly/>
         </p>
         <p>
             <label for="input-tel"> Telefone </label>
