@@ -46,10 +46,8 @@ Seus tipos podem ser chamados pelo *atributo "type"(seus atributos serão falado
 ##### Atributos Para o Input Área de Texto:
 - rows: Determina quantas linhas que o seu texto possui dentro  dessa área.
 ***
-
 ### Tipos De Entrada de Datas
 #### 1. **date**: Uma caixa de seleção para inserir uma data:![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8460f654-beda-4cb4-9df3-ef76887e7a98)
-
 ***
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/154d5e1c-bae1-4c11-90ac-721aa7d65388)
 ***
