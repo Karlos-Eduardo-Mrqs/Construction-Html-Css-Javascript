@@ -22,7 +22,7 @@ Seus tipos podem ser chamados pelo *atributo "type"(seus atributos serão falado
 ***
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/714fa144-e613-4e3f-abfd-ba90893ddbf5)
 ***
-4. **tel**: Uma caixa de texto para telefones:
+#### 4. **tel**: Uma caixa de texto para telefones:
 ***
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/412ae986-f7bb-40ed-ad81-d2f953737808)
 ***
