@@ -22,6 +22,7 @@ O cabeçalho é a parte superior do nosso site, onde se encontra a barra de nave
 O conteúdo é a parte central od nosso site, contendo todos os textos, imagens, ancoras, títulos e entre outros.
 O nescessário  para explicar/falar sobre um tópico que o usuário realizará a leitura. Observe:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/673f6235-b253-4941-8a75-e3672b5a3519)
+***
 **Nota-se, que temos inúmeros atributos e tags para fazer nosso conteúdo, ser o mais "chamativo para interação do usuário.
 Podemos usar as tags ``<main></main> <section> </section> <div> </div> <aside> </aside> ``**
 
