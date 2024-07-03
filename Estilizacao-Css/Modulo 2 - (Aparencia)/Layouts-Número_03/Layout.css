@@ -4,11 +4,11 @@ div{
 }
 
 p{
-    display: inline; proibe usar a largura e altura
+    display: inline;
 }
 
 span{
-    display: block; Aceita largura e altura
+    display: block;  
 }
 */
 
@@ -20,6 +20,7 @@ span{
 }
 */
 
+/*
 .d1{
     width: 150px;
     max-width: 500px;
@@ -32,3 +33,28 @@ span{
     min-width: 500px;
     max-width: 100px;
 }
+*/
+
+/*
+
+div{
+    height: 500px;
+    width: 300px;
+}
+
+span{
+    height: 200px;
+    width: 350px;
+    display: inline-block;
+}
+
+*/
+/*
+.Divisão_1{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    max-height: 250px;
+    min-height: 240px;
+}
+*/
