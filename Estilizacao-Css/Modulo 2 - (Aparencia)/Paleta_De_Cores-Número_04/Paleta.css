@@ -1,4 +1,10 @@
-
+#Par1{
+   background-color:  rgb(245,133,89);
+}
+#Par2{
+    background-color: rgba(11,066,99,255) ;
+}
+html{ background-color: #568; }
 /*  
     Bases HexaDecimais
     RGB(3 dígitos) = rgb(1,4,4) ou #1af
