@@ -1,0 +1,33 @@
+html{
+    background: aqua;
+}
+
+.box{
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.box-2{
+    display: inline-block;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.box-2a{
+    width: 50px;
+    height: 50px;
+    background: yellow;
+}
+
+.box-2aa{
+    width: 30px;
+    height: 30px;
+    background: magenta;
+}
+
+.button{
+    background: transparent;
+}
