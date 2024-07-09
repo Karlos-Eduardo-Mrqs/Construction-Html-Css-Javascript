@@ -4,9 +4,13 @@ html{
 
 .box{
     display: block;
-    width: 500px;
-    height: 450px;
+    width: 600px;
+    height: 100px;
     background-color: blue;
+    border: red solid  10px;
+    border-radius: 200px;
+    border-end-end-radius: 20p;
+    opacity: initial;
 }
 
 .box-2{
