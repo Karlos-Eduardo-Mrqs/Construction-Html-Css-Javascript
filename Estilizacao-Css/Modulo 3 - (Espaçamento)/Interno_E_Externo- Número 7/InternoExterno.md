@@ -27,6 +27,7 @@ Isso mudará dependendo de quantos números você coloque, caso coloque assim:``
 O topo e o lado inferior, estão com 20px e a esquerda e direita ficaram com 15px. É concluindo, colocando somente um valor de tamanho para a margem, todos os lados são iguais, ou seja, se adicionar a margem com  20px somente:``margin: 20px;``, elas ficaram identicas.
 
 ## Espaçamento Interno
+![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8d5eb547-ac9e-4b7d-9f16-6cac2eef17d8)
 Observando a imagem novamente, temos somente um elemento para essa função interna, ou seja, na parte de dentro; sendo ele:
 
 ### padding
