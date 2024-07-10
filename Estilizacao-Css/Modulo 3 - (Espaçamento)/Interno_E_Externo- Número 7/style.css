@@ -1,0 +1,39 @@
+html{
+    background: #999;
+}
+
+/*
+Espaçamento Interno 
+
+.section{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background: whitesmoke;
+    margin:20px;
+    padding: 15px 60px;
+    Top,Bottom,Left,Rigth
+}
+*/
+
+
+/*
+Espaçamento Externo
+.section{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background: #08f7f7;
+    border: 5px solid black;
+    margin: 20px 15px;
+}
+
+.box2{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    background: azure;
+    margin: 20px;
+    Top,Bottom,Left,Rigth
+}
+*/
