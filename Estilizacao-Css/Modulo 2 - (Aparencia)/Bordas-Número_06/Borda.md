@@ -37,3 +37,4 @@ Como bônus para encerrar esse modulo, falaremos sobre os comandos **visibility 
 ## Tipos de Visibilidade
 - unset, inherit, initial, visible: Aparecem normalmente para o usuário ;
 - invisible, hidden: Somem da tela do usuário;
+- display: none, hidden; somem da tela do usuário também.
