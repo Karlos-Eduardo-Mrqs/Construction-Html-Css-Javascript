@@ -1,0 +1,19 @@
+html{
+    background: gray;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    box-sizing: content-box;
+}
+
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: aliceblue;
+    padding: 20px;
+    box-sizing: border-box;
+}
