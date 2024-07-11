@@ -7,13 +7,26 @@ html{
     height: 150px;
     background-color: cornflowerblue;
     padding: 20px;
-    box-sizing: content-box;
+    overflow-y:scroll;
+    overflow-x: hidden;
+    white-space:nowrap ;
+    /* 
+        box-sizing: content-box;
+        150px representa o contéudo + 20px de cada lado = 190px, ele respeita a parte interna; 
+         margin: 30px;
+    */
+   
 }
+/*
+    .box2{  
+        width: 150px;
+        height: 150px;
+        background-color: aliceblue;
+        padding: 20px;
+        box-sizing: border-box;
+        150px representa a caixa inteira = 110px a caixa + 20px de cada lado; 
+        margin: 30px;
+    }
+ */
+    
 
-.box2{
-    width: 150px;
-    height: 150px;
-    background-color: aliceblue;
-    padding: 20px;
-    box-sizing: border-box;
-}
