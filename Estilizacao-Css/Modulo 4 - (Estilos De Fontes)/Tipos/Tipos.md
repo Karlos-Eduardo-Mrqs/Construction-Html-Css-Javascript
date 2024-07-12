@@ -23,5 +23,5 @@ buscaremos um site chamado [Google Fontes](https://fonts.google.com/)  e podemos
 Com essa página de exemplo, podemos definir a espessura ou grossura que a fonte vai possuir; observação, temos fontes que não possuem variações de espessura, por isso, vamos usar uma fonte chamada POPINS, que possue todas as variantes.
 Essas variantes são do nível 1 até 9, onde quanto maior o nível for, mais destacada a palavra ou letra fica e quanto menor o oposto ocorre, ficando mais sombreada. Na imagem abaixo, podemos notar isso, sendo algo semelhante com um efeito degrâde:
 ![image](https://github.com/user-attachments/assets/82df9c33-58a6-44dc-a204-5c46326ade53)
-Além disso, ele também possui quatro tipos padrões como **("lighter","normal","bold","bolder")**:
+Além disso, ele também possui quatro tipos padrões como **("lighter","normal","bold","bolder"), na imagem será representado na ordem respectivamente falado anteriormente:**
 ![image](https://github.com/user-attachments/assets/c783058d-b167-4434-8cd9-f6e04d1dbb01)
