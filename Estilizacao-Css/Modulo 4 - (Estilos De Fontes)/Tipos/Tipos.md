@@ -25,3 +25,7 @@ Essas variantes são do nível 1 até 9, onde quanto maior o nível for, mais de
 ![image](https://github.com/user-attachments/assets/82df9c33-58a6-44dc-a204-5c46326ade53)
 Além disso, ele também possui quatro tipos padrões como **("lighter","normal","bold","bolder"), na imagem será representado na ordem respectivamente falado anteriormente:**
 ![image](https://github.com/user-attachments/assets/c783058d-b167-4434-8cd9-f6e04d1dbb01)
+
+# font-style
+- italic ou oblique: _Deixa o texto com uma curva para a direita;_
+- normal: Mantém o texto padrão do jeito que esta; 
