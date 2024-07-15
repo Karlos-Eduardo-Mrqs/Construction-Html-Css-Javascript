@@ -15,24 +15,28 @@ html{
     background-color: crimson;
     padding: 20px; 
     margin: 20px;
+    float: left;
 }
 
 .box2{
     background-color: cornflowerblue;
     padding: 20px; 
     margin: 20px;
+    float: left;
 }
 
 .box3{
     background-color:darkgreen ;
     padding: 20px; 
     margin: 20px;
+    float: left;
 }
 
 .box4{
     background-color:goldenrod ;
     padding: 20px; 
     margin: 20px;
+    float: none;
 }
 /*
 float: Deslocamento(Direita,Esquerda);
