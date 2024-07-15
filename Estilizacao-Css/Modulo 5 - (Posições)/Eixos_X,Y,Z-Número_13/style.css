@@ -1,0 +1,35 @@
+html{
+    background-color: floralwhite;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box-1{
+    width: 180px; 
+    height: 150px;
+    background-color: coral;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    z-index: 1;
+}
+
+.box-2{
+    width: 180px; 
+    height: 150px;
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    z-index: 1;
+}
+
+.box-3{
+    width: 180px; 
+    height: 150px;
+    background-color:green;
+    position: absolute;
+    top: 180px;
+    left: 250px;
+    z-index: 1;
+}
