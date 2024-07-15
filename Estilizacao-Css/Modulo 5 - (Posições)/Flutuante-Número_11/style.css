@@ -8,31 +8,33 @@ html{
     padding: 20px ;
     margin-bottom: 15px ;
     color: aliceblue;
-    box-sizing: border-box;
+    margin: 100px;
 }
 
 .box1{
     background-color: crimson;
-    float: left;
-    width: 33.3%;
+    padding: 20px; 
+    margin: 20px;
 }
 
 .box2{
     background-color: cornflowerblue;
-    float: left;
-    width: 33.3%;
+    padding: 20px; 
+    margin: 20px;
 }
 
 .box3{
     background-color:darkgreen ;
-    float: left;
-    width: 33.3%;
+    padding: 20px; 
+    margin: 20px;
 }
 
 .box4{
     background-color:goldenrod ;
+    padding: 20px; 
+    margin: 20px;
 }
-
 /*
 float: Deslocamento(Direita,Esquerda);
 */
+
