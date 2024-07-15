@@ -1,0 +1,38 @@
+html{
+    background-color: #999;
+    font-size: 15px;
+    margin: 0;
+}
+
+.boxes{
+    padding: 20px ;
+    margin-bottom: 15px ;
+    color: aliceblue;
+    box-sizing: border-box;
+}
+
+.box1{
+    background-color: crimson;
+    float: left;
+    width: 33.3%;
+}
+
+.box2{
+    background-color: cornflowerblue;
+    float: left;
+    width: 33.3%;
+}
+
+.box3{
+    background-color:darkgreen ;
+    float: left;
+    width: 33.3%;
+}
+
+.box4{
+    background-color:goldenrod ;
+}
+
+/*
+float: Deslocamento(Direita,Esquerda);
+*/
