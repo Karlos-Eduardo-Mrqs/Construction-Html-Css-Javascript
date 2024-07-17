@@ -25,3 +25,19 @@ Para fazer isso é simples, basta digitarmos o comando ``console.log("Olá, Mund
 ![image](https://github.com/user-attachments/assets/6173f36d-607c-4290-92f8-96414a046408)
 Se quiser que apareça na tela, use o comando alert("Olá, Mundo !"). Onde alerta, uma mensagem na tela:
 ![image](https://github.com/user-attachments/assets/53c01b9a-b13d-4891-a154-e76a3aa00916)
+
+# Bônus 2 
+Você sabia que existe uma maneira de você executar seus comandos Javascript no terminal do VsCode ? Não ?!? Então, segue esse passo a passo para executar seus códigos pelo console:
+
+**# 1. Instalação do Node.js**
+De imediato, precisamos do Node.js, acesse o site [node.js](https://nodejs.org/pt) e instale-o. Atenção, apenas siga as instruções de instalação, não modifique nada. Ao final será mostrado essa tela aqui:
+![image](https://github.com/user-attachments/assets/34322da6-5cb5-400e-ad0c-da46470a6717)
+Digite o comando "node", fazendo assim, que realize comandos Javascript.
+
+**# 2. Instalação do VsCode**
+Em seguida, para caso você não tenha o Visual Studio Code, acesso o site [Visual Studio Code.com](https://code.visualstudio.com/). Siga as instruções de instalação e vamos em frente:
+![image](https://github.com/user-attachments/assets/2c04ec27-4712-4bc8-bb95-9f839c681b60)
+
+**# 3. Extensões adicionais**
+Agora com o VsCode instalado, teremos que instalar extensões das linguagens de programação, exemplo(Javascript,Python,C#,C++ e entre outras), auxiliares sendo usadas para te ajudar a debugar esses códigos no terminal, code.runner.
+![image](https://github.com/user-attachments/assets/287744d6-75b2-426c-8256-58c4a78c86bd)
