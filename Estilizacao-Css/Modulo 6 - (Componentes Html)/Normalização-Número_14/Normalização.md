@@ -11,5 +11,4 @@ Já sabemos que se trata de uma folha de estilo e que podemos usá-la como norma
 seja feita a remoção da formatação original dos browsers.Isso porque, caso o reset CSS seja adicionado no meio do projeto, por exemplo, pode gerar dores de cabeça já que 
 o layout foi criado utilizando como referência a formatação dos navegadores e não na padronização dos elementos que foram resetados.
 
-# Arquivo Reset Css 
-**O arquivo para a padronização de estilo para todos os navegadores [está aqui](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/normilize.css);**
+# [Arquivo Reset Css](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/normilize.css);
