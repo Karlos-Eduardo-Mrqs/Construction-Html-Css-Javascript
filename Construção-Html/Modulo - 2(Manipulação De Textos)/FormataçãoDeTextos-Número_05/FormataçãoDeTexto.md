@@ -38,8 +38,7 @@ Essas tags formam o tamanho do texto.
 
 ## Comando lorem ou Lorem 
 Um comando dentro do Visual Studio Code, que gera um texto aleatório.
-**Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit 
-ódio magnam com sequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat?**
+**Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit, ódio magnam com sequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat**
 
 # Observação das Tags apresentadas
 **Todas as tags, MENOS A TAG P**, possuem Display Inline, ou seja só ocupa o espaço que o tamanho do conteúdo tem, olhe a imagem abaixo:
