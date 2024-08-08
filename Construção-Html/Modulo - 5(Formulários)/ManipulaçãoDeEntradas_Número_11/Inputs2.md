@@ -1,22 +1,17 @@
 # [Continuando a Parte 1](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio/Inputs.md) 
-Retomando a parte 1 sobre as entradas, ou seja os inputs. Temos agora outros tipos como:
-***
-## Tipos De Entrada De Caixas De Seleção: 
-***
-### 1. **checkbox**:Uma caixa *"check"*, usada para marcação ou seleção, representado por um ⬜ : ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a55165bc-9242-4ed6-a282-8bff5f47a939)
-#### Formatação em Html(checkbox):
-`` <input type="checkbox" name="termos" id="termo"> ``
 
-### 2. **radio**: Uma caixa de única opção, representado por um ⚪: 
+## Tipos De Entrada De Caixas De Seleção: 
+
+1. **checkbox**:Uma caixa *"check"*, usada para marcação ou seleção, representado por um ⬜ : `` <input type="checkbox" name="termos" id="termo"> ``
+
+![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a55165bc-9242-4ed6-a282-8bff5f47a939)
+
+2. **radio**: Uma caixa de única opção, representado por um ⚪: 
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/e17fed6e-5578-4887-8bba-50c9179819d9)
 
-- Formatação em Html(rádio):
-```
-<input type="radio" name="aceito" id="sim">
-<input type="radio" name="aceito" id="não">
-```
-**Atenção: Esse tipo de input, precisa ter os dois ou mais rádios com o mesmo "name", para o usuário não marcar duas ao mesmo tempo:**
+**Atenção: Esse tipo de input, precisa ter os dois ou mais rádios com o mesmo "name", para o usuário não marcar duas ao mesmo tempo: 
+`` <input type="radio" name="aceito" id="sim"> <input type="radio" name="aceito" id="não"> ``**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/31753079-8474-4922-97be-a3e9736a59f8)
 
