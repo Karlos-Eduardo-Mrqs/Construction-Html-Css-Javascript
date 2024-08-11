@@ -32,3 +32,9 @@ Os operadores de atribuição são usados para atribuir valores a variáveis. Se
 4. Divisão = 20 / 5;
 5. Resto de Divisão = 20/5 = 4 e o resto de divisão 0;
 
+# Observação 
+O operador de subtração - ,pode possuir um valor negativos. Por exemplo, 8 - 16 = -8. O operador Módulo(Resto De Divisão) % , caso ficou em dúvida, veja a imagem logo abaixo:
+
+![divisc3a3o1](https://github.com/user-attachments/assets/bf6dcdec-19c0-4564-b7c5-ffdb87a07fad)
+
+O Quociente é o resultado do operador de divisão e o resto é o resultado do módulo. Por exemplo, 10 / 5 = 2, porém o resto de sua divisão é 0 .
