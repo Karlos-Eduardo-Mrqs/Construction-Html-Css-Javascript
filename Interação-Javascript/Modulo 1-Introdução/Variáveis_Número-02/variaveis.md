@@ -1,13 +1,12 @@
 # Variáveis 
-Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação. O nome “variável” é utilizado por ser um 
-tipo de conteúdo que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá do comando do usuário e o tipo de operação que é realizado.
+Variável é o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação. O nome “variável” é utilizado por ser um tipo de conteúdo que pode apresentar diferentes valores enquanto o sistema está em execução. Tudo dependerá do comando do usuário e o tipo de operação que é realizado.
 
 # Tipos de Variáveis 
-- # Variável 
+# Variável 
 Os tipos de variáveis que mudam o valor ao decorrer da programação;
 ## Sintaxe Variável
 ``var ou let nome da variável = valor da variável | var idade = 15 ou let idade = 19;``
-- # Constante 
+# Constante 
 Os tipos de variáveis que não mudam o valor ao decorrer da programação;
 ## Sintaxe Constante
 ``const nome da variável = valor da variável | const Cpf= "155.688.997-77"``
