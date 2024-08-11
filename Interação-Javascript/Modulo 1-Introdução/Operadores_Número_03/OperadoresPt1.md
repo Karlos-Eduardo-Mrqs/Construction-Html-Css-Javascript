@@ -15,7 +15,7 @@ Os operadores aritméticos são tipos de operadores usados em operações matém
 2. Subtração = 10 - 5;
 3. Multiplicação = 10 * 5;
 4. Divisão = 10 / 5;
-5. Exponencial = 10 ^ 5 ou 10 * 10 * 10 *10 * 10 * 10;
+5. Exponencial = 10 ^ 5 ou 10 * 10 *10 * 10 * 10;
 6. Resto da Divisão = (10/5 = 2) e o resto de divisão 0;
 7. Incremento = 10 + 1;
 8. Decremento = 5 - 1;
