@@ -12,11 +12,12 @@ Podendo ser representada por essa imagem:
 # Implementação Html
 O Javascript poderá ser implementado pelo Html de forma interna ou externa. Parecido com o Css, podemos fazer das seguintes formas:
 **- interna: Para implementar o Javascript internamente no HMTL, tem que usar a tag ``script`` para o html interpretar a linguagem. Dessa forma:**
+
 ![image](https://github.com/user-attachments/assets/7b58b6ee-a4c0-4653-b2bc-97c2e9d7ce25)
 Podendo adiciona-la tanto na parte do body(corpo) ou no head(cabeçalho), como preferir.
 
-**- externa: Já na parte externa, usando a mesma tag dita anteriormente, é possível adicionar um atributo chamado src, para quem fez Construção-Html e Estilização-Css, sabe do que se trata. 
-Lembrando, esse atributo é usado para ancôras ou para importações de outros arquivos. Por exemplo:**
+**- externa: Já na parte externa, usando a mesma tag dita anteriormente, é possível adicionar um atributo chamado src, para quem fez Construção-Html e Estilização-Css, sabe do que se trata.Lembrando, esse atributo é usado para ancôras ou para importações de outros arquivos. Por exemplo:**
+
 ![image](https://github.com/user-attachments/assets/e885aad6-35c7-473d-a8c7-80b3bc0f1adc)
 
 # Bônus
