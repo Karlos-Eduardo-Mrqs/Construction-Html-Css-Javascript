@@ -18,7 +18,7 @@ switch(condicao){
 }
 
 */
-
+/*
 alert("Seja Bem Vindo Usuário !");
 let senha = prompt("Digite a sua senha, para reconhece-lo: ");
 let alerta ;
@@ -41,3 +41,14 @@ switch(senha){
 }
 
 alert(alerta);
+*/
+alert("Seja Bem Vindo Usuário");
+let idade = prompt("Digite sua idade, para saber sua fase da vida :");
+
+let mensagem = (idade >= 1 && idade <= 5) ? "VOCÊ É UM BEBÊ !" 
+: (idade > 6 && idade <=10) ? "VOCÊ É UMA CRIÂNÇA !":
+(idade > 10 && idade <=14) ? "VOCÊ É UM PRÊ-ADOLESCENTE !": 
+(idade > 14 && idade < 18) ? "VOCÊ É UM ADOLESCENTE !" : 
+"VOCÊ É UM ADULTO !"  ;
+
+alert(mensagem);
