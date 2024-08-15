@@ -42,3 +42,6 @@ alert(mensagem);
 Atente-se, como o código ficou mais légivel, ficando mais simples de se ler e enteder. Olha a diferença usando o comando IF e Ternario:
 
 ![Captura de tela 2024-08-15 120148](https://github.com/user-attachments/assets/a7e438ab-c6f3-4564-90cd-13a7916ad887)
+
+A decisão de usar ou não o operador ternário em JavaScript variará de desenvolvedor para desenvolvedor.Eu recomendo utilizá-lo com até duas condições; mais do que isso, ele começa a perder seu propósito de tornar o código mais legível.Empregamos o operador ternário para atribuir diretamente a mensagem com base na condição. 
+Isso torna o código mais conciso e fácil de entender, especialmente em situações mais simples.
