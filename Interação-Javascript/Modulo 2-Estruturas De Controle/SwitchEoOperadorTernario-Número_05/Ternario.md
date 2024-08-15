@@ -1,3 +1,4 @@
+# Estrutura Condicional Com Operador Ternário
 - Operador Ternário:
 O operador condicional (ternário) é o único operador JavaScript que possui três operandos. Este operador é frequentemente usado como um atalho para a instrução if.
 ![imagem](https://github.com/user-attachments/assets/019ef20a-cf20-40ca-aa79-1ab4cda51fa3)
