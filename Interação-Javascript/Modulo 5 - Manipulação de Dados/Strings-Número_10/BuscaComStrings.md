@@ -1,4 +1,4 @@
-**[Retorne a Parte Um para Continuar]()**
+**[Retorne a Parte Um para Continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Strings-N%C3%BAmero_10/Strings.md)**
 
 # Métodos de pesquisa e verificação em strings
 As strings geralmente envolvem a busca por valores específicos ou a verificação de padrões. Aqui estão algumas das principais categorias e métodos para essas tarefas:
