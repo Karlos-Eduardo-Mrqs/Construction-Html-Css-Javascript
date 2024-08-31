@@ -1,7 +1,7 @@
 # Métodos de string JavaScript
 Sequências de caracteres constituem strings em JavaScript. Eles são tratados como tipos de dados simples. Ao invocar métodos de string em strings em JavaScript, as strings são automaticamente transformadas em objetos string.
 ## 1. Métodos de medição e recuperação de caracteres
-- **comprimento:** Retorna o comprimento de uma string.
+- **lenght:** Retorna o comprimento de uma string.
 ![imagem](https://github.com/user-attachments/assets/d3c13bfe-171c-47e4-88c1-bde61e718306)
 
 - **charAt(index):** Retorna o caractere em uma posição especificada.
@@ -54,4 +54,4 @@ Ou, se preferir, você pode usar o operador "+" para unir as strings:
 - **replace(searchValue, newValue):** Substitui a primeira ocorrência de um valor especificado por outro valor em uma string.
 ![imagem](https://github.com/user-attachments/assets/35468e09-fbc7-4906-9a7f-29efb6cf57fb)
 
-[Continue na Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data% 20Manipulação/Strings-Number_10/Search_Strings.md)
+[Continuando Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Strings-N%C3%BAmero_10/BuscaComStrings.md)
