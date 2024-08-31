@@ -28,7 +28,7 @@ O termo this em JavaScript refere-se ao contexto de execução atual, ou seja, a
 
 ![imagem](https://github.com/user-attachments/assets/f699fa80-2c14-4bc0-8df6-34ec88345b62)
 
-3. **Função de construção:**Dentro de uma função construtora, this refere-se ao novo objeto que está sendo criado.
+3. **Função de construção:** Dentro de uma função construtora, this refere-se ao novo objeto que está sendo criado.
 
 ![imagem](https://github.com/user-attachments/assets/add62e4e-45a7-495f-8b23-341329776e62)
 
