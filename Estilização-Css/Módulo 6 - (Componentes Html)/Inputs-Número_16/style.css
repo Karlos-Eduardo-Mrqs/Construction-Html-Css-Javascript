@@ -1,0 +1,47 @@
+html{
+    background-color: #999;
+    margin: 0;
+}
+
+.box{
+    color: aliceblue;
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+label,input,textarea,select{
+    display: block;
+    width: 100%;
+    box-sizing:border-box;
+    padding: 10px;
+    color: black;
+}
+
+textarea{
+    height: 200px;
+    resize: none;
+}
+
+button{
+    border: none;
+    background-color: darkgreen;
+    color: aliceblue;
+    font-size: 16px;
+    padding: 10px 60px;
+    border-radius: 30px;
+}
+
+.form-action{
+    text-align: center;
+}
+
+input::placeholder{
+    color: red;
+}
+
+button:hover{
+    background-color: rgb(1, 255, 1);
+    cursor: pointer;
+}
