@@ -1,18 +1,15 @@
 # Links e   ncoras
 Chegamos agora na manipulação de links e âncoras. Junto desses dois conceitos, podemos navegar duas ou mais páginas, em uma única página.
-
 ## Conceitos
 Uma conexão de um ponto para outro, um link é uma referência a outro documento, esse mesmo conceito se aplica às âncoras.Um site que podemos usar esse exemplo, é o Wikipedia. Observe:
 ![ExemploDeAncoras](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/06ad7f4a-0be0-42e9-9630-353355451419)
 
 Nota-se que os links estão destacados em azul? Ao clicar nessas palavras em azul, você é direcionado para outra página; onde neste caso, a página irá te direcionar para uma explicação de uma espécie de dinossauros.
-
 ## Atributos e Estrutura
 Sua estrutura funciona dessa maneira: ``<a href="Pagina2.html">Próxima página</a>``. Funcionando da seguinte maneira, entre a abertura e fechamento fica *o texto sublinhado em azul*, assim como fica no Wikipedia.Juntamente dos seus atributos:
 1. **href que diz qual arquivo ele vai alternar**;
 2. **title, onde "descreve" para onde você vai**;
 3. **target traduzindo para alvo, podendo esse link abrir em outra página ou na mesma página**
-
 ## Bizu dos Atributos
 No 1.atributo, às vezes nós erramos o caminho/url da página para acessá-las correto? Às vezes, perdemos certo tempo com isso. Mas, não quando temos Visual Studio Code para isso,**utilizando o atalho "CTRL+Tecla De Espaço", podemos fazer o caminho/url com mais facilidade**.
 ![ExemploDeCTRL+Espaço](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/bc2abd64-6a4a-4326-829a-6dc5b34c3eff)
