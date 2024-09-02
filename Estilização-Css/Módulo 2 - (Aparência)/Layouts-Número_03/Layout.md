@@ -16,7 +16,7 @@ Podemos perceber que dentro de cada elemento, se comporta de uma maneira diferen
 ## Tipos de Displays
 - **block:** Ocupa uma linha inteira da página. Porém, aceita modificações de Altura e Largura(Explica depois). Visto logo acima.
 - **inline:** Ocupa somente o tamanho que texto possui. Porém, proíbe as alterações de Altura e Largura(Explica depois). Visto logo acima.
-- **inline-block:** Depois será falado ! Não agora.
+- **inline-block:** Depois será falado !
 # Height e Width
 Indo para os atributos width e height, traduzindo ficaria como "Altura e Largura". Podemos manipular a altura e largura dos componentes em Html. Observe quando atribuímos a Largura da Div para 500px. Ou seja, toda a área destacada da cor azul é ocupada pela Div:
 
