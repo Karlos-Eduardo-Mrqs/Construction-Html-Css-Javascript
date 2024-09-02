@@ -1,7 +1,6 @@
 # Posições Específicas
 Na prática anterior, aprendemos a mexer com a posição flutuante, movimentando os objetos somente para a esquerda,direita e nenhum deles, deixando o objeto sobreposto.
 Agora, aprenderemos a como movimentar os objetos para qualquer canto ou direção que quiser.
-
 # Plano Cartesiano ?
 ![istockphoto-1363110242-612x612](https://github.com/user-attachments/assets/4b7711b3-54a0-469c-8a2b-ac40c46825d5)
 
@@ -12,7 +11,6 @@ A manipulação de posições dentro do css, podemos dizer que é algo semelhant
 Claro que não está 100% alinhado, porém dá para entender. Como vemos nessa imagem, a altura representa o Y e a largura representa o X; quando pegarmos um objeto.Observação, ignore as linhas tortas; como podemos ver uma altura de 600px e largura de 600px e olhe como isso está representando os eixos x e y:
 
 ![image](https://github.com/user-attachments/assets/a6877519-2511-489a-a59e-3f006e9cf107)
-
 # Position
 ![image](https://github.com/user-attachments/assets/5a03088c-575e-4329-b81f-5b552e541708)
 
@@ -21,7 +19,6 @@ Podemos fazer isso com o comando ``position: em conjunto dos comandos top,left,r
 
 ## Static
 Posição estática, é uma posição padrão, onde caso você não defina, a posição será esta;
-
 ## Absolute
 Posição Absoluta, é uma posição alterável, podendo alterar ela com os comandos `` top: Para cima , left: Para Esquerda , Right: Para Esquerda e Bottom: Para Baixo ``. 
 Para deixarmos essa caixa para cima e ao lado, usaremos esse tipo de posição, usando os comandos top, para elevar o objeto para cima e right para movimentar para direita. Vejamos o resultado:
@@ -29,18 +26,10 @@ Para deixarmos essa caixa para cima e ao lado, usaremos esse tipo de posição, 
 ![image](https://github.com/user-attachments/assets/a9ddbf77-5a07-45da-a018-a183a78adcce)
 
 ### POSIÇÔES TOP,BOTTOM,RIGHT,LEFT
-1. TOP: 
-Quanto menor o número TOP no Absolute, mais ele sobe; Quanto maior o número TOP no Absolute, mais ele desce;
-
-2. BOTTOM:
-Quanto menor o número BOTTOM no Absolute, mais ele desce; Quanto maior o número BOTTOM no Absolute, mais ele sobe;
-
-3. RIGHT:
-Quanto menor o número RIGHT no Absolute, mais ele vai para direita; Quanto maior o número RIGHT no Absolute, mais ele vai para esquerda;
-
-4. LEFT:
-Quanto menor o número LEFT no Absolute, mais ele vai para esquerda; Quanto maior o número LEFT no Absolute, mais ele vai para direita;
-
+1. **TOP:** Quanto menor o número TOP no Absolute, mais ele sobe; Quanto maior o número TOP no Absolute, mais ele desce;
+2. **BOTTOM:** Quanto menor o número BOTTOM no Absolute, mais ele desce; Quanto maior o número BOTTOM no Absolute, mais ele sobe;
+3. **RIGHT:** Quanto menor o número RIGHT no Absolute, mais ele vai para direita; Quanto maior o número RIGHT no Absolute, mais ele vai para esquerda;
+4. **LEFT:** Quanto menor o número LEFT no Absolute, mais ele vai para esquerda; Quanto maior o número LEFT no Absolute, mais ele vai para direita;
 ## Relative 
 Vamos olhar a imagem de nossa página novamente:
 
