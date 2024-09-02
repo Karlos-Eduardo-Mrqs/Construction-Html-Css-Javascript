@@ -1,10 +1,10 @@
+[Leia O Número Anterior !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%205%20-%20(Posi%C3%A7%C3%B5es)/Poses-N%C3%BAmero_12/Poses.md).
 # Posição de visualização
-Chegamos à parte final do posicionamento CSS, View Position. Onde esta parte é uma continuação direta de [Posições-Number_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%205%20-%20(Posi%C3%A7%C3%B5es)/Poses-N%C3%BAmero_12/Poses.md).
+Chegamos à parte final do posicionamento CSS, View Position.
 # Plano cartesiano
-Resumindo o que foi dito na prática anterior, No plano cartesiano temos dois eixos X e Y. Dentro do Styling, ou seja, no css eles são representados como X sendo largura e Y sendo altura. Porém, temos um terceiro, que é o eixo z, demonstrando a visão do usuário em relação ao monitor e ao tamanho da tela. Assim como nesta imagem, podemos dizer que Z é a visão externa do usuário, Y é a altura e X é a largura:
+Resumindo o que foi dito na prática anterior, no plano cartesiano temos dois eixos X e Y. Dentro do Styling, ou seja, no css eles são representados como X sendo largura e Y sendo altura. Porém, temos um terceiro, que é o eixo z, demonstrando a visão do usuário em relação ao monitor e ao tamanho da tela. Assim como nesta imagem, podemos dizer que Z é a visão externa do usuario, Y é a altura e X é a largura:
 
 ![imagem](https://github.com/user-attachments/assets/83e7933c-fe6a-4d63-8f19-b2a481d992be)
-
 # Índice Z
 ![imagem](https://github.com/user-attachments/assets/d09cd865-4941-4df2-9a02-fc3ed7bf7a91)
 

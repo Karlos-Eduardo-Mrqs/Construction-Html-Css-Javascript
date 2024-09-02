@@ -43,13 +43,10 @@ Para que a caixa D possa ser manipulada dentro da caixa C, usaremos a Posição 
 Vetores posicionais referenciam a caixa C; Note quando aplicarmos essa posição na caixa C e manipularmos a caixa D, com 0px no Top e Right. **Além disso, POSIÇÕES TOP,BOTTOM,RIGHT,LEFT funcionam da mesma maneira que a posição absoluta, tendo que levar em conta, quem você usará como referência para controlar o conteúdo internamente:**
 
 ![image](https://github.com/user-attachments/assets/28d092d1-2ba5-4821-9b39-1e145d729a6a)
-
 ## Fixed
 Posição Fixa, fixando ou até mesmo prendendo o objeto em uma posição, por exemplo, na nossa página queremos que a nossa caixa Box2, fique na parte superior da tela e quando arrastar-lá para baixo, ele se manterá, no local que deixou. Mesmo arrastando a tela para baixo, a caixa Box2, se manteve naquela exata posição;**Usado em barras de navegação ou semelhantes**:
 
 ![image](https://github.com/user-attachments/assets/939f2f0e-f3fd-4b71-9769-89823d7f3325)
-
 ## Sticky
 Posição colada, diferentemente da posição fixa, essa posição ele pode aparecer na tela de forma grudada; aparecendo quando o objeto desaparecer, sendo visível novamente para a leitura. Sendo semelhante com a fixa, porém fica grudada com a tela ao não ser visível na tela:
-
 ![image](https://github.com/user-attachments/assets/478e5c12-75be-4efe-826e-c6cffd069ca9)
