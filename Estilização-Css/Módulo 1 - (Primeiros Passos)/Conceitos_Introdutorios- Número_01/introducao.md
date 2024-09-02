@@ -37,3 +37,4 @@ CSS5 ainda não é uma especificação oficial, mas representa potenciais desenv
 Apesar de lançada em 2010, CSS3 é a última versão da Folha de Estilo em Cascata e veio para acrescentar de forma melhorada das versões anteriores.A melhor novidade é em relação a flexibilidade na criação de layouts, trazendo mais autonomia para os webdesigners e também desenvolvedores, que de certa forma estão ligados ao visual do site.Com o CSS3, é possível elaborar cantos arredondados, sombras, efeitos gradientes, animações e efeitos de transição, dentre outras opções.
 
 # [Referencia](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#Estilos_CSS_Interno_Externo_e_Inline)
+# [Leia A Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos)/Conceitos_Introdutorios-%20N%C3%BAmero_01/Conceitos_Formata%C3%A7%C3%A3o.md)

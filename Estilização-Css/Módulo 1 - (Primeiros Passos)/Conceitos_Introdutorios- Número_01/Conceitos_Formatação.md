@@ -1,11 +1,11 @@
+# [Leia a Introdução Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos)/Conceitos_Introdutorios-%20N%C3%BAmero_01/introducao.md)
 # Conceitos Básicos
 O Css é uma ferramenta muito potente que possibilita criar diversas funcionalidades ao invés de usar JavaScript ou outra linguagem mais pesada. Se usado com moderação, CSS pode viabilizar uma ótima experiência ao desenvolvedor e usuários das páginas web.
-
 # Estrutura Para o Css
 Como foi citado na introdução, o HTML e CSS são como se fossem "parceiros", um para a estrutura(HTML) e outro para estilização(Css). Sendo necessário, um documento html para fazer a estilização, onde será inserido a tag STYLE no HEAD, sendo assim, ficará no cabeçalho. Já a estrutura Css, será explicado logo abaixo.
 
 ## Formatação de Estrutura Css
-Dentro do Css é utilizado como um conjunto de regras. Onde essas regras precisam de um "Seletor" para estilização e um bloco de instrução. Onde o Seletor, representa as tags html, já o bloco de instrução, são atributos que são inseridos para atribuir naquela tag em específico.
+Dentro do Css é utilizado como um conjunto de regras. Onde essas regras precisam de um "Seletor" para estilização e um bloco de instrução. Onde o Seletor, representa as tags html, já o bloco de instrução, são atributos que são inseridos para atribuir naquela tag em específico. Antes de começar a estilização, devemos primeiramente abrir a tag ``<style> Para abrir o Css </style> ``. Depois escolhemos qual tag html será estilizada e depois que atributo ela vai receber.
 
 ```
     <style>
@@ -15,70 +15,26 @@ Dentro do Css é utilizado como um conjunto de regras. Onde essas regras precisa
         }
     </style>
 ```
-
-## Explicação
-Antes de começar a estilização, devemos primeiramente abrir a tag ``<style> Para abrir o Css </style> ``. Depois escolhemos qual tag html será estilizada e depois que atributo ela vai receber.
-
-### Exemplo Prático
-
+## Exemplo Prático
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/0f148e54-9e32-4891-a7a8-23c13ee276fa)
 
-Temos esse html de exemplo, podemos dizer que todos os parágrafos fiquem da cor azul, Como fazemos isso ? Simples:
-
-```
-    <style>
-        p{
-            color: blue;
-        }
-    </style>
-```
-
-#### Resultado:
+Temos esse html de exemplo, podemos dizer que todos os parágrafos fiquem da cor azul, Como fazemos isso ? Simples: ``<style>p{color: blue;}</style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/294a315f-afa5-4eae-b2e4-c3a36c5da837)
 
-Fazendo que todas as  tags ``<p> </p> ``, fossem caracterizadas pela cor azul. Agora, e o Texto 4? É uma tag ``<span> </span>`` e vamos supor que eu quero deixar essa tag, com um fundo com a cor vermelha, Como iremos atribuir esse fundo ? Simples:
-
-```
-    <style>
-        span{
-            background-color: red;
-        }
-    </style>
-```
-
-#### Resultado:
+Fazendo que todas as  tags ``<p> </p> ``, fossem caracterizadas pela cor azul. Agora, e o Texto 4? É uma tag ``<span> </span>`` e vamos supor que eu quero deixar essa tag, com um fundo com a cor vermelha, Como iremos atribuir esse fundo ? Simples: ``<style>span{background-color: red;}</style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2977944f-fecf-45e9-8d6a-723661d236ab)
 
 #### Métodos De Chamada
-Como você pode ver pelo Exemplo Prático, o css estiliza uma tag pelo nome da tag igualmente citado pelos Parágrafos e Texto 4. Mas, podemos chamá-los de outra maneira, **pelos atributos html "id" e "class"**
+**Como você pode ver pelo Exemplo Prático, o css estiliza uma tag pelo nome da tag igualmente citado pelos Parágrafos e Texto 4. Mas, podemos chamá-los de outra maneira, pelos atributos html "id" e "class"**
 
 ## Id
-Conhecido como atributo de identificação, ou seja, todas as tags terão que ter sua própria ID. Para chamá-la no css é simples, vamos supor que o Texto 4, tenha uma ID chamada de Span1 e quero deixar a cor do Span1 Magenta, Como estilizaremos isso? Simples:
-```
-    <style>
-        #Span1{
-            color: magenta;
-        }
-    </style>
-```
-### Resultado
+Conhecido como atributo de identificação, ou seja, todas as tags terão que ter sua própria ID. Para chamá-la no css é simples, vamos supor que o Texto 4, tenha uma ID chamada de Span1 e quero deixar a cor do Span1 Magenta, Como estilizaremos isso? Simples: ``<style>#Span1{color: magenta;}</style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/eef2c3f9-09ec-4780-b724-72d54d8e6ce4)
 
 ## Class
-Conhecido como atributo de classificação, ou seja, podemos dizer que ele é como se fosse um filtro para atribuir estilo para inúmeras tags html de uma vez. Como assim ? Por exemplo, imagine que todos os parágrafos possuem uma classe chamada ParGrf1, e todos que possuem essa classe terão seu fundo de cor preta e a cor da fonte para branco. Estilizando dessa maneira:
-
-```
-    <style>
-        .ParGrf1{
-            background-color: black;
-            color:white;
-        }
-    </style>
-```
-
-#### Resultado:
+Conhecido como atributo de classificação, ou seja, podemos dizer que ele é como se fosse um filtro para atribuir estilo para inúmeras tags html de uma vez. Como assim ? Por exemplo, imagine que todos os parágrafos possuem uma classe chamada ParGrf1, e todos que possuem essa classe terão seu fundo de cor preta e a cor da fonte para branco. Estilizando dessa maneira:``<style>.ParGrf1{ background-color: black; color:white; } </style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/6c2033ce-eda8-49db-b832-fd6e52af48a7)
