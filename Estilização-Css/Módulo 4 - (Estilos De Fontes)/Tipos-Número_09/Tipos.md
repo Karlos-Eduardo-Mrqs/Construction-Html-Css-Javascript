@@ -1,6 +1,5 @@
 # Tipos de Fontes 
 Estamos agora no módulo 4, vamos aprender a modificar os tipos de fontes.
-
 # font-family 
 ![image](https://github.com/user-attachments/assets/f3e121ae-5a5f-40ae-bae2-e3b423d839dd)
 
@@ -16,12 +15,12 @@ Agora vamos dizer que eu quero que a caixa com a cor bege, mostrada logo acima, 
 
 ![image](https://github.com/user-attachments/assets/500c317c-eb99-4491-a90c-4acc406d924f)
 
-## Importando Fontes Personalizadas
+## [Importando Fontes Personalizadas](https://fonts.google.com/)
 Dentro do Visual Studio Code, existem inúmeras fontes. Mas, é claro que não tem todas, e ás vezes queremos uma personalizada; para pegarmos uma personalizada, 
-buscaremos um site chamado [Google Fontes](https://fonts.google.com/) e podemos puxar a fonte personalizada de duas maneiras:
+buscaremos um site chamado Google Fonts, onde podemos puxar a fonte personalizada de duas maneiras:
 
-1. Tag Link: Ao escolher a fonte desejada, **Clique em Get Code e depois Get Embed Code. Ao escolher a opção link, só copiar o código e colá-lo acima da tag link do css**;
-2. Import: Ao escolher a fonte desejada, **Clique em Get Code e depois Get Embed Code. Ao escolher a opção @import, só copiar o código e colá-lo no começo do arquivo.css**;
+1. **Tag Link:** Ao escolher a fonte desejada. Clique em Get Code e depois Get Embed Code. Ao escolher a opção link, só copiar o código e colá-lo acima da tag link do css;
+2. **Import:**Ao escolher a fonte desejada. Clique em Get Code e depois Get Embed Code. Ao escolher a opção @import, só copiar o código e colá-lo no começo do arquivo.css;
 
 # font-weight
 ![image](https://github.com/user-attachments/assets/a5fa6b36-db57-44ff-b536-1b4de0ebd112)
@@ -36,4 +35,4 @@ Além disso, ele também possui quatro tipos padrões como **("lighter","normal"
 
 # font-style
 - italic ou oblique: _Deixa o texto com uma curva para a direita;_
-- normal: Mantém o texto padrão do jeito que está; 
+- normal: Mantém o texto padrão do jeito que está;
