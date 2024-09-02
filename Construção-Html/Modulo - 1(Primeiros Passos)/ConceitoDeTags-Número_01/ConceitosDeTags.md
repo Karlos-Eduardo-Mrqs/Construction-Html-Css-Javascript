@@ -1,3 +1,4 @@
+# [Leia A Introdução Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/Introdu%C3%A7%C3%A3o.md)
 # O que são Tags e Blocos ?
 As Tags são conhecidas como Blocos; onde todo o seu conteúdo é _"anexado"_ por elas. Por Exemplo: ``<tag> Conteúdo </tag> ``. Como pode ver, a TAG possui abertura, fechamento e seu conteúdo fica no meio._
 
