@@ -1,14 +1,12 @@
 # Posição Flutuante
-Com o Módulo 5 em mãos, aprenderemos a como manipular as posições dos objetos, começando pela posição flutuante;
-
+Com o Módulo 5 em mãos, aprenderemos a como manipular as posições dos objetos, começando pela posição flutuante.
 # Float
 ![image](https://github.com/user-attachments/assets/3fa946c3-9b3c-43f9-8d5b-930480e37e97)
 
 Usaremos essa página de exemplo, com quatro caixas divisórias classificadas box. Para aprendermos a lidar com a posição flutuante podemos usar o comando ``float ``, com os tipos:
-- left, inline-start: O objeto começará na esquerda;
-- right, inline-end: O objeto irá para a direita;
-- none: O objeto se mantém o mesmo;
-
+- **left, inline-start:** O objeto começará na esquerda;
+- **right, inline-end:** O objeto irá para a direita;
+- **none:** O objeto se mantém o mesmo;
 ## Variações do Float 
 **1. Todos para a esquerda ou começando na linha:**
 
