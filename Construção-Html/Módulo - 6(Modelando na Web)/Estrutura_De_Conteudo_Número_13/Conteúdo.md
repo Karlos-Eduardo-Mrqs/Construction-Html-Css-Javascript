@@ -1,5 +1,6 @@
+# [Leia A Estrutura Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%206(Modelando%20na%20Web)/Estrutura_N%C3%BAmero_12/Estrutura.md)
 # Conteúdo Das Páginas Web
-Na pasta anterior(Estructura Número _12), aprendemos a observar e interpretar os blocos dentro das páginas Web. E agora, faremos o conteúdo principal e diferenciação delas, tendo elas duas partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
+Na pasta anterior(Estrutura-Número_12), aprendemos a observar e interpretar os blocos dentro das páginas Web. E agora, faremos o conteúdo principal e diferenciação delas, tendo elas duas partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
 ## Cabeçalho
 O cabeçalho é a parte superior do nosso site, onde se encontra a barra de navegação(conjunto de âncoras), conta, suporte ou fale conosco e etc. Observe:
 
