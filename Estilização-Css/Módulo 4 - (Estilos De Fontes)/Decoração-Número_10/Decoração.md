@@ -21,7 +21,6 @@ Já que aplicamos a cor vermelha na segunda caixa, faremos uma alinhação no te
 
 # Linhas
 Indo agora para as linhas, sendo bem parecido com as bordas, usamos o comando ``text-decoration: tipo da borda; ``. 
-
 # [Bordas aqui !](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Estilizacao-Css/Modulo%202%20-%20(Aparencia)/Bordas-N%C3%BAmero_06/Borda.md) 
 
 ![image](https://github.com/user-attachments/assets/1296490c-960f-4af8-ad3b-d92c78058732)
