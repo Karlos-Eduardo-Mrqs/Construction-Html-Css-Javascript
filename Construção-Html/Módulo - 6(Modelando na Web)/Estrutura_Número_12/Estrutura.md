@@ -16,5 +16,6 @@ Novamente no G1, percebemos que em um único bloco temos um título e um parágr
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/ad941bc8-3b7b-4022-ace7-2f53d361220f)
 Agora no Globo Play, temos uma "coleção de imagens" dos programas mais procurados, juntamente de um título menor.
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/9715632a-4193-4293-9ff4-568e89b57082)
-Nessa mesma tela no Globo Play, analisamos uma área de pesquisa com uma entrada(input) acompanhada de um ícone.
-**Ou seja, sabemos que temos blocos separados. Mas, porque utilizamos eles? Simples, para melhor organização e estilização nas páginas, facilitando o processo. Agora, como fazemos esses blocos e nos diferenciamos deles ?**
+Nessa mesma tela no Globo Play, analisamos uma área de pesquisa com uma entrada(input) acompanhada de um ícone.**Ou seja, sabemos que temos blocos separados. Mas, porque utilizamos eles? Simples, para melhor organização e estilização nas páginas, facilitando o processo. Agora, como fazemos esses blocos e nos diferenciamos deles ?**
+
+# [Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%206(Modelando%20na%20Web)/Estrutura_De_Conteudo_N%C3%BAmero_13/Conte%C3%BAdo.md)
