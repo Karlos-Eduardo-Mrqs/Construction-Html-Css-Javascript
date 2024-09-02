@@ -13,8 +13,7 @@
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/31753079-8474-4922-97be-a3e9736a59f8)
 
-3. **select**: Caixas de opções, onde só pode escolher um.
-- **Formatação em Html(Select):** ``<select name="opcoes" id="opcoes"> <option value="op1"> Opção 1 </option> </select>``
+3. **select**: Caixas de opções, onde só pode escolher um.``<select name="opcoes" id="opcoes"> <option value="op1"> Opção 1 </option> </select>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d98c1e49-94aa-4cd4-a5b0-0611bfa830af)
 ## Tipos De Entrada De Botões
