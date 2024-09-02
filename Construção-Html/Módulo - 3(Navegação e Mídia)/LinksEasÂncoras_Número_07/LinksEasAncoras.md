@@ -1,4 +1,4 @@
-# Links e   ncoras
+# Links e Âncoras
 Chegamos agora na manipulação de links e âncoras. Junto desses dois conceitos, podemos navegar duas ou mais páginas, em uma única página.
 ## Conceitos
 Uma conexão de um ponto para outro, um link é uma referência a outro documento, esse mesmo conceito se aplica às âncoras.Um site que podemos usar esse exemplo, é o Wikipedia. Observe:
