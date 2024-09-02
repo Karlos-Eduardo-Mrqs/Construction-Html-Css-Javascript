@@ -35,7 +35,7 @@ Observe que na tabela ele criou o rodapé com os dois espaços corretamente. Por
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/93c426ca-1247-440d-8c2f-228e4dd3c7ca)
 
-## [Código Final]()
+## [Código Final](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/tabelas.html)
 
 # Desafio
 Está faltando uma tabela, a dos professores ! **O desafio é o seguinte, com os ensinamentos aqui, replique a tabela professores em HTML. Qualquer dúvida comente nas issues, ok ? Tabela dos professores, logo abaixo:**
