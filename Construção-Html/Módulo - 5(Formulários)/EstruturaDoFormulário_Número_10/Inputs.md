@@ -66,4 +66,4 @@ Seus tipos podem ser chamados pelo *atributo "type"(seus atributos serão falado
 - **pattern: Define o padrão comum. No caso do telefone seria esse : ^\([1-9]{2}\) (?:[2-8]|9[0-9])[0-9]{3}\-[0-9]{4}$;[Explicação](https://pt.stackoverflow.com/questions/46672/como-fazer-uma-express%C3%A3o-regular-para-telefone-celular).**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5efd7067-5d20-44a6-b0ee-10455b3e6cbc)
 
-# [Continua Na Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/Manipula%C3%A7%C3%A3oDeEntradas_N%C3%BAmero_11/Inputs2.md)
+# [Continua Na Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/Manipula%C3%A7%C3%A3oDeEntradas_N%C3%BAmero_11/Inputs2.md)
