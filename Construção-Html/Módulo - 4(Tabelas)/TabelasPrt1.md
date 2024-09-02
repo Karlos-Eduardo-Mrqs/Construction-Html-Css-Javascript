@@ -2,7 +2,6 @@
 Dentro do Html, podemos criar tabelas. Onde estão listas que possuem duas dimensões linhas e colunas. Apresentando os dados de maneira mais organizada e visual.
 ## Tabela Exemplo que iremos utilizar
 ![ExemploDeTabela](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/076d9f07-f3b6-435b-a5f0-4bc7f43996dc)
-
 Para construirmos na prática uma tabela em HTML, utilizaremos essas duas tabelas como referência.**Começando pelos alunos e depois os professores**.
 ## Observação
 **Depois deixaremos a tabela similar a imagem com os atributos. Por enquanto, faremos a tabela primeiro e depois a organização**
@@ -65,3 +64,5 @@ Agora, começaremos a criar o corpo de nossa tabela com as tags:
 ### Ilustração Final Da Tabela Construída
 Observação, para fazer os outros dados "CTRL+C" no TR do TBody,"CTRL+V" embaixo do primeiro TR. Mudando os dados somente.
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f96549d1-4082-4ad6-9555-b878a1667a60)
+
+# [Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/TabelaPrt2.md)
