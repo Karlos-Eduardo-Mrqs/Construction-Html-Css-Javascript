@@ -1,8 +1,6 @@
 # Entradas de estilo
 Neste capítulo, abordaremos o estilo das entradas, chamadas entradas com css
-
 # Página de exemplo
-
 ![imagem](https://github.com/user-attachments/assets/fdf6458e-53e4-4133-bb3d-7caf03324232)
 
 Usaremos esta página aqui para melhorá-la e torná-la mais bonita. Começaremos então a modificar o comportamento do elemento da tela que está sendo bloqueado, sua largura para 100% e a cor da fonte para preto:
@@ -19,16 +17,12 @@ A seguir, vamos aumentar a altura da área de texto para 200px:
 
 # Rezize o atributo
 Dentro do css, temos um atributo chamado `` resize: resize type; `` onde podemos manipular como a área de texto se move. Por exemplo, neste campo podemos movê-lo horizontalmente e verticalmente, ou seja, para cima e para baixo, para a esquerda e para a direita. Danificando as dimensões dos demais campos, isso não ocorre quando utilizamos o redimensionamento.
-
 ## Tipos de redimensionamento
-- both:
-Padrão, move a caixa de texto para todos os lados;
-- horizontal:
-Move-se horizontalmente, ou seja, para a esquerda e para a direita;
-- vertical:
-Move-se verticalmente, ou seja, para cima e para baixo;
-- none:
-Bloqueia o movimento da caixa de texto;
+
+- both: Padrão, move a caixa de texto para todos os lados;
+- horizontal: Move-se horizontalmente, ou seja, para a esquerda e para a direita;
+- vertical: Move-se verticalmente, ou seja, para cima e para baixo;
+- none: Bloqueia o movimento da caixa de texto;
 
 # Botão 
 Agora focando no estilo do botão, vamos remover sua borda e aplicar um fundo verde, por se tratar de um botão de envio:
@@ -43,7 +37,7 @@ Para fechar o botão, vamos centralizá-lo com text-align:center :
 
 ![imagem](https://github.com/user-attachments/assets/fc8b3cf3-2f0b-4c79-a59f-03af35e5ce40)
 
-## Bônus
+# Bônus
 Além disso, podemos aplicar estilo ao placeholder (as mensagens sombreadas no campo de entrada nome e área de texto), utilizando um pseudocódigo chamado input:placeholder, fazendo com que apenas o placeholder de entrada seja estilizado. Concluindo, com outro comando visto no anterior capítulo, botão:hover, alterando o botão quando focado ou pressionado com o ponteiro (que também será alterado para ponteiro):
 
 ![imagem](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)

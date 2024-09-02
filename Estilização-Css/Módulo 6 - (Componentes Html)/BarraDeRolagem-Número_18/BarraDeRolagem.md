@@ -1,6 +1,5 @@
 # Barra De Rolagem 
 Dentro do css, podemos estilizar a barra de rolagem do corpo da nossa página.
-
 ## Exemplo 
 ![image](https://github.com/user-attachments/assets/42ceca08-7e99-4479-9e2e-4b935b490930)
 
