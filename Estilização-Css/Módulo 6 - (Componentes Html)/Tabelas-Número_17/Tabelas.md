@@ -9,7 +9,7 @@ Usando essa tabela de referência, vamos fazer que a tabela abaixo, fique pareci
 ![image](https://github.com/user-attachments/assets/f028ef37-b682-4733-88ba-d9f9a82054c3)
 
 ## Estilização Da Tabela 
-Para não ficarmos perdidos com muitos detalhes, iremos iniciar o estilo pela parte do titulo(caption). 
+Para não ficarmos perdidos com muitos detalhes, iremos iniciar o estilo pela parte do titulo(caption).
 
 ## Caption
 No titulo da tabela, aplicaremos o tamanho da fonte de 15px com preenchimento de 10px horizontal e 60px vertical e maior destaque com a fonte:
@@ -31,7 +31,6 @@ Posicionaremos o total para o canto junto do número de carros:
 ![image](https://github.com/user-attachments/assets/1ba4d97a-7b3b-4a0b-bf78-1929942b593d)
 ## Efeito de Hover
 ![image](https://github.com/user-attachments/assets/e3b9adff-25eb-4e0d-bec9-cc4f0d074807)
-
 # Estilo De Css
 ```
 html{
