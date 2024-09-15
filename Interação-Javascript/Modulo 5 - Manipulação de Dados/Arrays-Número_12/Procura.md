@@ -1,5 +1,4 @@
-# [Leia a parte 1!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And% 20Dados%20Manipulação/Arrays-Number_12/Array_Manipulation.md)
-
+# [Leia a parte 1!]()
 # Métodos de pesquisa de array Javascript
 
 ## Métodos de pesquisa de índice 
