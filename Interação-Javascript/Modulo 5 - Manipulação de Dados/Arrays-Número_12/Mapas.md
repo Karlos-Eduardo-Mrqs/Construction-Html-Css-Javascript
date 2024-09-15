@@ -1,4 +1,4 @@
-# [Leia a parte 2!]()
+# [Leia a parte 2!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Arrays-N%C3%BAmero_12/Procura.md)
 
 # Mapas JavaScript
 O objeto JavaScript Map contém pares de valores-chave e preserva o pedido de inserção original. Suporta qualquer valor, incluindo objetos e primitivos, como chaves ou valores. Este recurso permite a recuperação e manipulação eficiente de dados, tornando o Map uma ferramenta versátil para gerenciamento de coleções.
