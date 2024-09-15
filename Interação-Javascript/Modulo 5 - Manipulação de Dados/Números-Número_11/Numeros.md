@@ -37,6 +37,7 @@ Os números JavaScript são tipos de dados primitivos e, ao contrário de outras
 - **valueOf():** Retorna o valor primitivo de um objeto numérico.
 ![imagem](https://github.com/user-attachments/assets/ebeba10b-6135-4eef-849b-7b40a85c666d)
 
+# Conclusão
 Esses métodos e propriedades fornecem diversas funcionalidades para trabalhar com números em JavaScript, incluindo conversão, formatação e cálculos matemáticos.
 
 # [Continue Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Math.md)
