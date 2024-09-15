@@ -8,7 +8,7 @@ A criação de objetos em JavaScript pode ser feita de diversas maneiras, cada u
 
 ![imagem](https://github.com/user-attachments/assets/27c2ce3e-603f-42e6-8e03-b29ca9ebf3f5)
 
-- **Usando Word new Object():** Para criar um objeto, você usa a palavra-chave new, seguida pela função construtora do objeto que deseja criar. Por exemplo, para criar uma instância do objeto Person definido acima, você usaria o seguinte código:
+- **Usando new Object():** Para criar um objeto, você usa a palavra-chave new, seguida pela função construtora do objeto que deseja criar. Por exemplo, para criar uma instância do objeto Person definido acima, você usaria o seguinte código:
 
 ![imagem](https://github.com/user-attachments/assets/2ca632b3-88db-4a7a-8a4f-90b5cb20c12e)
 
