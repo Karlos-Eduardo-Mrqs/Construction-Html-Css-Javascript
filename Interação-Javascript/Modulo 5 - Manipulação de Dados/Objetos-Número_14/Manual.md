@@ -31,4 +31,4 @@ Veja como você pode acessar e modificar manualmente propriedades de objetos em 
 
 ![imagem](https://github.com/user-attachments/assets/f3bdf589-ce73-4494-8904-2d82cb229e56)
 
-# [Vá para a Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data %20Manipulação/Objects-Number-14/Methods_Objects.md)
+# [Vá para a Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Objetos-N%C3%BAmero_14/M%C3%A9todos.md)

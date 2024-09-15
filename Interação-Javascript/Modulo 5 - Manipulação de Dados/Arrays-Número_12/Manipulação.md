@@ -1,4 +1,4 @@
-# Métodos de matriz Javascript
+# Métodos Com Arrays 
 O objeto Array, assim como acontece com arrays em outras linguagens de programação, permite armazenar uma coleção de vários itens sob um único nome de variável e possui membros para realizar operações comuns de array.
 
 ## Métodos de acesso e informações
@@ -55,4 +55,4 @@ O objeto Array, assim como acontece com arrays em outras linguagens de programa�
 3. **Array.shift()** Remova o primeiro elemento do array.
 ![imagem](https://github.com/user-attachments/assets/963c16a3-b1b1-472e-b6b0-003550b361a5)
 
-# [Continue na Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Search.md)
+# [Continue na Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Arrays-N%C3%BAmero_12/Procura.md)

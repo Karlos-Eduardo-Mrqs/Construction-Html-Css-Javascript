@@ -1,4 +1,4 @@
-# [Leia a primeira parte primeiro!]()
+# [Leia a primeira parte primeiro!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/N%C3%BAmeros-N%C3%BAmero_11/Numeros.md)
 
 # Objeto Matemático
 O objeto Math em JavaScript é um objeto integrado que fornece propriedades e métodos para realizar operações matemáticas. Não é um construtor, o que significa que você não pode criar instâncias do objeto Math. Em vez disso, você usa diretamente seus métodos e propriedades para realizar cálculos matemáticos.
