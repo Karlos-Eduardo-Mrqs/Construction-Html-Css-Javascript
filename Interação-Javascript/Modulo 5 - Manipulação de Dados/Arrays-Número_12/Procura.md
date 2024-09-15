@@ -1,5 +1,6 @@
-# [Leia a parte 1!]()
-# Métodos de pesquisa de array Javascript
+# [Leia a parte 1!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Arrays-N%C3%BAmero_12/Manipula%C3%A7%C3%A3o.md)
+
+# Métodos De Pesquisa Com Array
 
 ## Métodos de pesquisa de índice 
 Esses métodos retornam o índice (posição) de um elemento no array ou -1 se o elemento não for encontrado.
