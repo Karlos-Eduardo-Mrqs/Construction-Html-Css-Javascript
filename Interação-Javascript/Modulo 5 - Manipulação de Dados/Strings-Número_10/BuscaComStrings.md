@@ -39,4 +39,5 @@ Verifique se existe uma substring específica na string principal. Retornando ve
 - **String.endsWith(value):** Verifique se uma string termina com um valor especificado.
 ![imagem](https://github.com/user-attachments/assets/0ecab528-7d23-41eb-9321-188487f71b03)
 
+# Conclusão
 Esses métodos são essenciais em muitas operações de manipulação de strings, fornecendo uma maneira eficiente e prática de realizar buscas e verificações.
