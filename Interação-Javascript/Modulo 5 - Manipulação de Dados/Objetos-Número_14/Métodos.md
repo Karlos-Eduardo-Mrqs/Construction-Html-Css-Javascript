@@ -1,4 +1,4 @@
-# [Leia a primeira parte!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data %20Manipulação/Objects-Number-14/Manually_Objects.md)
+# [Leia a primeira parte!](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados/Objetos-N%C3%BAmero_14/Manual.md)
 
 # Métodos com objetos
 Métodos são funções que são propriedades de objetos. Eles permitem que os objetos executem ações ou comportamentos relacionados aos dados que contêm. Aqui está uma visão geral de como definir e usar métodos com objetos.
