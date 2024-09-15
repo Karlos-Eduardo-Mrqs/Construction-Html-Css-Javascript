@@ -4,8 +4,8 @@ JavaScript fornece vários métodos para manipular e recuperar informações de 
 # Quando eu uso a data?
 JavaScript não possui dados de tipo de data. No entanto, você pode usar o objeto Date e seus métodos para trabalhar com dados e horas em seus aplicativos. O objeto Date possui um grande número de métodos para definir, recuperar e manipular dados. Ele não tem nenhuma propriedade.
 
-# Nova Data()
-new Date() em JavaScript é um construtor que cria um novo objeto de dados. Este objeto representa um ponto no tempo e é baseado no número de milissegundos desde 1º de janeiro de 1970 00:00:00 UTC ("A Época Unix").
+# New Date()
+The New Date() em JavaScript é um construtor que cria um novo objeto de dados. Este objeto representa um ponto no tempo e é baseado no número de milissegundos desde 1º de janeiro de 1970 00:00:00 UTC ("A Época Unix").
 
 ## Usos e exemplos de new Date()
 
