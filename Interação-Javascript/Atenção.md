@@ -13,18 +13,22 @@ Entenda como controlar o fluxo do seu código com estruturas condicionais. Explo
 
 ## [3. Laços de Repetição](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%203-Loopings/Loops-N%C3%BAmero_06)🎠
 ![estruturas-condicionais-e-de-repeticao-no-python-1](https://github.com/user-attachments/assets/62c8abac-52dc-406e-9c9a-d08758b8b1ce)
+
 Aprenda a repetir tarefas de forma eficiente com estruturas de repetição. Este módulo aborda for, while, do...while e for...of, ajudando você a automatizar tarefas repetitivas e manipular dados de forma eficaz.
 
 ## [4. Funções](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%204%20-%20Fun%C3%A7%C3%B5es)🛏️
 ![arrow_regular](https://github.com/user-attachments/assets/84116693-863f-459e-a7e8-13f6f5fd80ce)
+
 Descubra como criar e usar funções para organizar e reutilizar seu código. Aprenda sobre funções declarativas, expressões de função e como passar parâmetros e retornar valores.
 
 ## [5. Métodos e Manipulação de Dados](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%205%20-%20Manipula%C3%A7%C3%A3o%20de%20Dados)ℹ️
 ![istockphoto-1255199947-612x612](https://github.com/user-attachments/assets/76894f22-0ae7-4420-ad65-1ec2ccdcd5f5)
+
 Explore métodos e técnicas para manipular diferentes tipos de dados, incluindo arrays e objetos. Veja como usar métodos específicos para processar e transformar dados em JavaScript.
 
 ## [6. DOM (Document Object Model)](#) 📖
 ![ja-animado](https://github.com/user-attachments/assets/e43b52b8-5c3a-465f-8b91-31e90e589e05)
+
 Neste módulo, você aprenderá como interagir com o Document Object Model (DOM) para modificar e atualizar a estrutura da sua página web. Aprenda como selecionar elementos, manipular conteúdo e reagir a eventos do usuário.
 
 # 🎯 Objetivo
