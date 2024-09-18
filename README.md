@@ -10,9 +10,9 @@ Este repositório oferece uma abordagem prática para o desenvolvimento Front-En
 - **JavaScript💼** Para agregar interatividade e dinamismo;
 
 # 🚀 O que você vai aprender?
-- **Construction-Html🏗️** Entenda os princípios básicos da construção de sites com HTML. Aprenda sobre a estrutura do documento, uso de tags, semântica e práticas recomendadas;
-- **Styling-Css🖌️** Aprenda como estilizar suas páginas, ajustando núcleos, layouts, fontes, espaçamentos e como criar interfaces modernas e responsivas com CSS;
-- **Interaction-JavaScript💼** Explore como adicionar comportamento interativo às páginas manipulando o DOM e respondendo a eventos do usuário;
+- **Construção-Html🏗️** Entenda os princípios básicos da construção de sites com HTML. Aprenda sobre a estrutura do documento, uso de tags, semântica e práticas recomendadas;
+- **Estilizando-Css🖌️** Aprenda como estilizar suas páginas, ajustando núcleos, layouts, fontes, espaçamentos e como criar interfaces modernas e responsivas com CSS;
+- **Interação-JavaScript💼** Explore como adicionar comportamento interativo às páginas manipulando o DOM e respondendo a eventos do usuário;
 # 💻 Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte:
 
@@ -22,7 +22,7 @@ Antes de começar, certifique-se de ter o seguinte:
 - ### [Átomo](https://atom-editor.cc/)
 ## 2. Siga os módulos na ordem:
 - ### [Construção-Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Constru%C3%A7%C3%A3o-Html)
-- ### [Styling-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Constru%C3%A7%C3%A3o-Html)
+- ### [Estilizando-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
 - ### [Interação JavaScript](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript)
 # 📚 Como começar?
 **[Clone este repositório](https://github.com/seuusuario/construction-html-css-javascript.git).** Explore os módulos, siga os exemplos práticos e crie seus próprios projetos!
