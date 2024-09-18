@@ -1,0 +1,54 @@
+html{
+    background: #343532;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+    background: #999;
+    padding: 20px;
+    margin: 15px;
+    text-align: normal;
+    text-decoration: overline;
+    letter-spacing: 5px;
+    line-height: 30px;
+    text-transform: capitalize;
+    text-wrap: normal;
+}
+
+.box2{
+    background: #999;
+    padding: 20px;
+    margin: 15px;
+    color: red;
+    text-align: normal;
+    text-decoration: underline;
+    letter-spacing: 10px;
+    line-height: 30px;
+    text-transform: lowercase;
+    word-wrap: normal;
+}
+
+.box3{
+    background: #999;
+    padding: 20px;
+    margin: 15px;
+    color: blue;
+    text-align: justify;
+    letter-spacing: 10px;
+    line-height: 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    word-break: keep-all;
+}
+
+.box4{
+    background: #999;
+    padding: 20px;
+    margin: 15px;
+    color: forestgreen;
+    text-align: justify;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-decoration: overline;
+    white-space:wrap ;
+}

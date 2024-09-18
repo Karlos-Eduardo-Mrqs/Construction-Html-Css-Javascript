@@ -1,0 +1,18 @@
+#Par1{
+   background-color:  rgb(245,133,89);
+}
+#Par2{
+    background-color: rgba(11,066,99,255) ;
+}
+html{ background-color: #568; }
+/*  
+    Bases HexaDecimais
+    RGB(3 dígitos) = rgb(1,4,4) ou #1af
+    RRGGBB(6 dígitos) = #445588
+    rgba()
+    alfa(Transparência)
+    # 2 - Vermelho | 2 - Verde | 2 - Azul | 2 - Transparência |
+    hsl()
+    Conceito Da Matiz
+    Tom,Luminosidade, Saturação(Quanto mais para esquerda, mais perde a cor, senão, mais força a cor tem) , 
+*/

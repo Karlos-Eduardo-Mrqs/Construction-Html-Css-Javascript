@@ -1,0 +1,34 @@
+html{
+    background: aliceblue;
+}
+
+.box{
+    display: block;
+    width: 600px;
+    height: 100px;
+    background-color: blue;
+    border: red solid  10px;
+    border-radius: 200px;
+    border-end-end-radius: 20p;
+    opacity: initial;
+}
+
+.box-2{
+    display: block;
+    width: 500px;
+    height: 450px;
+    background-color:crimson;
+    opacity: 0.5;
+}
+
+/*
+        border-radius: 50%;
+        border: 5px solid red;
+        outline: solid 10px red;
+        border: solid 15px red;
+        border-top: solid 15px yellow;
+        border-left: dashed 10px green;
+        border-bottom: ridge 15px magenta;
+        border-right: dotted 9px navy;
+    
+*/
