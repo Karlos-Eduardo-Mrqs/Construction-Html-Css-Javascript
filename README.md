@@ -25,7 +25,7 @@ Antes de começar, certifique-se de ter o seguinte:
 - ### [Estilizando-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
 - ### [Interação JavaScript](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript)
 # 📚 Como começar?
-**[Clone este repositório](https://github.com/seuusuario/construction-html-css-javascript.git).** Explore os módulos, siga os exemplos práticos e crie seus próprios projetos!
+**[Clone este repositório](https://github.com/Karlos-Eduardo-Mrqs/construction-html-css-javascript.git).** Explore os módulos, siga os exemplos práticos e crie seus próprios projetos!
 
 # 🌐 Vamos construir juntos!
 Este repositório oferece uma jornada completa em Front-End. Seja você iniciante ou alguém em busca de aprimorar suas habilidades, aqui você encontrará o caminho certo para criar sites incríveis e funcionais!
