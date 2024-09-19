@@ -14,7 +14,7 @@ This repository offers a practical approach to Front-End development, allowing y
 - **Styling-Css🖌️** Learn how to style your pages, adjusting cores, layouts, fonts, spacing and how to create modern and responsive interfaces with CSS;
 - **Interaction-JavaScript💼** Explore how to add interactive behavior to pages by manipulating the DOM and responding to user events;
 
-# 💻 Prerequisites
+# 💻 Pre-Requisites
 Before starting, check the following:
 
 ## 1. A code editor, such as:
