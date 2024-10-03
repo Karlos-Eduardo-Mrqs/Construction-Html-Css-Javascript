@@ -23,7 +23,7 @@ Before starting, check the following:
 - ### [Átom](https://atom-editor.cc/)
 ## 2. Follow the modules in order:
 - ### [Construction-Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Constru%C3%A7%C3%A3o-Html)
-- ### [Estilizando-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
+- ### [Styling-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
 - ### [JavaScript Interaction](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript)
 
 # 📚 How to start?
