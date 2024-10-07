@@ -22,9 +22,9 @@ Before starting, check the following:
 - ### [Sublime Text](https://www.sublimetext.com/)
 - ### [Átom](https://atom-editor.cc/)
 ## 2. Follow the modules in order:
-- ### [Construction-Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Constru%C3%A7%C3%A3o-Html)
-- ### [Styling-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
-- ### [JavaScript Interaction](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript)
+- ### [Construction-Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Construction-Html)
+- ### [Styling-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css)
+- ### [JavaScript Interaction](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Interaction-Javascript)
 
 # 📚 How to start?
 **[Clone this repository](https://github.com/seuusuario/construction-html-css-javascript.git).** Explore the modules, follow the practical examples and create your own projects!
