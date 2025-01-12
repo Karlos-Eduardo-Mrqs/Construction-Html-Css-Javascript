@@ -1,0 +1,57 @@
+body{
+    background:gray;
+}
+
+.box{
+    display: inline-block;
+    width: 600px;
+    height: 500px;
+    background-color: aliceblue;
+    background-image: url(images/image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.box-21{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background:url(images/imagelogotype.png) ;
+    background-position: top bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/*
+.box{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background: blue;
+}
+
+.box-2{
+    display: inline-block;
+    background-color: transparent;
+    width: 350px;
+    height: 350px;
+}
+
+.box-21{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+
+.box-21a{
+    width: 60px;
+    height: 60px;
+    background: yellow;
+    display: inline-block;
+}
+
+.button{
+    background: transparent;
+}
+*/

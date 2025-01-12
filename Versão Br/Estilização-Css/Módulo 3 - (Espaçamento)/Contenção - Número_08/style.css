@@ -1,0 +1,44 @@
+html{
+    background: gray;
+}
+
+.box1{
+    width: 150px;
+    height: 150px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 30px;
+    display: inline-block;
+    overflow: auto;
+    white-space: wrap;
+}
+
+.box2{  
+    width: 150px;
+    height: 150px;        background-color: aliceblue;        padding: 20px;
+    margin: 30px;
+    display: inline-block;
+    overflow: hidden;
+    white-space: pre-wrap;
+}
+
+.box3{  
+    width: 150px;
+    height: 150px;        background-color:crimson;        
+    padding: 20px;
+    margin: 30px;
+    display: inline-block;
+    overflow: scroll;
+    white-space: nowrap;
+}
+
+.box4{  
+    width: 150px;
+    height: 150px;        background-color:green;        
+    padding: 20px;
+    margin: 30px;
+    display: inline-block;
+    overflow: visible;
+    white-space: normal;
+}
+
