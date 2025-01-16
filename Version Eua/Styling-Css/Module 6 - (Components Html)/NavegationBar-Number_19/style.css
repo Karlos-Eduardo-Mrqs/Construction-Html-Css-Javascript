@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.sidebar {
+    width: 100%; /* Ocupa toda a largura da página */
+    background-color: #895647; /* Cor de fundo */
+    height: auto; /* Altura ajustada para o conteúdo */
+    position: fixed; /* Fixa a barra no topo */
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row; /* Itens organizados horizontalmente */
+    padding: 10px 0; /* Espaçamento interno */
+    z-index: 1000; /* Garante que fique sobre outros elementos */
+}
+
+.sidebar-menu {
+    list-style-type: none; /* Remove os pontos da lista */
+    display: flex; /* Exibe os itens em linha */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-menu li {
+    margin: 0 10px; /* Espaçamento entre os itens */
+}
+
+.sidebar-menu li a {
+    display: block; /* Mantém o comportamento de bloco */
+    padding: 10px 20px; /* Padding interno */
+    color: white;
+    font-weight: bolder;
+    border-radius: 20px;
+    text-align: center; /* Centraliza o texto */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: background-color 0.3s ease; /* Transição suave ao passar o mouse */
+}
+
+.sidebar-menu li a:hover {
+    background-color: burlywood; /* Muda a cor ao passar o mouse */
+}
+
+main {
+    margin-top: 60px; /* Espaço para a barra no topo */
+    padding: 20px;
+}
