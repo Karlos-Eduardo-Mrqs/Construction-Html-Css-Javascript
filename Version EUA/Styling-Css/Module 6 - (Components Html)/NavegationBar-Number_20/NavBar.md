@@ -22,7 +22,7 @@ Navbars can be categorized into two main types:
 - Ideal for applications with multiple navigation options.
 - Example:
   
-### 2. Horizontal Navbars
+### 2. Navbars
 - **Positioned at the top** of the page.
 - Commonly used for websites with fewer navigation options.
 - Example:
