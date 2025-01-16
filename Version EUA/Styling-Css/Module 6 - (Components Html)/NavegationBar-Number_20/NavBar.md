@@ -35,9 +35,6 @@ The navigation bar (``<nav>``) is positioned as a fixed sidebar on the page. It 
 - **Image Example:** An example image (LogoGit.png) is displayed with responsive styling applied, so it adjusts to the width of the container without exceeding 600px.
 - **Project Objective:** The project goal is outlined in the last section, explaining the objective of creating a simple and functional layout with a focus on usability and responsive design.
 
-### Notes
-The website layout is simple and responsive, making use of a fixed sidebar and flexible content sections. The sidebar provides basic navigation options (Home, About, Contact, Help), which can be expanded further as the website grows. The main content section is designed to be informative, showcasing the site and the project's goal.
-
 # Fixed Navigation Bar CSS Explanation
 This CSS is used to style a fixed navigation bar (`nav`) and the main content of the page (`main`). The layout ensures that the navigation bar stays at the top of the page when the user scrolls, and the content below the navigation is adjusted accordingly to prevent overlap.
 
@@ -47,7 +44,6 @@ This CSS is used to style a fixed navigation bar (`nav`) and the main content of
 ![image](https://github.com/user-attachments/assets/15f8ffb8-d157-47ba-a22b-9aa8a9c2dfd4)
 
 ## Navigation Bar Styling
-
 - **Position Fixed:** The position: fixed property ensures that the navigation bar stays fixed at the top of the page when the user scrolls.
 - **Top and Left:** Setting top: 0 and left: 0 places the navigation bar at the top-left corner of the page.
 - **Width and Background:** The navigation bar spans the full width of the page (width: 100%) and has a brown color background (#895647).
@@ -56,7 +52,6 @@ This CSS is used to style a fixed navigation bar (`nav`) and the main content of
 ![image](https://github.com/user-attachments/assets/ea871c4b-ffa1-4038-acc9-9f7134c64415)
 
 ## Navbar List and Links Styling
-
 - **Unordered List:** The list-style: none removes the default bullet points from the list items (``<li>``).
 - **Flexbox:** The display: flex property is used to create a flexible layout for the list items, and justify-content: center ensures that the items are horizontally centered within the navbar.
 - **List Items Margin:** Each list item (``<li>``) has horizontal margins of 10px on both sides to create space between the links.
@@ -70,11 +65,12 @@ This CSS is used to style a fixed navigation bar (`nav`) and the main content of
 ![image](https://github.com/user-attachments/assets/ea871c4b-ffa1-4038-acc9-9f7134c64415)
 
 ## Main Content Styling
-
 - **Text Alignment:** The text-align: center centers the content inside the main section.
 - **Padding:** The padding: 20px adds space inside the main content to make it less cramped.
 - **Margin Top:** The margin-top: 80px compensates for the height of the fixed navigation bar, ensuring the content starts below the navbar.
 ![image](https://github.com/user-attachments/assets/a9fa599a-3fd0-4ebe-b0fc-6c5d61951c4e)
+
+# [DocumentNavBar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/NavegationBar-Number_20/navbar.css)
 
 # Fixed SideBar CSS Explanation
 This CSS is used to style a fixed navigation bar (``nav``) and the main content of the page (``main``). The layout ensures that the navigation bar stays at the top of the page when the user scrolls, and the content below the navigation is adjusted accordingly to prevent overlap. This CSS is designed to create a simple, responsive layout with a fixed sidebar and main content next to it. Below, I explain the key parts of the code.
@@ -130,3 +126,5 @@ Paragraphs have a softer color and increased line spacing (line-height: 1.6), ma
 ## Image Style
 Images inside the content area are resized to occupy 100% of the available width, but with a maximum width of 600px. They also have rounded corners and top margin.
 ![image](https://github.com/user-attachments/assets/b52b7a49-136a-4136-b635-b0da7952a6ff)
+
+# [DocumentSideBar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/NavegationBar-Number_20/sidebar.css)
