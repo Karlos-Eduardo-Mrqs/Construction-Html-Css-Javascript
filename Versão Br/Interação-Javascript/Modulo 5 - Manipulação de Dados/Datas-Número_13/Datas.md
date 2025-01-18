@@ -58,5 +58,3 @@ Cria dados com base no número de milissegundos desde a "Época Unix".
 - **toLocaleString():** Retorna a data e a hora como uma string, formatada de acordo com o idioma especificado e as convenções regionais.
 
 Esses métodos e formatos permitem controle e manipulação precisos de datas e horas em aplicativos JavaScript.
-
-# [Os exemplos estão localizados no documento de script](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And %20Data%20Manipulation/Dates-Number_13/script.js)
