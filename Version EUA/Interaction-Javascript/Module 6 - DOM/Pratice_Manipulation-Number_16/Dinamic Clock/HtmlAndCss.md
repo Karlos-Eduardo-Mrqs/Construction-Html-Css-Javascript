@@ -22,8 +22,7 @@ Below is the detailed explanation of the CSS used for styling the **Dynamic Cloc
 
 ### 1. **Resetting Default Margins and Padding**  
 - Resets all default margins and padding for consistent styling across browsers.  
-- Enables the use of `box-sizing: border-box` to include padding and borders in element dimensions.  ---
-
+- Enables the use of `box-sizing: border-box` to include padding and borders in element dimensions.
 
 ### 2. **Styling the Body**  
 - Uses a clean and modern font for readability.  

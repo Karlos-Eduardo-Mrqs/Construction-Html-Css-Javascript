@@ -5,7 +5,6 @@
     box-sizing: border-box;
 }
 
-/*
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -17,6 +16,7 @@ body {
     margin: 0;
     color: #333;
 }
+
 
 .fundo {
     text-align: center;
@@ -59,6 +59,7 @@ body {
     font-weight: bold;
     color: #333;
 }
+
 
 .morning {
     background-color: #ffecd2; 
@@ -118,7 +119,7 @@ footer {
 
 @media (max-width: 480px) {
     .data {
-        padding: 15px;
+        padding: 10px;
     }
 
     .relogio {
@@ -138,5 +139,3 @@ footer {
         height: 100px;
     }
 }
-
-*/
