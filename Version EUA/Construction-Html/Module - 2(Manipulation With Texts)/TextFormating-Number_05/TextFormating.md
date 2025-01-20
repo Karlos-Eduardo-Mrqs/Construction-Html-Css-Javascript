@@ -1,3 +1,5 @@
+# [Return To Number_04](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/HeadingsEosParagraphs-Number_04)
+
 # Text Formating
 Now that we've learned how to deal with the Basic Structure, Headings and Paragraphs, it's time to learn how to deal with **text manipulation**.
 
@@ -34,3 +36,5 @@ A command within Visual Studio Code, which generates random text.**Lorem ipsum d
 # Observation of the presented Tags
 **All tags, EXCEPT TAG P**, have Inline Display, that is, it only occupies the space that the content size has, look at the image below:
 ![ExemploDisplayInline](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
+
+# [Go To Number_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06/CitacionOfAddress.md)

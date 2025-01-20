@@ -1,4 +1,5 @@
-# [Read Structure First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%206(Developing%20In%20Web)/Structure_Number_12/Structure.md)
+# [Read Structure First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%206(Developing%20In%20Web)/Structure_Number_12/Structure.md)
+
 # Web Page Content
 In the previous folder (Estrutura_Número_12), we learned how to observe and interpret the blocks within Web pages. And now, we will make the main content and differentiate them, having three important parts, **Header, Content and Footer**.
 ## Header

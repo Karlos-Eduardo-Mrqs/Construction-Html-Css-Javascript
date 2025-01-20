@@ -1,3 +1,5 @@
+# [Return Forms](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Forms.md)
+
 # Inputs
 Also known as input, it is the way users can interact within the form. Here, we will learn some types of inputs.
 ## Types of Inputs and Attributes
@@ -66,4 +68,4 @@ Its types can be called by the *attribute "type" (its attributes will be discuss
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5efd7067-5d20-44a6-b0ee-10455b3e6cbc)
 
-# [Continues in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/ManipulationInputs_Number_11/Inputs2.md)
+# [Continues in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/ManipulationInputs_Number_11/Inputs2.md)
