@@ -1,3 +1,5 @@
+# [Return Module 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%205-%20(Positions))
+
 # Standardization in CSS
 Known as Reset.CSS, or CSS reset, it is a technique or set of CSS styles designed to normalize the default styling of HTML elements across all web browsers.The goal is to create a consistent and predictable foundation for web development, regardless of standard style variations between different browsers.
 
@@ -12,3 +14,5 @@ This is because, if the CSS reset is added in the middle of the project, for exa
 # [Reset CSS file](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%206%20-%20(Components%20Html)/Normalizes-Number_14/normilize.css)
 
 # [Reference 1](https://www.alura.com.br/artigos/o-que-e-reset-css#:~:text)
+
+# [Go To Number_15](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ListsAndAnchors-Number_15/Anchors.md)

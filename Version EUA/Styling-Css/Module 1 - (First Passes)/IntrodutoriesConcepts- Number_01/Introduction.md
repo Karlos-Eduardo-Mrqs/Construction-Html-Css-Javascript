@@ -35,4 +35,8 @@ Finally, there is also the CSS Inline style. Inline works with specific elements
 
 ## Historical Summary 
 CSS was developed by the W3C (World Wide Web Consortium) in 1996, for a very simple reason. HTML was not designed to have tags that would help format the page. You should just write the markup for the site.Tags like ``<font> </font>`` were introduced in HTML version 3.2 and caused a lot of problems for developers. Because websites had different fonts, colors, and styles, it was a long, painful, and expensive process to rewrite the code. Thus, CSS was created by the W3C to solve this problem.
-# [Reference 1](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#Estilos_CSS_Interno_Externo_e_Inline) And [Reference 2](https://blog.stackademic.com/all-css-version-with-features-64fea1a50791)
+# [Reference 1](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#Estilos_CSS_Interno_Externo_e_Inline) 
+
+# [Reference 2](https://blog.stackademic.com/all-css-version-with-features-64fea1a50791)
+
+# [Go to Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%201%20-%20(First%20Passes)/IntrodutoriesConcepts-%20Number_01/FormattingConcepts.md)

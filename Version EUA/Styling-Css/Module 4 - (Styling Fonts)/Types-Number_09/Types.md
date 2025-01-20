@@ -1,3 +1,5 @@
+# [Return Module 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%203%20-%20(Spacing))
+
 # Types of Fonts 
 We are now in module 4, we will learn how to modify font types.
 
@@ -41,3 +43,5 @@ In addition, it also has four standard types such as **("lighter","normal","bold
 _Leaves the text with a curve to the right;_
 - normal: 
 _Keeps the default text as it is;_
+
+# [Go To Number_10](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%204%20-%20(Styling%20Fonts)/Decoration-Number_10/Decoration.md)

@@ -1,3 +1,5 @@
+# [Return Number_15](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ListsAndAnchors-Number_15/Lists.md)
+
 # Styling Inputs
 In this chapter, we will cover the styling of inputs, called inputs with css.
 
@@ -98,3 +100,5 @@ button:hover{
     cursor: pointer;
 }
 ```
+
+# [Go To Number_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Tables-Number_17/Tables.md)
