@@ -22,6 +22,6 @@ The Html are invented by Tm Berners-Lee, The physicist of CERN research center i
 
 # [References 1](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.) 
 
-# [References 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitosbasicos#:~:text=DOCTYPE%20html%3E-,A%20Hist%C3%B3ria%20do%20HTML,que%20podem%20ser%20acessados%20imediatamente.) 
+# [References 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos) 
 
 # [Go to Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/ConceptsInTags.md)

@@ -1,0 +1,141 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #333;
+}
+
+
+.fundo {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+    transition: background-color 1s ease;
+}
+
+.img-icone {
+    width: 280px;
+    height: 280px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.relogio {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+.data-completa {
+    font-size: 0.8em;
+    color: #777;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hora {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+
+.morning {
+    background-color: #ffecd2; 
+}
+
+.afternoon {
+    background-color: #ffba08; 
+}
+
+.evening {
+    background-color: #5617ae; 
+}
+
+.night {
+    background-color: #2c3e50; 
+}
+
+footer {
+    font-size: 0.9em;
+    font-weight: bolder;
+    color: #666;
+    margin-top: 20px;
+}
+
+.morning span,
+.afternoon span {
+    color: #333; 
+}
+
+.evening span,
+.night span {
+    color: #fff; 
+}
+
+@media (max-width: 768px) {
+    .data {
+        padding: 20px;
+    }
+
+    .relogio {
+        font-size: 2.5em;
+    }
+
+    .data-completa {
+        font-size: 1.5em;
+    }
+
+    .hora {
+        font-size: 2.8em;
+    }
+
+    .img-icone {
+        width: 130px;
+        height: 130px;
+    }
+}
+
+@media (max-width: 480px) {
+    .data {
+        padding: 10px;
+    }
+
+    .relogio {
+        font-size: 2em;
+    }
+
+    .data-completa {
+        font-size: 1.2em;
+    }
+
+    .hora {
+        font-size: 2.4em;
+    }
+
+    .img-icone {
+        width: 100px;
+        height: 100px;
+    }
+}

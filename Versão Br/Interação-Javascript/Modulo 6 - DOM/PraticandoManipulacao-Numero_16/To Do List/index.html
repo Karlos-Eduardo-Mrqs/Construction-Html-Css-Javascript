@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista Com DOM</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="icons8-lista-16.png" type="image/png">
+</head>
+<body>
+    <div id="popup-back">
+        <div class="popup">
+            <span> Quer deletar todos os itens ? </span>
+            <button value="Sim">Sim</button>
+            <button value="Nao">Não</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="message"> </div>
+        <section class="input">
+            <input type="text" name="nome" id="nome">
+            <label for="nome">Nome</label>
+            <button onclick="Adicionar()" id="add"> Adicionar </button>
+            <button id="del" onclick="Deletar()"> Deletar </button>
+            <div id="list-box">
+                <ul id="list"> </ul>
+            </div>
+        </section>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
