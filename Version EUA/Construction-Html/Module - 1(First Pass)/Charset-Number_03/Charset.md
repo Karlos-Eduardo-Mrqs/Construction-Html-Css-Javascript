@@ -1,3 +1,5 @@
+# [Return To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/StructOfHtml-Number_02/Structure.md)
+
 # Charset 
 The Charset is known as a collection of characters. For example, the Abecedário is a set of letters from A ... Z, and around the world, there are numerous types of letters and special characters. Such as the Brazilian, Chinese, Arabic and Hebrew alphabet consecutively ...
 ![alfabeto-romano](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/9c4e7fdb-388d-4acf-8562-e4076e4b2886)
@@ -12,3 +14,5 @@ Within the technology area, this is no different, even having its own table call
 
 # Meta Command
 Knowing this, we can use a **TAG** called meta, which can be defined by default within the header, that is, a **TAG** header that will be a collection of standard characters. It could be **UTF-8** which encompasses all languages ​​created so far or even **ASCII** using all ASCII characters.``<meta charset ="UTF-8" \> ``. This tag does not have a closing ``</meta> ``, so to close it it is like this `` <meta /> ``;
+
+# [Go To Module 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts))
