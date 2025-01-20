@@ -12,7 +12,7 @@ With the img tag being classified with img-icon. It will be added as if it were 
 ## .relogio, .data-completa, .hora
 With the div tag classified as clock. The full date 'January 19, 2025' will be included there along with the time 'HH:MM:SS', this being assigned by js and styled with css.
 
-# [HTML Document]()
+# [HTML Document](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/Dinamic%20Clock/index.html)
 
 # Styling the Dynamic Clock: CSS Documentation  
 
@@ -89,4 +89,6 @@ Below is the detailed explanation of the CSS used for styling the **Dynamic Cloc
 This CSS ensures that the **Dynamic Clock** is both visually appealing and responsive across all devices!
 ![image](https://github.com/user-attachments/assets/888ab388-b2e7-4ad3-845d-7207a267f685)
 
-# [Part#2]()
+# [Style Document](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/Dinamic%20Clock/style.css)
+
+# [Go To Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/Dinamic%20Clock/Javascript.md)
