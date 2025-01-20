@@ -20,6 +20,8 @@ Now this version, present's more and interesting possibilities for web. It's out
 # Summary Historic of History the Html
 The Html are invented by Tm Berners-Lee, The physicist of CERN research center in Switzerland. Him emerged whit idea the one HyperText Syste at Internet. HyperText means one text what have reference (links) for others texts they can access immediately. Him send the first version Html in 1991, consisting in eighteen(18) tags. Since then, each version Html are become new tags and attributes, in other words, tag modifiers. Because the fast acension and popularity, the Html it's consider's one oficial standard in web. The big upgrade oof language are the release of Html5 in 2014.
 
-# [References 1](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.) and [References 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitosbasicos#:~:text=DOCTYPE%20html%3E-,A%20Hist%C3%B3ria%20do%20HTML,que%20podem%20ser%20acessados%20imediatamente.) ; 
+# [References 1](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.) 
 
-# [Go to Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/ConceptsInTags.md)
+# [References 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos) 
+
+# [Go to Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/ConceptsInTags.md)
