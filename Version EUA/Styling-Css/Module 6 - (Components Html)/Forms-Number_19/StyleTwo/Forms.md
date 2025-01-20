@@ -1,3 +1,5 @@
+# [Return Style One](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleOne/Forms.md)
+
 # Styling Forms (Part 2)
 Okay, programmers, let's get back to the forms style.
 
@@ -50,3 +52,5 @@ Locked appearance, 20px top margin, 20px font size, 100% width, 35px height, 10p
 
 # [Bonus](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleTwo/Obs.md) 
 So, what did you think? If you have any doubts, click on the bonus to get the attributes not mentioned in the previous modules.
+
+# [Go To ObsMD](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleTwo/Obs.md)

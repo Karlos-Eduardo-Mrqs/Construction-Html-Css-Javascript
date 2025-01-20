@@ -1,3 +1,5 @@
+# [Return Number_09](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%204%20-%20(Styling%20Fonts)/Types-Number_09)
+
 # Decoration
 Previously, we learned how to modify and import font types and how to assign them. Now, we will decorate this text, for example, apply colors, spacing, alignment, among others.
 
@@ -45,3 +47,5 @@ Finishing the decoration of the texts, we can define by default that each word s
 - normal,none: Default Value;
 
 ![image](https://github.com/user-attachments/assets/c6db7fff-d7b0-4105-bf0a-987eddf93cf8)
+
+# [Go To Module 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%205-%20(Positions))

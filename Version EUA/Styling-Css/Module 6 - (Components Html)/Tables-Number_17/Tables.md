@@ -1,3 +1,5 @@
+# [Return Number_16](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Inputs-Number_16/Inputs.md)
+
 # Styles with Tables
 In this chapter on HTML component styles, we will style an HTML table.
 
@@ -73,7 +75,7 @@ body{
     height: 200px;
     border-collapse: collapse;
     font-family: Arial, Helvetica, sans-serif;
-}
+    }
 
 .Car-head th{
     background-color: darkred;
@@ -100,3 +102,5 @@ body{
     background-color: red;
 }
 ```
+
+# [Go To Number_18](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ScrollBar-Number_18/ScrollBar.md)

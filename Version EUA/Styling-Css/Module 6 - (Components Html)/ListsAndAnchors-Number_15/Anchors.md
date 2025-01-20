@@ -1,7 +1,9 @@
+# [Return Number_14](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Normalizes-Number_14/Normalize.md)
+
 # Anchor Styling 
 In this module, we will learn how to style HTML components, starting with lists and anchors.
 
-## Anchors 
+## Anchors
 
 ![image](https://github.com/user-attachments/assets/85e7b2ec-3f97-4de4-b28a-513ed8cdbd84)
 
@@ -84,3 +86,5 @@ body{
     color: aliceblue;  
 }
 ```
+
+# [Go To Lists](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ListsAndAnchors-Number_15/Lists.md)

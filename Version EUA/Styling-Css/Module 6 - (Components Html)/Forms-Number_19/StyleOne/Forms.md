@@ -1,3 +1,5 @@
+# [Return Number_18](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ScrollBar-Number_18/ScrollBar.md)
+
 # Styling Forms
 this chapter, we will cover the styling of forms, called forms with css . Note: This chapters have three chapters with forms. Part One(StyleOne) until there are parts(Will are revelead early).
 
@@ -42,3 +44,5 @@ The same happens with the cleaning button, with the highlight color being red:
 - **display: flex;** - Defines the flexible container;
 - **justify-content: center;** - Centers items horizontally;
 - **flex-direction: column;** - Arranges items vertically;
+
+# [Go To Style Two](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleTwo/Forms.md)

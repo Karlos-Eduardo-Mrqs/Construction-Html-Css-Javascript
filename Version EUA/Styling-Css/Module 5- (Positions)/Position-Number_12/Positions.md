@@ -1,3 +1,5 @@
+# [Return Number_11](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%205-%20(Positions)/Float-Number_11/Float.md)
+
 # Specific Positions
 In the previous practice, we learned how to work with the floating position, moving the objects only to the left, right and none of them, leaving the object overlapping. Now, we will learn how to move the objects to any corner or direction you want.
 
@@ -64,3 +66,5 @@ Fixed Position, fixing or even trapping the object in one position, for example,
 Glued position, unlike the fixed position, this position can appear on the screen in a glued way; appearing when the object disappears, being visible again for reading. Look this,It is similar to the fixed one, but it is stuck to the screen as it is not visible on the screen:
 
 ![image](https://github.com/user-attachments/assets/478e5c12-75be-4efe-826e-c6cffd069ca9)
+
+# [Go To Number_13](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%205-%20(Positions)/Splindes_X%2CY%2CZ-Number_13/Splindes.md)

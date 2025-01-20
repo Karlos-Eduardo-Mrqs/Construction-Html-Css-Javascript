@@ -1,3 +1,5 @@
+# [Return Number_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Tables-Number_17/Tables.md)
+
 # Scrollbar 
 Within the css, we can style the scrollbar in the body of our page.
 
@@ -26,3 +28,5 @@ In the navigation bar, we have three parts. In the first, we have the up and dow
 Here we can apply the up and down buttons, for example earthy colored and rounded buttons:
 
 ![image](https://github.com/user-attachments/assets/9471ce79-3623-4564-becf-7ed5c022336b)
+
+# [Go To Forms Style One](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleOne/Forms.md)

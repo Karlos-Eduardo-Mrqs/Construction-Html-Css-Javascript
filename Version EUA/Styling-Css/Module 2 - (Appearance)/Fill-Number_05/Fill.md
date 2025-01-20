@@ -1,3 +1,5 @@
+# [Return Number_04](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%202%20-%20(Appearance)/ColorPalette-Number_04)
+
 # Fill 
 Padding is used to create space around the content of an element, within any defined border. We will now learn how to do this, with colors and images with css.
 
@@ -76,3 +78,5 @@ At the end, we will use the top center as an example, so that the image is cente
 Yes, it is possible to insert two images into a div. **However, it is a very specific situation**, and it is recommended that you create an "affiliated div" for this. For example, I will create another box called box-21, which will contain another image.After that, we will add 80px in height and width with no repetition, being positioned at the top of the mountain.See the result now:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/9ed49fa5-77fd-409c-9f2c-cc2522345dd6)
+
+# [Go To Number_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%202%20-%20(Appearance)/Bordes-Number_06)
