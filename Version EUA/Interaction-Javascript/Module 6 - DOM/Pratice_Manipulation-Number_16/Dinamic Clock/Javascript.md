@@ -1,3 +1,5 @@
+# [Return Part One](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/Dinamic%20Clock/HtmlAndCss.md)
+
 # Documentation of JavaScript Code: Date, Time, and Background Update
 This document explains, step by step, how the JavaScript code dynamically updates the date, time, and changes the background and icon based on the time of day.
 ---
