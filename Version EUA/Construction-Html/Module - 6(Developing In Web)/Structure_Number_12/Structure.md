@@ -1,3 +1,5 @@
+# [Return Module 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%205(Forms))
+
 # Web Structure 
 Now we are in the last module. Here we will learn how to deal with the structure of web pages and how this organization is done.
 ## Illustrative Examples
@@ -24,4 +26,4 @@ Note the following, within each of these images there is a separate block, where
 
 # Conclusion
 In other words, we know that we have separate blocks. But why do we use them? Simple, for better organization and styling on the pages, making the process easier. Now, how do we make these blocks and differentiate them?
-# [Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%206(Developing%20In%20Web)/OrganizeOfContent_Number_13/Content.md)
+# [Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%206(Developing%20In%20Web)/OrganizeOfContent_Number_13/Content.md)

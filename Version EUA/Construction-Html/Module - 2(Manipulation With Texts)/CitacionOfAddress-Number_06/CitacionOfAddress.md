@@ -1,3 +1,5 @@
+# [Return To Number_05](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/TextFormating-Number_05/TextFormating.md)
+
 # Quotes In Html
 Within Html, we can "reference" text that has already been created on our website using the tag `` <blockquote> </blockquote>``, its structure being like this:
 ``` 
@@ -36,3 +38,5 @@ The this tag allows us to override the text directionality (for example, changin
 This tag defines an abbreviation or acronym, and we can provide a tooltip with the full form of the term using the title attribute:
 
 `` <abbr title="World Health Organization">The WHO</abbr> was founded in 1948. ``
+
+# [Lists](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06/Lists.md)

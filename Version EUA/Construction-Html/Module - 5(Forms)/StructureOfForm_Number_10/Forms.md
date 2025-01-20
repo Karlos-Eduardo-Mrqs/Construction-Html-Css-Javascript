@@ -29,4 +29,4 @@ _The button types can be named by the type attribute, which can be:_
     </form>
 ```
 
-# [Part Two !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Inputs.md)
+# [Part Two !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Inputs.md)

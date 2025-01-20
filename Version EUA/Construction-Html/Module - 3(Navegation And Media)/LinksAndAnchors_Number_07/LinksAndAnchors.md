@@ -1,3 +1,5 @@
+# [Return Module 2 Number_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06)
+
 # Links And Anchors
 We now come to manipulating Links and anchors. Together with these two concepts, we can browse two or more pages on a single page.
 
@@ -46,3 +48,5 @@ Its structure is done like this:``<a href="Page2.html">Next page</a>``.It works 
         </ul>
     </p>
 ```
+
+# [Go To Number_08](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%203(Navegation%20And%20Media)/MediaVIsualsAndMusics_Number_08/Medias.md)

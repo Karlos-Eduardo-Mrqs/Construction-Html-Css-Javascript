@@ -1,3 +1,5 @@
+# [Return to Number_07](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%203(Navegation%20And%20Media)/LinksAndAnchors_Number_07)
+
 # Musical and visual media
 Today we will learn how to manipulate video, audio and image files within our pages. Let's go .
 # Image
@@ -58,3 +60,5 @@ Above we used the **IFRAME** tag. Which is most used, where even on Youtube, you
 3. Click Share And Then Embed;
 4. Copy The Iframe Code And That's It;
 5. "CTRL+C ON YOUTUBE AND CTRL+V ON VISUAL STUDIO"**;
+
+# [Go To Module 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%204(Tables)/Tables_Number_09)

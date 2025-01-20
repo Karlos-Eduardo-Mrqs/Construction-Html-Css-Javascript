@@ -1,4 +1,4 @@
-# [Return Part One For Continue](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Forms.md) 
+# [Return Part One For Continue](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Forms.md) 
 ## Checkbox Input Types: 
 
 - **checkbox:** The *"checkbox"*, used for marking or selection, represented by a ⬜ .**Html formatting (checkbox):`` <input type="checkbox" name="terms" id="term"> ``**
@@ -55,3 +55,5 @@ Within the form, we need to group certain fields for better visualization and re
 **``<fieldset> To create this grouping <legend> As the Title of this Grouping < /legend> </fieldset>``**. Observe the example below:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1eff2f5e-6a80-4fce-a4c9-d1af423c2136)
+
+# [Go To Module 6](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%206(Developing%20In%20Web))
