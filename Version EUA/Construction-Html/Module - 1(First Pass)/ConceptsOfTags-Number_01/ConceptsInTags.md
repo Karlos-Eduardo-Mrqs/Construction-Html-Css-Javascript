@@ -1,4 +1,5 @@
-# [Read Introduction First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/Introduction.md)
+# [Read Introduction First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/Introduction.md)
+
 # What i's Tags and Block's ? 
 The tags are know blocks; where all your content i's __annex__ .For Example: ``<tag> Content </tag> `` . _How you view, the tag have opening and closure and finalize your lining._
 
@@ -14,3 +15,5 @@ Remember for example cited lastely ? Then, beside them one difference in covered
 ## Examples and Concepts
 The Display is the space in which the content is displayed and how the content behaves on the screen, for example: ``<p> Paragraph 1 </p> <p> Paragraph 2 </p> `` In the "p" Tag, it has the "Block" Display by default, making the text "Paragraph 1" and "Paragraph 2" occupy an entire line of the page, one below the other. When we use normal text in this way :
 ``Text 1Text 2 ``.Without any TAG, the two texts were next to each other, as they have the "Inline" Display by default. This also happens with the TAG span, a specific tag for texts. To observe the difference in displays, simply open the document, use the "CTRL+SHIFT⬆️+I" button, look for an icon↖️ and click on the desired element.
+
+# [Go To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/StructOfHtml-Number_02/Structure.md)
