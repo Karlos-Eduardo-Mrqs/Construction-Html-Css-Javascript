@@ -11,8 +11,8 @@ Este repositório oferece duas versões:
 Escolha a versão que deseja explorar clicando nos links abaixo.
 
 ## 🗂️ **Estrutura do Repositório**
-- **Versão Br**: Recursos e projetos voltados para o público brasileiro, com documentação em português.
-- **Versão EUA**: Recursos com a mesma estrutura, mas documentação em inglês.
+- **[Versão BR](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br)**: Recursos e projetos voltados para o público brasileiro, com documentação em português.
+- **[Versão EUA](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA)**: Recursos com a mesma estrutura, mas documentação em inglês.
 
 ## 🔍 **Como Navegar**
 
@@ -69,8 +69,8 @@ Choose the version you'd like to explore by clicking the links below.
 
 ## 🗂️ **Repository Structure**
 
-- **Versão Br**: Resources and projects aimed at the Brazilian audience, with documentation in Portuguese.
-- **Versão EUA**: Resources with the same structure, but with documentation in English.
+- **[Version BR](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br)**: Resources and projects aimed at the Brazilian audience, with documentation in Portuguese.
+- **[Version EUA](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA)**: Resources with the same structure, but with documentation in English.
 
 ## 🔍 **How to Navigate**
 Choose the desired version to get started:
@@ -110,4 +110,4 @@ Check the [LICENSE](./LICENSE) file for more details.
 
 If you have any questions or suggestions, feel free to open an **issue**.
 
-🚀 **Enjoy the learning and happy coding!** 💻
+🚀 **Enjoy the learning and happy coding!** 💻 
