@@ -1,4 +1,4 @@
-# [Read Part 1 First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%204%20-%20Functions/DeclarationAndExpressions-Number_07/DeclarationAndExpressions.md)
+# [Read Part 1 First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions/DeclarationAndExpressions-Number_07/DeclarationAndExpressions.md)
 
 # Arrow Functions
 In simple terms, an arrow function is a concise way of writing a function in JavaScript. It optimizes the writing of your code, making it cleaner, leaner and increasing readability. We will see how we can do this optimization in some cases, changing functions in arrow function in JavaScript.
@@ -29,4 +29,4 @@ Yield is what makes Generator Functions special. It allows you to pause the func
 
 - End Yield: After the last yield, the function ends, and the next next() returns undefined, indicating that the sequence has ended.
 
-# [Go to Part 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%204%20-%20Functions/Constructions-Number_09/Construction.md)
+# [Go to Part 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions/Constructions-Number_09/Construction.md)

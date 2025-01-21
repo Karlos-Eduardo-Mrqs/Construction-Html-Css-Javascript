@@ -1,4 +1,5 @@
-# [Read Part One !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Objects-Number-14/Manually_Objects.md)
+# [Read Part One !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Objects-Number_14/Manually_Objects.md)
+
 # Methods With Objects
 Methods are functions that are properties of objects. They allow objects to perform actions or behaviors related to the data they contain. Here's an overview of how to define and use methods with objects.
 
@@ -91,3 +92,5 @@ Utility methods in JavaScript are designed to provide helpful functions for work
 
 - **Object.fromEntries(iterable):** Transforms a list of [key, value] pairs into an object.
 ![image](https://github.com/user-attachments/assets/83c9512c-4cb3-445f-95ff-aacf6ef8c659)
+
+# [Go To Module 6](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM)

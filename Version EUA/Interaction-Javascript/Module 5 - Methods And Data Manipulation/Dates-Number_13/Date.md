@@ -1,3 +1,5 @@
+# [Return Number_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12)
+
 # JavaScript Date Methods
 JavaScript provides various methods to manipulate and retrieve date and time information. These methods allow you to set and get different components of a date object, such as the day, month, year, hours, minutes, seconds, and milliseconds.
 
@@ -58,3 +60,5 @@ Creates a data based on the number of milliseconds since the "Unix Epoch".
 
 These methods and formats enable precise control and manipulation of dates and times in JavaScript applications.
 # [Examples are located in script documment](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Dates-Number_13/script.js)
+
+# [Go To Number_14](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Objects-Number_14/Manually_Objects.md)

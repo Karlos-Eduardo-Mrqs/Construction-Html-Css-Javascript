@@ -1,4 +1,4 @@
-# [Read The Part 1 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Manipulation.md)
+# [Read The Part 1 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Manipulation.md)
 
 # Javascript Array Search Methods (Part 2)
 ## Index search methods 
@@ -29,4 +29,4 @@ These techniques verify the presence of an element within the array.
 
 ![image](https://github.com/user-attachments/assets/1b971c83-11ec-4799-8946-21aabadb5fcb)
 
-# [Continue Part 3 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Map.md)
+# [Continue Part 3 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Map.md)

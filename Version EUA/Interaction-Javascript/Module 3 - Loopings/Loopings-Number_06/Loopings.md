@@ -1,3 +1,5 @@
+# [Return Module 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure)
+
 # What are Loopings?
 Looping is a term used in programming to describe the repetition of a set of instructions or actions. It is a fundamental structure in many programming languages ​​and is widely used to 
 automate tasks and control the flow of a program. 
@@ -32,3 +34,5 @@ Do-while looping is similar to while looping, but the condition is checked after
 It is a repetition structure that executes a block of code as long as a certain condition is true. It is useful when you don't know exactly how many times the code needs to be repeated, but rather until a condition is met. The condition is checked before each loop iteration.
 #### Formatting with while
 ![image](https://github.com/user-attachments/assets/84916dde-926f-4f09-8134-12c88b300aaa)
+
+# [Return Module 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions)

@@ -1,4 +1,4 @@
-# [Read The Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Search.md)
+# [Read The Part 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Search.md)
 
 # JavaScript Maps
 The JavaScript Map object holds key-value pairs and preserves the original insertion order. It supports any value, including objects and primitives, as keys or values. This feature allows for efficient data retrieval and manipulation, making Map a versatile tool for managing collections.
@@ -50,3 +50,5 @@ Map is perfect when you need a collection of key-value pairs, where the keys are
 - **Map.has(key):** The has() method returns true if a key exists in a map. Return False, if a key don't exists in a map:
 
 ![image](https://github.com/user-attachments/assets/17c61f0c-2d0e-45a6-ba82-f93d4312ebe2)
+
+# [Go To Number_13](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Dates-Number_13/Date.md)

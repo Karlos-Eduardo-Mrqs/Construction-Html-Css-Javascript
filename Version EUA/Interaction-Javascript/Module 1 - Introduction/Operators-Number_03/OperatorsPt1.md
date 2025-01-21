@@ -1,3 +1,5 @@
+# [Return Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Variables-Number_02/Variables.md)
+
 # Operators
 Operators are essential elements in the JavaScript programming language. They allow diverse operations, from simple mathematical calculations to complex data manipulations. In this article, we'll explore operators in JavaScript and discover how they can power your code.
 
@@ -38,4 +40,4 @@ The subtraction operator - ,can have a negative value. For example, 8 - 16 = -8.
 
 The Quotient is the result of the division operator and the remainder is the result of the modulus. For example, 10/5 = 2, but the remainder of your division is 0 .
 
-# [Go To Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt2.md)
+# [Go To Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt2.md)

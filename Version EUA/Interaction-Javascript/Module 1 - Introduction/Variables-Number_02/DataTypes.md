@@ -1,3 +1,5 @@
+# [Return Variables](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Variables-Number_02/Variables.md)
+
 # Data Types
 Ok, now that you are more familiar with the use of the Javascript language, it is important to know what data types in variables are. Let's check out a list of them below:
 
@@ -20,3 +22,5 @@ Data that presents only two possible values ​​– true (true) or false (fals
 These are data that represent variables that either have no value (null) or are incomplete (undefined);
 
 ![image](https://github.com/user-attachments/assets/bc473449-216f-4104-b45d-1efb9b608335)
+
+# [Go To Number_03](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt1.md)

@@ -1,3 +1,5 @@
+# [Return Number_10](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Strings-Number_10/Strings.md)
+
 # Javascript Numbers Methods And Properties
 JavaScript numbers are primitive data types, and, unlike other programming languages, you don’t need to declare different numeric types like int, float, etc. JavaScript numbers are always stored in double-precision 64-bit binary format (IEEE 754).
 
@@ -39,4 +41,4 @@ JavaScript numbers are primitive data types, and, unlike other programming langu
 ![image](https://github.com/user-attachments/assets/ebeba10b-6135-4eef-849b-7b40a85c666d)
 
 These methods and properties provide various functionalities to work with numbers in JavaScript, including conversion, formatting, and mathematical computations.
-# [Continue Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Math.md)
+# [Continue Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Math.md)

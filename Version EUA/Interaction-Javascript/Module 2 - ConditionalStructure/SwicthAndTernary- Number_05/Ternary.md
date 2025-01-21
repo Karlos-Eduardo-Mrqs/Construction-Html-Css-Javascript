@@ -1,3 +1,5 @@
+# [Return Switch](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure/SwicthAndTernary-%20Number_05/Swicth.md)
+
 # Conditional Structure With Ternary Operator
 - Ternary Operator:
 The conditional (ternary) operator is the only JavaScript operator that has three operations. This operator is often used as a shortcut for the if statement.
@@ -43,3 +45,5 @@ Pay attention, as the code has become more readable, making it simpler to read a
 ![Captura de tela 2024-08-15 120148](https://github.com/user-attachments/assets/a7e438ab-c6f3-4564-90cd-13a7916ad887)
 
 The decision whether or not to use the ternary operator in JavaScript will vary from developer to developer. I recommend using it with up to two conditions; more than that, it starts to lose its purpose of making the code more readable. We employ the ternary operator to directly assign the message based on the condition. This makes the code more concise and easier to understand, especially in simpler situations.
+
+# [Go To Module 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%203%20-%20Loopings/Loopings-Number_06)
