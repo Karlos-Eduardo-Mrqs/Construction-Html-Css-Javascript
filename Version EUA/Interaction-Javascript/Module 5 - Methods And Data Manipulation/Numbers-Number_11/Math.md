@@ -1,4 +1,5 @@
-# [Read Part One First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Numbers.md)
+# [Read Part One First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Numbers.md)
+
 # Math Object
 The Math object in JavaScript is a built-in object that provides properties and methods to perform mathematical operations. It is not a constructor, which means you cannot create instances of the Math object. Instead, you directly use its methods and properties to perform mathematical calculations.
 
@@ -48,3 +49,5 @@ The Math object provides a variety of methods for performing mathematical operat
 - **Math.log10(x):** Returns the logarithm of x in base 10. ``console.log(Math.log10(100)) //2.``
 - **Math.log2(x):** Returns the logarithm of x in base 2. ``console.log(Math.log2(8)); //3. ``
 - **Math.exp(x):** Returns and raised to the power of x. ``console.log(Math.exp(1)); //2.718281828459045.``
+
+# [Go To Number_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Arrays-Number_12/Array_Manipulation.md)

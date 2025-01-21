@@ -1,3 +1,5 @@
+# [Return Module 1](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction)
+
 # Control Structures
 Conditional structures are resources offered by languages ​​so that it is possible to check a condition and change the algorithm's execution flow. Thus, it is possible to define a specific action for different scenarios and obtain exactly the expected result during the development of a website or application.
 
@@ -51,4 +53,4 @@ We will do this twice, for the first note and the second note. At the end there 
 ![image](https://github.com/user-attachments/assets/98d6f8d6-2551-410e-9c37-6de5d30d18bf)
 ![image](https://github.com/user-attachments/assets/c198995e-38f4-4496-ba7a-54e13dfc4963)
 
-# [Go to Conditional Switch](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/edit/main/Interaction-Javascript/Module%202%20-%20ConditionalStructure/SwicthAndTernary-%20Number_05/Swicth.md)
+# [Go to Conditional Switch](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure/SwicthAndTernary-%20Number_05/Swicth.md)

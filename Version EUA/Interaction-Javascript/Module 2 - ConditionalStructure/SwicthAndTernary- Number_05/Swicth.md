@@ -1,3 +1,5 @@
+# [Return IfAndElse](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure/IfAndElse-Number_04/IfAndElse.md)
+
 # Conditional Structure Switch
 - Switch: You can use the switch to select one of many code blocks according to your condition.
 
@@ -44,4 +46,4 @@ We will present the user, an alert ("Welcome") . Then the system will ask for th
 ![image](https://github.com/user-attachments/assets/9d5a9d06-0818-4a0c-8022-58c22ef496ff)
 ![image](https://github.com/user-attachments/assets/6e3d0205-cde6-448b-9cea-9332f2e06f6a)
 
-# [Go to Ternary Conditional](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%202%20-%20ConditionalStructure/SwicthAndTernary-%20Number_05/Ternary.md)
+# [Go to Ternary Conditional](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure/SwicthAndTernary-%20Number_05/Ternary.md)

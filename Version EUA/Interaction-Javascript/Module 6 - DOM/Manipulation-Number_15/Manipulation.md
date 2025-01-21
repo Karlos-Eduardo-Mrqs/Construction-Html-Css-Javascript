@@ -1,4 +1,4 @@
-# [Read Introduction First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%206%20-%20DOM/Manipulation-Number_15/Introduction.md)
+# [Read Introduction First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Manipulation-Number_15/Introduction.md)
 # Manipulation of Elements in the DOM
 By manipulating the DOM, it is possible to create, modify and remove elements from the web page, in addition to changing their attributes and styles. These procedures are performed using the properties and methods provided by the DOM.
 
@@ -79,3 +79,5 @@ Class manipulation is crucial for dynamically styling elements:
 2. **element.setAttribute(attribute, value)** Sets or changes the value of an attribute of an HTML element;
 ![image](https://github.com/user-attachments/assets/2b6b6b31-fe6f-4d3f-b10c-fcbc9bf24276)
 ![image](https://github.com/user-attachments/assets/cd9b2eca-d07e-4672-af2c-66710dc26b92)
+
+# [Go To Number_16](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16)

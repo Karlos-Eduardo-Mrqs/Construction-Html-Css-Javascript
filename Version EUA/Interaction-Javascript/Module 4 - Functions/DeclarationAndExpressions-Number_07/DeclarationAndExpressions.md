@@ -1,3 +1,5 @@
+# [Return Module 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%203%20-%20Loopings/Loopings-Number_06)
+
 # Procedures
 It is a structure that groups a set of commands that are executed when the procedure is called. Procedures are routines (snippets or modules) of programs that can perform a task defined by the programmer. We also have the function that returns a value (for example, a function that calculates square root returns a number)
 
@@ -39,4 +41,4 @@ Hoisting is a JavaScript behavior in which variable and function declarations ar
 Functions declared using function are fully elevated to the top of the scope, including the function body. This means that these functions can be called before they are declared in the code.In expressions functions, only the variable declaration occurs (with var), but the function will only be available after the line in which it is defined. With let or const, trying to access before the declaration results in an error.
 ![maxresdefault](https://github.com/user-attachments/assets/5bf77ca5-0dd0-4f8b-8951-7464871bce53)
 
-# [Go to Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%204%20-%20Functions/ArrowAndGenerator-Number_08/ArrowGenerator.md)
+# [Go to Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions/ArrowAndGenerator-Number_08/ArrowGenerator.md)

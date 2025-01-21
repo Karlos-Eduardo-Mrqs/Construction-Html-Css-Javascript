@@ -1,4 +1,4 @@
-# [Read Introduction First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%201%20%20Introduction/ConceptsNumber_01/Introduction.md)
+# [Read Introduction First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Concepts-Number_01/Introduction.md)
 
 # Front - End
 Now, we finally come to Javascript, the interaction of our websites. Where with it, we can work together with Html and Css. All three of these technologies are used to make the Front-End, that is, the front part. It can be represented by this image:
@@ -53,3 +53,5 @@ Then, if you don't have Visual Studio Code, access the website [Visual Studio Co
 # 3. Additional Extensions
 Now with VsCode installed, we will have to install programming language extensions, for example (Javascript, Python, C#, C++ and among others), helpers being used to help you debug these codes in the terminal, code.runner.
 ![image](https://github.com/user-attachments/assets/287744d6-75b2-426c-8256-58c4a78c86bd)
+
+# [Go To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Variables-Number_02/Variables.md)

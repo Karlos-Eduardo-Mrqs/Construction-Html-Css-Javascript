@@ -1,4 +1,4 @@
-# [Read Part 2 First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%204%20-%20Functions/ArrowAndGenerator-Number_08/ArrowGenerator.md)
+# [Read Part 2 First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions/ArrowAndGenerator-Number_08/ArrowGenerator.md)
 
 # Contruct Function
 Constructor functions are declared and defined like any other expression or declaration, the way they are used is the same, the difference is more in the use case and what it returns.A small observation is that normally the name of constructor functions begins with the first capital letter, for example:
@@ -63,3 +63,5 @@ Calls the add function with this set to null (not used in this case) and passes 
 - Use bind when you need to create a new function with a fixed context (this) and possibly some predefined arguments.
 - Use call when you want to call a function immediately and pass arguments individually.
 - Use apply when you want to call a function immediately and pass arguments as an array.
+
+# [Go To Module 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation)

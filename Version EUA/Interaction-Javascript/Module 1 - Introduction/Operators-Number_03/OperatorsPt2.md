@@ -1,4 +1,4 @@
-# [Read Part 1 First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt1.md)
+# [Read Part 1 First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt1.md)
 
 ## Comparison Operators
 Comparison operators are used to compare values ​​and return a Boolean result (true or false). 
@@ -30,3 +30,5 @@ Logical operators are used to combine or invert Boolean values. They are used to
 The truth table contains the possible logical values ​​(true or false) for each of the simple propositions that form the compound proposition and their combination.
 
 ![image](https://github.com/user-attachments/assets/3e0e360c-cbd1-4bd8-bb07-a26ecf1495e3)
+
+# [Go To Module 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%202%20-%20ConditionalStructure)

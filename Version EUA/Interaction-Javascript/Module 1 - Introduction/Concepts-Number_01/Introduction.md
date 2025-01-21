@@ -28,6 +28,8 @@ Taking advantage of the imminent success of the Java language, which was gaining
 # Conclusion 
 In short, these two elements of the development and technology area relate to the same purpose, although certain differences are easy to observe. The so-called programming language is the north of these two pieces that, on the one hand, are considered to be part of the same family and, on the other, are considered completely different.
 
-# [Reference 1](https://labs.bluesoft.com.br/2015/10/13/java-e-javascript/) and [Reference 2](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript)
+# [Reference 1](https://labs.bluesoft.com.br/2015/10/13/java-e-javascript/) 
 
-# [Concepts](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%201%20-%20Introduction/Concepts-Number_01/Concepts.md)
+# [Reference 2](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript)
+
+# [Concepts](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Concepts-Number_01/Concepts.md)

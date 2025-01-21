@@ -1,3 +1,5 @@
+# [Return Module 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript/Module%204%20-%20Functions)
+
 # JavaScript String Methods
 Character sequences make up strings in JavaScript. They are handled like simple data types. When invoking string methods on strings in JavaScript, the strings are automatically transformed into string objects.
 
@@ -57,4 +59,4 @@ Or, if you prefer, you can use the operator "+" to join the strings :
 - **replace(searchValue, newValue):** Replaces the first occurrence of a specified value with another value in a string.
 ![image](https://github.com/user-attachments/assets/35468e09-fbc7-4906-9a7f-29efb6cf57fb)
 
-# [Continue in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Strings-Number_10/Search_Strings.md)
+# [Continue in Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Strings-Number_10/Search_Strings.md)

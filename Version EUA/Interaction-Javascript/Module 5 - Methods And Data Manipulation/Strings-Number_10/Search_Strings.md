@@ -1,4 +1,4 @@
-# [Return Part One For Continue](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Strings-Number_10/Strings.md)
+# [Return Part One For Continue](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Strings-Number_10/Strings.md)
 
 # Search and Verification Methods in Strings
 Strings often involve searching for specific values ​​or checking for patterns. Here are some of the main categories and methods for these tasks:
@@ -40,3 +40,5 @@ Check if there is a specific substring within the main string. Returning true or
 ![image](https://github.com/user-attachments/assets/0ecab528-7d23-41eb-9321-188487f71b03)
 
 These methods are essential in many string manipulation operations, providing an efficient and practical way to perform searches and verifications.
+
+# [Go To Number_11](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%205%20-%20Methods%20And%20Data%20Manipulation/Numbers-Number_11/Numbers.md)
