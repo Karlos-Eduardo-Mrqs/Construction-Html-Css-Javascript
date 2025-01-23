@@ -1,3 +1,5 @@
+# [Leia o Número_03 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Layouts-N%C3%BAmero_03/Layout.md)
+
 # Manipulação De Cores
 Aprenderemos neste capítulo, como modificar e manipular as cores usando o css.
 # Background-Color
@@ -44,4 +46,7 @@ O fundo desaparece dentro da página. Agora, adicionando FF(representando o núm
 A Cor de fundo do parágrafo dois, está mais destacada. Podendo também usar o rgba(), funcionando da mesma maneira que o rgb. Diferenciando o número final, sendo a transparência/nitidez de um objeto.
 
 5. HSL:O hsl(Tom, Saturação , luminosidade) . É usado para criação de cores, não sendo tão usado assim. Sendo esse comando, "auxiliado" pela Matiz, Matiz é a forma como a maioria de nós percebe e nomeia uma cor – usando as cores do arco-íris (vermelho, laranja, verde, azul, etc.).
+
 [Consulte a roda de cores, para ver como as cores mudam de um tom para outro.](https://www.xrite.com/pt-pt/blog/color-attributes-hue-chroma#:~:texto%20que%20%C3%A9%20matiz%3F,de%20um%20tom%20para%20outro.)
+
+# [Continua no Número_05](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Preenchimento-N%C3%BAmero_05/Preenchimento.md)

@@ -1,4 +1,5 @@
-# [Leia a Introdução Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos)/Conceitos_Introdutorios-%20N%C3%BAmero_01/introducao.md)
+# [Leia a Introdução antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos)/Conceitos_Introdutorios-%20N%C3%BAmero_01/introducao.md)
+
 # Conceitos Básicos
 O Css é uma ferramenta muito potente que possibilita criar diversas funcionalidades ao invés de usar JavaScript ou outra linguagem mais pesada. Se usado com moderação, CSS pode viabilizar uma ótima experiência ao desenvolvedor e usuários das páginas web.
 # Estrutura Para o Css
@@ -38,3 +39,5 @@ Conhecido como atributo de identificação, ou seja, todas as tags terão que te
 Conhecido como atributo de classificação, ou seja, podemos dizer que ele é como se fosse um filtro para atribuir estilo para inúmeras tags html de uma vez. Como assim ? Por exemplo, imagine que todos os parágrafos possuem uma classe chamada ParGrf1, e todos que possuem essa classe terão seu fundo de cor preta e a cor da fonte para branco. Estilizando dessa maneira:``<style>.ParGrf1{ background-color: black; color:white; } </style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/6c2033ce-eda8-49db-b832-fd6e52af48a7)
+
+# [Continua no Número_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos)/Inserindo_No_Html-%20N%C3%BAmero_02/AtribuindoNoHtml.md)

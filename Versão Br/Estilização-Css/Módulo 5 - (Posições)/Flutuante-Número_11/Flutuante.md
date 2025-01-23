@@ -1,3 +1,5 @@
+# [Leia o Módulo 4 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%204%20-%20(Estilos%20De%20Fontes))
+
 # Posição Flutuante
 Com o Módulo 5 em mãos, aprenderemos a como manipular as posições dos objetos, começando pela posição flutuante.
 # Float
@@ -25,3 +27,5 @@ Usaremos essa página de exemplo, com quatro caixas divisórias classificadas bo
 ![image](https://github.com/user-attachments/assets/bedcb8f6-78bc-4bea-bdd6-f3bb33eaf5e4)
 
 E assim por diante, tendo inúmeras variações de posições flutuantes dentro dos sites e páginas web, podendo modificá-las como preferir.
+
+# [Continua no Número_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%205%20-%20(Posi%C3%A7%C3%B5es)/Poses-N%C3%BAmero_12) 

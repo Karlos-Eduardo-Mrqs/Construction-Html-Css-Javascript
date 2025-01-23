@@ -1,10 +1,14 @@
+# [Leia o Módulo 1 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%201%20-%20(Primeiros%20Passos))
+
 # Layouts
 Chegamos no segundo módulo de Estilização Css. Aqui falaremos sobre como alterar e controlar a aparência de uma Página Web.
+
 # Display 
 Começando pelo Display, caso você tenha visto "Construção-Html", falamos sobre o Display relembrando ... É uma propriedade/atributo dentro do css capaz de moldar a maneira que uma tag se comporta dentro da Página. 
 Por Exemplo:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/de06ca82-cefa-4ead-9b95-7686b06bf04c)
+
 ## Comparação Dos Displays
 Temos esses três elementos dentro da página. Uma Div, Um Parágrafo e Um Span(Texto 1). Quando inspecionamos cada um deles:
 
@@ -17,6 +21,7 @@ Podemos perceber que dentro de cada elemento, se comporta de uma maneira diferen
 - **block:** Ocupa uma linha inteira da página. Porém, aceita modificações de Altura e Largura(Explica depois). Visto logo acima.
 - **inline:** Ocupa somente o tamanho que texto possui. Porém, proíbe as alterações de Altura e Largura(Explica depois). Visto logo acima.
 - **inline-block:** Depois será falado !
+
 # Height e Width
 Indo para os atributos width e height, traduzindo ficaria como "Altura e Largura". Podemos manipular a altura e largura dos componentes em Html. Observe quando atribuímos a Largura da Div para 500px. Ou seja, toda a área destacada da cor azul é ocupada pela Div:
 
@@ -37,6 +42,7 @@ Ué?!? Não funcionou, porque? Simples, naturalmente o span possui um display in
 **O Texto 1, continua com as mesmas características.Para essa situação utilizamos um tipo de Display chamado "inline-block": um tipo de display que mistura as ações do Display inline e block;Podendo assim, não tendo restrições com a modificação de altura e largura.Olha a mensagem !:**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/04f49f65-6623-47ae-be56-051286a21353)
+
 # Min e Max
 Dentro dos atributos width e Height, podemos atribuir a eles um máximo e mínimo espaço. Por exemplo:
 
@@ -64,3 +70,5 @@ Mesmo sabendo que ele já possui uma largura de 200px, ele mudou para 300px. Por
 **Ele não pega todos os elementos, por ter o máximo de 250px. Então, ele respeitará o limite solicitado. O mesmo acontece ao atribuirmos um mínimo de altura de 240px.Isso se aplica com a largura mínima. Não alterando o que naturalmente foi atribuído para o mínimo solicitado.:**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/dd15fb6a-d2dd-409d-a526-795c986ad350)
+
+# [Continua no Número_04](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Paleta_De_Cores-N%C3%BAmero_04/Paleta.md)
