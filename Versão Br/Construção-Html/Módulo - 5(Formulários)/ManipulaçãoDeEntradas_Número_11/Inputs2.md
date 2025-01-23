@@ -1,4 +1,5 @@
-# [Leia a Parte 1 Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md) 
+# [Leia o Número_10 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)
+
 ## Tipos De Entrada De Caixas De Seleção
 1. **checkbox**: Uma caixa *"check"*, usada para marcação ou seleção, representado por um ⬜ : `` <input type="checkbox" name="termos" id="termo"> ``
 
@@ -50,3 +51,5 @@ Foi explicado na parte 1 sobre os tipos de botões, aqui com os inputs funcionam
 # Agrupamento De Campos:
 Dentro do formulário, precisamos agrupar certos campos dele para melhor visualização e leitura para o usuário, mostrando o que será importante, para fazer isso usamos uma tag chamada **``<fieldset> Para criar esse agrupamento <legend> Como Título Desse Agrupamento </legend> </fieldset>``**. Observe o exemplo abaixo:
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1eff2f5e-6a80-4fce-a4c9-d1af423c2136)
+
+# [Continua no Módulo 6](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%206(Modelando%20na%20Web))

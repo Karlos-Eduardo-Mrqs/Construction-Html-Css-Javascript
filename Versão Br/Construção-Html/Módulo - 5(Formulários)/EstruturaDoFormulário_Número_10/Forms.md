@@ -1,3 +1,5 @@
+# [Leia o Módulo 4 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas))
+
 # Formulários 
 Neste módulo, aprenderemos a estruturar um formulário. Onde seria uma forma do usuário interagir com o nosso site, colocando os seus dados e o html recebendo-os. Um exemplo que podemos citar de formulário, seria o cadastro e login; sendo necessário preenchê-los para confirmar sua identidade ou criar uma nova.
 
@@ -21,6 +23,4 @@ Neste módulo, aprenderemos a estruturar um formulário. Onde seria uma forma do
 - *reset:* Botão de Apagar/Resetar O Formulário;
 - *button:* Botão Normal;
 
-# [Código Final](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Formularios.html)
-
-# [Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)
+# [Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)

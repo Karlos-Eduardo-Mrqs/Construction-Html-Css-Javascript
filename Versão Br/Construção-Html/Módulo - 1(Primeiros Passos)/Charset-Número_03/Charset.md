@@ -1,3 +1,5 @@
+# [Leia o Número_02 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/EstruturaDoHtml-N%C3%BAmero_02/Estrutura.md)
+
 # Charset
 O Charset é conhecido como uma coleção de caracteres. Por exemplo, o Abecedário é um conjunto de letras de A ... Z; e ao redor do mundo, existem inúmeros tipos de letras e caracteres especiais.Como o abecedário Brasileiro, Chines, Arabe e Hebraico consecutivamente ...
 
@@ -13,3 +15,5 @@ Dentro da área de tecnologia, esse conceito não é diferente, possuindo até m
 
 ## Comando Meta
 Sabendo disso, podemos utilizar uma **TAG** chamada meta, que pode definir por padrão dentro do cabeçalho, ou seja , a **TAG** head qual será a coleção de caracteres padrão. Podendo ser **UTF-8** que engloba todos os idiomas criados até então ou até mesmo **ASCII** utilizando todos os caracteres ASCII.`` <meta charset ="UTF-8" \> ``. Essa tag não possui um fechamento ``</meta> ``, então para fechá-la, é assim `` <meta /> ``;
+
+# [Continua no Módulo 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos))

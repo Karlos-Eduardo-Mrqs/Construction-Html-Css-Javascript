@@ -1,3 +1,5 @@
+# [Leia o Módulo 2 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos))
+
 # Links e Âncoras
 Chegamos agora na manipulação de links e âncoras. Junto desses dois conceitos, podemos navegar duas ou mais páginas, em uma única página.
 
@@ -41,3 +43,5 @@ Indo para o 3º atributo, quando navegamos uma página, não queremos que o noss
         </ul>
     </p>
 ```
+
+# [Continua no Número_08](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%203(Navega%C3%A7%C3%A3o%20e%20M%C3%ADdia)/MidiasVisuaisEasMusicais_N%C3%BAmero_08/Midias.md)

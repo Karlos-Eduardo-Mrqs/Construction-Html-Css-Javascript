@@ -1,3 +1,5 @@
+# [Leia a parte um antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md)
+
 # Listas Ordenadas e Não Ordenadas
 No Html, podemos criar dois tipos de listas, sendo elas ordenadas(com números) e não ordenadas(com pontinhos);
 
@@ -56,3 +58,5 @@ Podemos notar que no *"item 1 "* temos uma sub lista ordenada e no *"item 4"* Te
         </li>
 </ul>
 ```
+
+# [Continua no Módulo 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%203(Navega%C3%A7%C3%A3o%20e%20M%C3%ADdia))
