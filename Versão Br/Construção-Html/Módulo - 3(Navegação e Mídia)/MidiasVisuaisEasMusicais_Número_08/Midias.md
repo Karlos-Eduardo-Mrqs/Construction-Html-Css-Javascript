@@ -1,3 +1,5 @@
+# [Leia o Número_07 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%203(Navega%C3%A7%C3%A3o%20e%20M%C3%ADdia)/LinksEas%C3%82ncoras_N%C3%BAmero_07/LinksEasAncoras.md)
+
 # Mídias Musicais E Visuais
 Aprenderemos hoje, como manipular arquivos de vídeo, áudio e imagem dentro de nossas páginas. Vamos lá .
 
@@ -64,3 +66,5 @@ Logo acima foi utilizado a tag **EMBED**. Que não é tão utilizado, por conta 
 ![ExemploIframe](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/91d691cc-bc65-42ad-bfe9-8a806ff229f9)
 
 Acima usamos a tag **IFRAME**. Que é mais utilizada, onde até mesmo pelo Youtube, você pode pegar esse Iframe.Siga passo a passo, **Entre no Youtube; Escolha o Vídeo; Clique em Compartilhar e depois Incorporar; Copie o Código Iframe e pronto "CTRL+C NO YOUTUBE E CTRL+V NO VISUAL STUDIO**.
+
+# [Continua no Módulo 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas))

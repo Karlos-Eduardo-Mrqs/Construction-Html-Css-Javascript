@@ -1,4 +1,5 @@
-# [Leia A Introdução Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/Modulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/Introdu%C3%A7%C3%A3o.md)
+# [Leia A Introdução antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/Introdu%C3%A7%C3%A3o.md)
+
 # O que são Tags e Blocos ?
 As Tags são conhecidas como Blocos; onde todo o seu conteúdo é _"anexado"_ por elas. Por Exemplo: ``<tag> Conteúdo </tag> ``. Como pode ver, a TAG possui abertura, fechamento e seu conteúdo fica no meio._
 
@@ -20,3 +21,5 @@ Na Tag "p", ele possui por padrão o Display "Block", fazendo que o texto "Pará
 Já quando utilizamos um texto normal dessa maneira: ``Texto 1 Texto 2 ``
 
 Sem nenhuma TAG, os dois textos ficaram um do lado do outro, por possuírem por padrão o Display "Inline", isso também acontece com a TAG span, uma tag específica para textos. Para observar a diferença de displays basta abrir o documento, usar o atalho "CTRL+SHIFT⬆️+I" procurar um ícone↖️ e clicar no elemento desejado.
+
+# [Continua no Número_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/EstruturaDoHtml-N%C3%BAmero_02/Estrutura.md)

@@ -1,4 +1,5 @@
-# [Leia A Estrutura Primeiro !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%206(Modelando%20na%20Web)/Estrutura_N%C3%BAmero_12/Estrutura.md)
+# [Leia o Número_12 antes de continuar !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%206(Modelando%20na%20Web)/Estrutura_N%C3%BAmero_12/Estrutura.md)
+
 # Conteúdo Das Páginas Web
 Na pasta anterior(Estrutura-Número_12), aprendemos a observar e interpretar os blocos dentro das páginas Web. E agora, faremos o conteúdo principal e diferenciação delas, tendo elas duas partes importantes, **Cabeçalho, Conteúdo e Rodapé**:
 ## Cabeçalho
@@ -68,4 +69,5 @@ O Rodapé é a parte inferior do nosso site, localizado no final ela cita "o por
 ```
 # Finalização
 Encerramos aqui, **A construção-Html**. Onde aprendemos a construir as nossas páginas de uma página em branco, para uma página com muitos textos, imagens, áudios e etc, com muita organização e hierarquia. Agradeço por ter lido todos esses módulos, espero que eles te ajudem de alguma forma a entender como fazer coisas em HTML.
+
 # [Bonus](https://www.w3schools.com/tags/default.asp)

@@ -1,3 +1,5 @@
+# [Leia o Número_04 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/HeadingsEosParagrafos-N%C3%BAmero_04/HeadsEosParagrafos.md)
+
 # Formatação De Texto 
 Agora que aprendemos a lidar com a Estrutura Básica, Headings(Cabeçalhos/Títulos) e Parágrafos, está na hora de aprender a lidar com a **manipulação de textos**.
 
@@ -36,3 +38,5 @@ Um comando dentro do Visual Studio Code, que gera um texto aleatório.**Lorem ip
 **Todas as tags, MENOS A TAG P**, possuem Display Inline, ou seja só ocupa o espaço que o tamanho do conteúdo tem, olhe a imagem abaixo:
 
 ![ExemploDisplayInline](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
+
+# [Continua no Número_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md)

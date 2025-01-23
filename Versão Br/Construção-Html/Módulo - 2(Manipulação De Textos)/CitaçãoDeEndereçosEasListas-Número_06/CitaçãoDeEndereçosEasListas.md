@@ -1,3 +1,5 @@
+# [Leia o Número_05 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Formata%C3%A7%C3%A3oDeTextos-N%C3%BAmero_05)
+
 # Citações No Html
 Dentro Do Html, podemos "referenciar" um texto que já foi criado no nosso site usando a tag `` <blockquote> </blockquote>``, sendo sua estrutura assim:
 ```
@@ -21,3 +23,5 @@ Percebeu que ao lado da tag `` <blockquote> ``, tem um termo chamado "cite"(Que 
 ![ExemplosDeAtributo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e7296dd7-996c-49fa-9103-8ae7e76a262e)
 
 Podemos modelar atributos, para fazer que as tags/blocos se comportem da forma que desejamos. Como foi visto logo acima, mudando a cor do parágrafo para azul .
+
+# [Continua na parte dois](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Listas.md)

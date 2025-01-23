@@ -1,3 +1,5 @@
+# [Leia a parte um antes](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/TabelasPrt1.md)
+
 ## Melhorando A Tabela Alunos
 Agora que a tabela foi criada, vamos fazer o mesmo Design que está aplicado na imagem de exemplo dos alunos
 
@@ -44,3 +46,5 @@ Está faltando uma tabela, a dos professores ! **O desafio é o seguinte, com os
 # [Bonus2](https://www.homehost.com.br/blog/criar-sites/tabela-html/)
 
 # Atenção, no bônus eu corrigi um erro, eu esqueci de colocar os dados do aluno Carlos ! Perdoem-me pelo erro.
+
+# [Continua no Módulo 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios))

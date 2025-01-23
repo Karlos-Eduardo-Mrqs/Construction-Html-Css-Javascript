@@ -1,3 +1,5 @@
+# [Leia o Número_01 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/Introdu%C3%A7%C3%A3o.md)
+
 # Conceitos de Estruturas
 _Entendendo o conceito de Tags, iremos diretamente para a estrutura do HTML !_
 
@@ -26,3 +28,5 @@ _Entendendo o conceito de Tags, iremos diretamente para a estrutura do HTML !_
     </body>
 </html>
 ```
+
+# [Continua no Número_03](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/Charset-N%C3%BAmero_03/Charset.md)
