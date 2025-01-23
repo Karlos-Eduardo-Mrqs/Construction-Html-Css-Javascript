@@ -1,3 +1,5 @@
+# [Leia o Número_09 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%204%20-%20(Estilos%20De%20Fontes)/Tipos-N%C3%BAmero_09/Tipos.md)
+
 # Decoração
 Anteriormente, aprendemos a modificar e importar tipos de fontes que as atribuí-los. Agora, faremos a decoração desse texto, por exemplo, aplicar cores, espaçamento, alinhamento entre outros.
 # Ilustração para exemplo
@@ -43,3 +45,5 @@ Finalizando a decoração dos textos, podemos definir por padrão, que cada pala
 Para usar de exemplo, criaremos outra caixa parecida às duas anteriores, tendo diferença de padronização e outros atributos a mais, como cor, decoração e etc;terá em conjunto, todas as palavras em caixa alta:
 
 ![image](https://github.com/user-attachments/assets/c6db7fff-d7b0-4105-bf0a-987eddf93cf8)
+
+# [Continuar No Módulo 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%205%20-%20(Posi%C3%A7%C3%B5es))

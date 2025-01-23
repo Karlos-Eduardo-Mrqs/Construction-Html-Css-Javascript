@@ -1,3 +1,5 @@
+# [Leia o Número_07 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%203%20-%20(Espa%C3%A7amento)/Interno_E_Externo-%20N%C3%BAmero_07/InternoExterno.md)
+
 # Contenção 
 Neste capítulo aprenderemos a ver como lidar com a contenção do seu conteúdo.
 # Tamanho Da Caixa 
@@ -46,3 +48,5 @@ Usando essas mesmas caixas do exemplo anterior. Vamos atribuir um comando chamad
 Para exemplificar isso, cada uma das quatro caixas ficará com o espaço em branco diferente(Azul = wrap, Branca = pre-wrap, Vermelha = nowrap e Verde = normal):
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/127f2b3f-dc54-491a-b6ae-aa41863478c1)
+
+# [Continua no Módulo 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%204%20-%20(Estilos%20De%20Fontes))

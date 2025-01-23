@@ -1,3 +1,5 @@
+# [Leia o Módulo 3 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%203%20-%20(Espa%C3%A7amento))
+
 # Tipos de Fontes 
 Estamos agora no módulo 4, vamos aprender a modificar os tipos de fontes.
 # font-family 
@@ -36,3 +38,5 @@ Além disso, ele também possui quatro tipos padrões como **("lighter","normal"
 # font-style
 - italic ou oblique: _Deixa o texto com uma curva para a direita;_
 - normal: Mantém o texto padrão do jeito que está;
+
+# [Continue no Número_10](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%204%20-%20(Estilos%20De%20Fontes)/Decora%C3%A7%C3%A3o-N%C3%BAmero_10/Decora%C3%A7%C3%A3o.md)

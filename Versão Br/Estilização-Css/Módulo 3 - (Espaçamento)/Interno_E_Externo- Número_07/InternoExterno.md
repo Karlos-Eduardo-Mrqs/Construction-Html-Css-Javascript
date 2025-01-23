@@ -1,3 +1,5 @@
+# [Leia o Módulo 2 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia))
+
 # Espaçamento 
 O Espaçamento é o ato de abrir ou ter abertura entre dois elementos. Onde podemos defini-lo externamente ou internamente.
 ![artigo-como-usar-as-propriedades-margin-e-padding-css-24409](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/c6299b7e-9462-46a5-9359-235a42e64581)
@@ -55,4 +57,6 @@ Observe quando aplicarmos o preenchimento para 50px:
 **Ademais, quando colocarmos desta forma: ``padding: 20px 15px;``.O topo e o lado inferior, estão com 20px e a esquerda e direita ficaram com 15px. E concluindo, colocando somente um valor de tamanho para a margem, todos os lados são iguais, ou seja, se adicionar a margem com  20px somente:``margin: 20px;``, elas ficaram idênticas.**
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/711316e6-f5d9-465f-bdbb-7032b724825d)
 
-### [width e heigth](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/blob/main/Estilizacao-Css/Modulo%202%20-%20(Aparencia)/Layouts-N%C3%BAmero_03/Layout.md)
+### [width e heigth](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Layouts-N%C3%BAmero_03/Layout.md)
+
+# [Continua no Número_08]()

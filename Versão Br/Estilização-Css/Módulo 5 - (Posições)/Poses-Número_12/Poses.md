@@ -1,3 +1,5 @@
+# [Leia o Número_11 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%205%20-%20(Posi%C3%A7%C3%B5es)/Poses-N%C3%BAmero_12/Poses.md)
+
 # Posições Específicas
 Na prática anterior, aprendemos a mexer com a posição flutuante, movimentando os objetos somente para a esquerda,direita e nenhum deles, deixando o objeto sobreposto.
 Agora, aprenderemos a como movimentar os objetos para qualquer canto ou direção que quiser.
@@ -50,3 +52,5 @@ Posição Fixa, fixando ou até mesmo prendendo o objeto em uma posição, por e
 ## Sticky
 Posição colada, diferentemente da posição fixa, essa posição ele pode aparecer na tela de forma grudada; aparecendo quando o objeto desaparecer, sendo visível novamente para a leitura. Sendo semelhante com a fixa, porém fica grudada com a tela ao não ser visível na tela:
 ![image](https://github.com/user-attachments/assets/478e5c12-75be-4efe-826e-c6cffd069ca9)
+
+# [Continua no Número_13]()
