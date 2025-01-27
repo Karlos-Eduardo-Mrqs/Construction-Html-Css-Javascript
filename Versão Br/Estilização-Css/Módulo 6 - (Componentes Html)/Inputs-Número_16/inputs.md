@@ -1,3 +1,5 @@
+# [Leia o Número_15 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Ancoras.md)
+
 # Entradas de estilo
 Neste capítulo, abordaremos o estilo das entradas, chamadas entradas com css
 # Página de exemplo
@@ -42,4 +44,6 @@ Além disso, podemos aplicar estilo ao placeholder (as mensagens sombreadas no c
 
 ![imagem](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
 
-# [Final css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/style.css)
+# [Final css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/style.css)
+
+# [Continua no Número_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Tabelas-N%C3%BAmero_17/Tabelas.md)

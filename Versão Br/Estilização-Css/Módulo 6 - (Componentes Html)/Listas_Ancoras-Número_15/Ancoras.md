@@ -1,3 +1,5 @@
+# [Leia o Número_14 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/Normaliza%C3%A7%C3%A3o.md)
+
 # Estilização De Âncoras e Listas 
 Nesse módulo, aprenderemos a fazer estilizações com os componentes html, começando pelas listas e âncoras.
 ## Âncoras 
@@ -73,4 +75,4 @@ body{
 }
 ```
 
-# [Estilizando Listas !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Listas.md)
+# [Estilizando Listas !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Listas.md)
