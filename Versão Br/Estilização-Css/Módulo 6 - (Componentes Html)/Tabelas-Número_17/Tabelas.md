@@ -1,3 +1,5 @@
+# [Leia o Número_16 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/inputs.md)
+
 # Estilos com Tabelas
 Nesse capítulo de estilos de componentes html, vamos estilizar uma tabela do html.
 
@@ -83,3 +85,5 @@ body{
     background-color: red;
 }
 ```
+
+# [Continua no Número_18](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/BarraDeRolagem-N%C3%BAmero_18/BarraDeRolagem.md)
