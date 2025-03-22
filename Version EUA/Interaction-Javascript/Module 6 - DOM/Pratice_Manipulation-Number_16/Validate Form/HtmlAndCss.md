@@ -8,7 +8,7 @@ This document explains the structure and styling of a dynamic form that includes
 
 ### 1.1. General Structure
 The HTML defines the basic structure of the dynamic form, featuring two main screens: **Login** and **Registration**. It also includes a **popup** to display important messages to the user.
-
+```html 
 <div class="popup">
     <p class="pair"></p>
 </div>
@@ -27,6 +27,7 @@ The HTML defines the basic structure of the dynamic form, featuring two main scr
         </form>
     </div>
 </div>
+```
 
 ## 1.2. Key Elements
 - .popup : A fixed container in the top-right corner of the screen used to display important messages.
@@ -37,7 +38,7 @@ The HTML defines the basic structure of the dynamic form, featuring two main scr
 
 ## 2. CSS Styling
 #### 2.1. Global Styles
-
+```css
 CSS defines global styles to ensure consistency and responsiveness.
 * {
     margin: 0;
@@ -53,6 +54,7 @@ body {
     min-height: 100vh;
     background-color: #f0f0f0;
 }
+```
 
 - Reset Margins and Padding : Removes default spacing from elements to avoid inconsistencies.
 - Centering : The body centers the content on the screen.
@@ -61,6 +63,7 @@ body {
 ###  2.2. Main Container Styling
 The .box is the main container that wraps the login and registration screens.
 
+```css
 .box {
     background-color: #fff;
     padding: 30px;
@@ -70,13 +73,16 @@ The .box is the main container that wraps the login and registration screens.
     width: 100%;
     position: relative;
 }
+```
 
-White Background : Provides contrast against the gray background.
-Shadow and Rounded Corners : Adds a modern and professional touch.
-Responsiveness : The max-width ensures the form adapts well to smaller screens.
+
+- White Background : Provides contrast against the gray background.
+- Shadow and Rounded Corners : Adds a modern and professional touch.
+- Responsiveness : The max-width ensures the form adapts well to smaller screens.
 
 ### 2.3. Switching Between Screens
 The forms are toggled using the .form-content and .active classes.
+```css
 .form-content {
     display: none; /* Initially hides all forms */
     width: 100%;
@@ -86,13 +92,15 @@ The forms are toggled using the .form-content and .active classes.
 .form-content.active {
     display: block; /* Displays the active form */
 }
+```
 
-Initial Hiding : All forms start hidden (display: none).
-Active Display : The .active class sets display: block to show the selected form.
+- Initial Hiding : All forms start hidden (display: none).
+- Active Display : The .active class sets display: block to show the selected form.
 
 ### 2.4. Input and Label Styling
 Input fields and their labels have a modern and interactive design.
 
+```css
 .input-container {
     position: relative;
     margin-bottom: 20px;
@@ -130,14 +138,15 @@ input:not(:placeholder-shown) + label {
     font-size: 12px;
     color: #66CDAA;
 }
+```
 
-Relative Positioning : The label is positioned inside the input using position: absolute.
-Floating Labels : When the user focuses or fills a field, the label floats above the input.
-Smooth Transitions : Changes in position and color of the labels are animated to enhance the user experience.
+- Relative Positioning : The label is positioned inside the input using position: absolute.
+- Floating Labels : When the user focuses or fills a field, the label floats above the input.
+- Smooth Transitions : Changes in position and color of the labels are animated to enhance the user experience.
 
 ### 2.5. Button Styling
 Buttons have a clean and modern design, with hover animations.
-
+```css
 button {
     width: 100%;
     padding: 10px;
@@ -153,13 +162,14 @@ button {
 button:hover {
     background-color: #06dd95;
 }
+```
 
-Responsive Buttons : They occupy the full available width (width: 100%).
-Interaction : The background color changes smoothly on hover.
+- Responsive Buttons : They occupy the full available width (width: 100%).
+- Interaction : The background color changes smoothly on hover.
 
 2.6. Popup Styling
 The popup is used to display important messages, such as errors or confirmations.
-
+```css
 .popup {
     display: none;
     position: fixed;
@@ -182,6 +192,7 @@ The popup is used to display important messages, such as errors or confirmations
     visibility: visible;
     transform: translateY(0);
 }
+```
 
-Fixed Positioning : The popup stays visible in the top-right corner.
-Entrance Animation : Uses opacity, visibility, and transform to create a smooth transition
+- Fixed Positioning : The popup stays visible in the top-right corner.
+- Entrance Animation : Uses opacity, visibility, and transform to create a smooth transition
