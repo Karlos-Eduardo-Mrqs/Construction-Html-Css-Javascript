@@ -8,7 +8,7 @@ This document explains the structure and styling of a dynamic form that includes
 
 ### 1.1. General Structure
 The HTML defines the basic structure of the dynamic form, featuring two main screens: **Login** and **Registration**. It also includes a **popup** to display important messages to the user.
-``` 
+```html 
 <div class="popup">
     <p class="pair"></p>
 </div>
@@ -38,7 +38,7 @@ The HTML defines the basic structure of the dynamic form, featuring two main scr
 
 ## 2. CSS Styling
 #### 2.1. Global Styles
-``` 
+```css
 CSS defines global styles to ensure consistency and responsiveness.
 * {
     margin: 0;
@@ -63,7 +63,7 @@ body {
 ###  2.2. Main Container Styling
 The .box is the main container that wraps the login and registration screens.
 
-``` 
+```css
 .box {
     background-color: #fff;
     padding: 30px;
@@ -82,7 +82,7 @@ The .box is the main container that wraps the login and registration screens.
 
 ### 2.3. Switching Between Screens
 The forms are toggled using the .form-content and .active classes.
-``` 
+```css
 .form-content {
     display: none; /* Initially hides all forms */
     width: 100%;
@@ -100,7 +100,7 @@ The forms are toggled using the .form-content and .active classes.
 ### 2.4. Input and Label Styling
 Input fields and their labels have a modern and interactive design.
 
-```
+```css
 .input-container {
     position: relative;
     margin-bottom: 20px;
@@ -146,7 +146,7 @@ input:not(:placeholder-shown) + label {
 
 ### 2.5. Button Styling
 Buttons have a clean and modern design, with hover animations.
-``` 
+```css
 button {
     width: 100%;
     padding: 10px;
@@ -169,7 +169,7 @@ button:hover {
 
 2.6. Popup Styling
 The popup is used to display important messages, such as errors or confirmations.
-``` 
+```css
 .popup {
     display: none;
     position: fixed;
