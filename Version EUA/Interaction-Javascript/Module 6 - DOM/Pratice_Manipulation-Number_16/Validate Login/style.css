@@ -1,0 +1,150 @@
+/* styles.css */
+
+/* Estilo global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.box {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    max-width: 480px;
+    width: 100%;
+    position: relative; /* Para posicionar o popup corretamente */
+}
+
+.form-content {
+    display: none; /* Oculta todos os formulários inicialmente */
+    width: 100%;
+    text-align: center;
+}
+
+.form-content.active {
+    display: block; /* Exibe o formulário ativo */
+}
+
+.inputs-box {
+    margin: 20px 0;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+input {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+input:focus {
+    border-color: #66CDAA;
+}
+
+label {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    font-size: 16px;
+    color: #999;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+input:focus + label,
+input:not(:placeholder-shown) + label {
+    top: -10px;
+    left: 10px;
+    font-size: 12px;
+    font-weight: bolder;
+    color: #66CDAA;
+
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #66CDAA;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #06dd95;
+}
+
+.links-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.links-container button {
+    background: none;
+    border: none;
+    color: #66CDAA;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.links-container button:hover {
+    text-decoration: underline;
+}
+
+/* Popup */
+.popup {
+    display: none;
+    position: absolute;
+    top: 20px;
+    background-color: snow;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    border-radius: 5px;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-20px);
+    transition: all 0.3s ease-in-out;
+}
+
+.popup.show {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.pair {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Dinâmico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="popup">
+        <p class="pair"></p>
+    </div>
+    <div class="box">
+        <!-- Popup para mensagens -->
+
+        <!-- Tela de Cadastro -->
+        <div id="cadastro" class="form-content">
+            <form  method="post" name="cadastro">
+                <div class="inputs-box">
+                    <h2>Faça Cadastro</h2>
+                    <div class="input-container">
+                        <input type="text" name="nome" id="nome" placeholder=" "  maxlength="50">
+                        <label for="nome">Nome</label>
+                    </div>
+                    <div class="input-container">
+                        <input type="email" name="email" id="email" placeholder=" "  maxlength="80">
+                        <label for="email">Email</label>
+                    </div>
+                    <div class="input-container">
+                        <input type="password" name="senha" id="senha" placeholder=" "  maxlength="15" minlength="6">
+                        <label for="senha">Senha</label>
+                    </div>
+                    <div class="input-container">
+                        <input type="password" name="confirmar_senha" id="confirmar_senha" placeholder=" "  maxlength="15" minlength="6">
+                        <label for="confirmar_senha">Confirmar Senha</label>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <button type="submit" name="cadastrar">Cadastrar</button>
+                    <div class="links-container">
+                        <button id="voltarLogin" type="button">Voltar ao Login</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <!-- Tela de Login -->
+        <div id="login" class="form-content active">
+            <form action="Send.php" method="post" name="login">
+                <div class="inputs-box">
+                    <h2>Faça Login</h2>
+                    <section class="group-1">
+                        <div class="input-container">
+                            <input type="email" name="login_email" id="login_email" placeholder=" "  maxlength="80" minlength="10">
+                            <label for="login_email">Email</label>
+                        </div>
+                    </section>
+                    <section class="group-2">
+                        <div class="input-container">
+                            <input type="password" name="login_senha" id="login_senha" placeholder=" "  maxlength="15" minlength="6">
+                            <label for="login_senha">Senha</label>
+                        </div>
+                    </section>
+                </div>
+                <div class="buttons">
+                    <button type="submit" name="entrar">Entrar</button>
+                    <div class="links-container">
+                        <button id="criarConta" type="button">Criar Conta</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
