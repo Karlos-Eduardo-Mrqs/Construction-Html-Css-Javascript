@@ -1,8 +1,7 @@
-# 🌐 **Construção HTML, CSS e JavaScript**
+# 🌐 **Construção HTML-CSS-JavaScript** _Versão BR_
 Bem-vindo ao repositório **Construção HTML, CSS e JavaScript**! 🚀 Este repositório contém recursos e projetos para o desenvolvimento web, cobrindo três áreas essenciais: **HTML**, **CSS** e **JavaScript**.
 
 ## 📚 **Versões Disponíveis**
-
 Este repositório oferece duas versões:
 
 - **Versão Br** (português)
@@ -49,13 +48,13 @@ Você tem todo o direito de usar este material para seu próprio aprendizado. Pr
 Este repositório segue a licença **MIT**, permitindo que você use, modifique e distribua o conteúdo, desde que a atribuição ao autor seja mantida.
 
 Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
----
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue**.
 
 🚀 **Aproveite a aprendizagem e boa codificação!** 💻
 
-# 🌐 **Construction HTML, CSS, and JavaScript**
+---
+# 🌐 **Construction HTML-CSS-JavaScript** _Versão EUA_
 
 Welcome to the **Construction HTML, CSS, and JavaScript** repository! 🚀 This repository contains resources and projects for web development, covering three essential areas: **HTML**, **CSS**, and **JavaScript**.
 
@@ -106,7 +105,6 @@ You have the full right to use this material for your own learning. Teachers may
 This repository follows the **MIT** license, which means you can use, modify, and distribute the content as long as the attribution to the author is maintained.
 
 Check the [LICENSE](./LICENSE) file for more details.
----
 
 If you have any questions or suggestions, feel free to open an **issue**.
 
