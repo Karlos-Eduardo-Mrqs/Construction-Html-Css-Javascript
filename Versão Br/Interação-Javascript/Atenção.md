@@ -50,4 +50,4 @@ Neste módulo, você aprenderá como interagir com o Document Object Model (DOM)
 # Observação 👓 
 Para ler estas pastas e arquivos, é recomendado que **siga os módulos na ordem e, ao abrir os módulos, leia o Número_1 em diante**, Exemplo (Conceitos-Number_01), (Variáveis-Number_02), e assim por diante, para não se perder, ok? Porque cada uma dessas pastas e arquivos tem conexão.
 
-# [Menção Honrosa ao Curso Jornada Dev, pelo aprendizado até o Módulo 1.](https://jornadadodev.com.br/cursos/front-end/javascript)
+# Atenção, diferente dos outros guias apresentados (HTML e CSS (até o Módulo 6)), demonstrados anteriormente, que foram baseados nos ensinamentos do curso Jornada Dev ... Esse guia é completamente autoral do autor que vos fala, Karlos-Mrqs-Dev!  
