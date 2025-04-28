@@ -42,11 +42,11 @@ In this module, you will learn how to interact with the Document Object Model (D
 - **[Official JavaScript documentation](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 - **[DOM Manipulation Guide](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction)**
 
-# 🌟 Tecnologias
-- **JavaScript ✈️** Linguagem de programação para adicionar interatividade às páginas web.
-- **HTML e CSS🧑‍🎨** Utilizados para estruturar e estilizar as páginas que você irá interagir.
+# 🌟 Technologies
+- **JavaScript ✈️** Programming language for adding interactivity to web pages.
+- **HTML and CSS🧑‍🎨** Used to structure and style the pages you will interact with.
 
 # Observation 
 To read these folders and files, it is recommended that **Follow the Modules in order and when opening the modules, read Number_1 onwards**, Example(Concepts-Number_01), (Variables-Number_02) and continue, so as not to if they get lost, ok? Because each of these folders and files have connection.
 
-# [Honorable Mention to the Jornada Dev Course in Module 1 .](https://jornadadodev.com.br/cursos/front-end/javascript);
+# Attention, unlike the other guides presented (HTML and CSS (up to Module 6)), demonstrated previously, which were based on the teachings of the Jornada Dev course... This guide is completely original to the author who speaks to you, Karlos-Mrqs-Dev!
