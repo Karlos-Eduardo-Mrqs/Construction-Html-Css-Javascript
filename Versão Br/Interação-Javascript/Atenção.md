@@ -26,7 +26,7 @@ Descubra como criar e usar funções para organizar e reutilizar seu código. Ap
 
 Explore métodos e técnicas para manipular diferentes tipos de dados, incluindo arrays e objetos. Veja como usar métodos específicos para processar e transformar dados em JavaScript.
 
-## [6. DOM (Document Object Model)](#) 📖
+## [6. DOM (Document Object Model)](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Intera%C3%A7%C3%A3o-Javascript/Modulo%206%20-%20DOM) 📖
 ![ja-animado](https://github.com/user-attachments/assets/e43b52b8-5c3a-465f-8b91-31e90e589e05)
 
 Neste módulo, você aprenderá como interagir com o Document Object Model (DOM) para modificar e atualizar a estrutura da sua página web. Aprenda como selecionar elementos, manipular conteúdo e reagir a eventos do usuário.
