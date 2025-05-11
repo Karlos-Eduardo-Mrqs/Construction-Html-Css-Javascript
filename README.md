@@ -5,9 +5,9 @@ Welcome to the **Construction HTML, CSS, and JavaScript** repository! 🚀 This 
 ## 📚 **Available Versions**
 This repository offers two versions:
 
-- [**Version Br**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md)
+- [**🇺🇸 Versão EUA _current_**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md)
 
-- [**Versão EUA _current_**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md)
+- [**🇧🇷 Version Br**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md)
 
 Choose the version you'd like to explore by clicking the links below.
 
