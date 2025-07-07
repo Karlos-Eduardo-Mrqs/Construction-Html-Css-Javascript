@@ -1,23 +1,66 @@
-# O QUE É HTML?
-**A Hypertext Markup Language (Linguagem de Marcação de Hipertexto)** Não é uma linguagem de programação e sim, como o nome diz, uma linguagem de marcação ou markup. Ela funciona através de “marcações” chamadas tags ou etiquetas, com o propósito de estruturar e definir a natureza do conteúdo de uma página.
+# O QUE É HTML? 🤔
 
-## Versões Em Html
-A HTML já passou por diversas revisões e, hoje, a utilização da versão HTML5 é recomendada e possui pleno suporte pelos navegadores. Por questões de histórico, listo abaixo outras versões da linguagem amplamente utilizadas no passado. As diferenças, na prática, são poucas, mas não há motivo para se utilizar as versões 4 ou XHTML 1.0 / 1.1.
+**A Hypertext Markup Language (Linguagem de Marcação de Hipertexto)** não é uma linguagem de programação propriamente dita, mas sim uma linguagem de marcação, como o próprio nome sugere.
+
+Seu objetivo principal é estruturar o conteúdo de uma página web por meio de marcações conhecidas como **tags** (ou etiquetas), que informam ao navegador como cada parte do conteúdo deve ser exibida ou interpretada.
+
+Diferentemente de linguagens de programação que executam ações e cálculos, como JavaScript ou Python, o HTML serve como a fundação estrutural de qualquer documento da web. Ele define elementos como títulos, parágrafos, listas, imagens, links, tabelas, formulários e muito mais, permitindo que os navegadores interpretem corretamente o conteúdo e o apresentem ao usuário de forma organizada.
+
+As **tags HTML** são escritas entre colchetes angulares (`< >`) e geralmente aparecem em pares — uma tag de abertura e uma de fechamento. Por exemplo: `<p>` para abrir um parágrafo e `</p>` para fechá-lo. Algumas tags são autoencerráveis, como `<img />`, usada para inserir imagens.
+
+---
+
+## Versões em HTML 🧰
+
+A linguagem HTML passou por diversas revisões e melhorias ao longo do tempo. Atualmente, a **versão mais recente e recomendada é o HTML5**, que oferece suporte completo nos navegadores modernos. Embora versões anteriores ainda possam funcionar, elas não são indicadas para novos projetos devido à limitação de recursos.
+
+Abaixo, destacam-se as versões mais importantes da evolução do HTML:
 
 ### HTML 4.01
-Versão finalizada em 1999 e utilizada por desenvolvedores por mais de 10 anos;
+
+Versão finalizada em 1999, amplamente adotada por mais de uma década. Representou um marco importante na padronização do desenvolvimento web e trouxe recursos como o uso de folhas de estilo (CSS) e melhor separação entre conteúdo e apresentação. Ainda é possível encontrar muitos sistemas legados utilizando essa versão, embora ela esteja obsoleta nos padrões atuais.
+
 ### XHTML 1.0 / 1.1
-Muito utilizada a partir dos anos 2000, esta versão da HTML feita com a linguagem XML (Extensible Markup Language) ajudou a padronizar o desenvolvimento para a web com as suas regras mais rígidas, herdadas da XML. Pode-se também utilizar XHTML com HTML5, mas esta opção não será abordada neste curso e possui pouca aderência atualmente.
+
+A partir dos anos 2000, tornou-se comum o uso do XHTML — uma combinação entre HTML e XML (Extensible Markup Language). Essa variação buscava trazer mais rigidez e padronização ao código, exigindo que os desenvolvedores seguissem regras mais estritas. Embora tenha sido bastante utilizada, o XHTML perdeu força com a ascensão do HTML5. Hoje, seu uso é raro e geralmente restrito a contextos muito específicos. É possível utilizá-lo com HTML5, mas essa prática é incomum e não será abordada neste curso.
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/bcd23d4e-012c-46dc-8298-1769db7d8892)
+
 ### HTML5
-Apresenta várias e interessantes possibilidades para a web. Está fora do escopo deste curso aborda todas as novidades, mas aqui já iremos utilizar alguns dos recursos que facilitam a o desenvolvimento de páginas web.É importante notar também que, depois da versão 5, a linguagem não irá possuir mais um número de versão, tendo um desenvolvimento contínuo pelos seus grupos de trabalho: uma espécie de “padrão orgânico“ ou, em inglês, living standard.
+
+O HTML5 foi oficialmente lançado em 2014 e representou uma grande evolução na linguagem. Ele trouxe diversos recursos nativos que antes só eram possíveis com a ajuda de scripts ou plugins externos (como Flash). Entre suas principais inovações, destacam-se:
+
+- **Novas tags semânticas**, como `<section>`, `<article>`, `<nav>` e `<footer>`, que tornam o conteúdo mais organizado e compreensível por humanos e máquinas.
+- **Suporte nativo a áudio e vídeo**, com as tags `<audio>` e `<video>`.
+- **Melhor suporte para formulários**, com novos tipos de `<input>` e validações embutidas.
+- **Integração com APIs modernas**, como geolocalização, armazenamento local (localStorage), gráficos (Canvas e SVG), entre outras.
+
+Importante destacar que, a partir do HTML5, a linguagem passou a ser considerada um **“padrão vivo”** (*living standard*, em inglês). Isso significa que ela não receberá mais versões numeradas, evoluindo de forma contínua, conforme as necessidades da web moderna, sendo mantida por organizações como o W3C e o WHATWG.
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/fcb7c228-7623-486e-8077-d86c74d2fa0e)
-# Resumo Histórico Da História Do HTML
-O HTML foi inventado por Tim Berners-Lee, um físico do centro de pesquisas CERN, na Suíça. Ele surgiu com a ideia de um sistema de hipertexto na internet.Hipertexto significa um texto que possui referências (links) para outros textos que podem ser acessados imediatamente. Ele publicou a primeira versão do HTML em 1991, consistindo em 18 tags. Desde então, cada versão do HTML vem com novas tags e atributos (modificadores de tags).Devido a rápida ascensão e popularidade, o HTML é agora considerado um padrão oficial da web.O maior upgrade da linguagem foi o lançamento do HTML5 em 2014.
 
-# [Referência 1](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.) 
+---
 
-# [Referência 2](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos)
+## Resumo Histórico da História do HTML 📕
 
-# [Conceitos No Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/ConceitosDeTags.md)
+O HTML foi criado por **Tim Berners-Lee**, físico do CERN (Organização Europeia para a Pesquisa Nuclear), na Suíça, em 1991. Naquela época, ele buscava uma forma eficiente de compartilhar documentos científicos entre pesquisadores por meio da recém-criada internet.
+
+Sua ideia central era criar um sistema de **hipertexto** — ou seja, um texto que pudesse conter links para outros documentos, permitindo uma navegação interligada entre diferentes conteúdos. A primeira versão do HTML continha apenas **18 tags**, mas já era suficiente para criar páginas simples com títulos, listas, links e parágrafos.
+
+Com o crescimento da web nos anos seguintes, o HTML se consolidou como o alicerce da internet moderna. A linguagem evoluiu rapidamente, ganhando novas funcionalidades e se adaptando aos diferentes dispositivos e tecnologias emergentes. Hoje, ela é considerada o **padrão universal para a construção de páginas na web**, sendo essencial para o desenvolvimento de sites, sistemas, blogs, redes sociais e aplicações em geral.
+
+O maior salto evolutivo do HTML ocorreu com o **lançamento do HTML5 em 2014**, que trouxe mais dinamismo, flexibilidade e integração com outras tecnologias da web, consolidando a linguagem como base fundamental do desenvolvimento front-end.
+
+---
+
+## 📎 Referências
+
+- [Guilherme Müller – Introdução ao HTML](https://guilhermemuller.com.br/ead/html-css-na-pratica/introducao-html#:~:text=O%20que%20%C3%A9%20HTML%3F,do%20conte%C3%BAdo%20de%20uma%20p%C3%A1gina.)
+
+- [Hostinger – O que é HTML](https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos)
+
+---
+
+# 💡 Continuação
+
+- [Conceitos no HTML](ConceitosDeTags.md)

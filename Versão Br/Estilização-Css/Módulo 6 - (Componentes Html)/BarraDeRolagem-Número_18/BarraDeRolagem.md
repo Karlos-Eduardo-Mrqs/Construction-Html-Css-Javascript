@@ -1,31 +1,65 @@
-# [Leia o Número_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Tabelas-N%C3%BAmero_17/Tabelas.md)
+# Observação 👁️
 
-# Barra De Rolagem 
-Dentro do css, podemos estilizar a barra de rolagem do corpo da nossa página.
-## Exemplo 
-![image](https://github.com/user-attachments/assets/42ceca08-7e99-4479-9e2e-4b935b490930)
+- [Leia o Número_17](../Tabelas-Número_17/Tabelas.md)
 
-## -webkit-scrollbar
-Com esse atributo, podemos aplicar uma estilização na barra de navegação, por exemplo, vamos aplicar um fundo azul:
+---
 
-![image](https://github.com/user-attachments/assets/e58fc44f-5dea-4b0a-bbd5-921fc614df3b)
+## Barra de Rolagem
 
-## -webkit-scrollbar-track
-Com esse atributo, atribui uma característica do caminho todo da barra de navegação, sendo semelhante com o webkit-scrollbar.
+No CSS, podemos estilizar a barra de rolagem do corpo da página.
 
-## -webkit-scrollbar-thumb
-Seguindo para esse atributo, podemos saber em que lugar estamos no site, por exemplo:
+---
 
-![image](https://github.com/user-attachments/assets/be1275a1-285b-4b15-b32f-3cf1ffefb702)
+## Exemplo visual
 
-Na barra de navegação, temos três partes. Na primeira, temos as setas de cima e baixo, para subir e descer. Na segunda, tem a barra de navegação(cinza claro) e por fim o fundo branco, a parte do limite da navegação.
-Voltando para o -webkit-scrollbar-thumb, podemos definir a parte de cinza claro, por exemplo, um fundo cinza escuro e arredondamento 15px:
+![Exemplo de barra de rolagem](https://github.com/user-attachments/assets/42ceca08-7e99-4479-9e2e-4b935b490930)
 
-![image](https://github.com/user-attachments/assets/b77954eb-7c6f-4334-9a54-6e8ac4e8a243)
+---
 
-## ::-webkit-scrollbar-button
-Aqui podemos aplicar os botões de subir e descer, exemplo botões de cores terrosas e arredondados:
+## `-webkit-scrollbar`
 
-![image](https://github.com/user-attachments/assets/9471ce79-3623-4564-becf-7ed5c022336b)
+Este seletor estiliza a barra de navegação (scrollbar) completa.  
 
-# [Continua no Número_19](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Formul%C3%A1rios-N%C3%BAmero_19)
+Exemplo: aplicar fundo azul:
+
+![Barra de navegação azul](https://github.com/user-attachments/assets/e58fc44f-5dea-4b0a-bbd5-921fc614df3b)
+
+---
+
+## `-webkit-scrollbar-track`
+
+Define o estilo do "caminho" onde a barra de navegação desliza, parecido com o seletor anterior.
+
+---
+
+## `-webkit-scrollbar-thumb`
+
+Define a "alça" da barra, que indica a posição atual na rolagem.
+
+Exemplo visual da barra e suas partes:
+
+![Partes da barra de rolagem](https://github.com/user-attachments/assets/be1275a1-285b-4b15-b32f-3cf1ffefb702)
+
+- Setas para subir/descer;
+- Barra de navegação (cinza claro);
+- Fundo branco (limite da navegação).
+
+Podemos aplicar um fundo cinza escuro e bordas arredondadas de 15px na "alça":
+
+![Alça com fundo escuro e bordas arredondadas](https://github.com/user-attachments/assets/b77954eb-7c6f-4334-9a54-6e8ac4e8a243)
+
+---
+
+## `::-webkit-scrollbar-button`
+
+Estiliza os botões de subir e descer.
+
+Exemplo: botões arredondados e com cores terrosas:
+
+![Botões da barra de rolagem estilizados](https://github.com/user-attachments/assets/9471ce79-3623-4564-becf-7ed5c022336b)
+
+---
+
+## ✅ Próximo Capítulo
+
+- ▶️ [Continua no Número_19](../Formulários-Número_19/1ºEstilo/Forms.md)

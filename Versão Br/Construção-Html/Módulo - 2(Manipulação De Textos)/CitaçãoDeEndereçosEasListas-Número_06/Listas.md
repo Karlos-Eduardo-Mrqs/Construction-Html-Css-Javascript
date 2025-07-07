@@ -1,12 +1,21 @@
-# [Leia a parte um antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md)
+# Observação 👁️
 
-# Listas Ordenadas e Não Ordenadas
-No Html, podemos criar dois tipos de listas, sendo elas ordenadas(com números) e não ordenadas(com pontinhos);
+- [Leia a parte um antes de continuar](../CitaçãoDeEndereçosEasListas-Número_06/CitaçãoDeEndereçosEasListas.md)
 
-## Listas Ordenadas
-Nas listas ordenadas usamos a tag `` <ol> </ol> `` juntamente dentro dela a tag ``<li> </li> ``, que define os itens da lista. Veja sua estrutura logo abaixo:
+---
 
-```
+## Listas Ordenadas e Não Ordenadas
+
+No HTML, podemos criar dois tipos principais de listas:
+
+- Listas Ordenadas (numeradas)
+- Listas Não Ordenadas (com marcadores/pontinhos)
+
+### Listas Ordenadas
+
+Para listas ordenadas, utilizamos a tag ``<ol>`` (ordered list) contendo os itens listados com a tag ``<li>`` (list item).
+
+```html
     <ol>
         <li>Item 1</li>
         <li>Item 2</li>
@@ -14,10 +23,11 @@ Nas listas ordenadas usamos a tag `` <ol> </ol> `` juntamente dentro dela a tag 
     </ol>
 ```
 
-## Listas Não Ordenadas
-Já nas listas não ordenadas usamos a tag `` <ul> </ul> `` juntamente dentro dela a tag ``<li> </li> ``, que define os itens da lista. Veja sua estrutura logo abaixo:
+### Listas Não Ordenadas
 
-```
+Para listas não ordenadas, utilizamos a tag ``<ul>`` (unordered list) contendo os itens com a tag ``<li>``.
+
+```html
     <ul>
         <li>Item 4 </li>
         <li>Item 5</li>
@@ -25,14 +35,24 @@ Já nas listas não ordenadas usamos a tag `` <ul> </ul> `` juntamente dentro de
     </ul>
 ```
 
-## SubListas
-Não somente temos as listas ordenadas e não ordenadas. Temos também, as sublistas, que é uma lista dentro de outra lista, Observe:
+### SubListas
+
+Além das listas simples, podemos criar sublistas — listas dentro de listas.
+
 ![ExemploDeSubListas](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/baa57203-51bf-4fa5-8845-c25d50b355ce)
 
-Podemos notar que no *"item 1 "* temos uma sub lista ordenada e no *"item 4"* Temos uma sub lista não ordenada.**A diferença está no item 4, quando criamos mais de uma lista não ordenada, podemos perceber que seu ponteiro muda. Acontecendo a cada vez que criamos uma nova. Já no item 1, ele continua a mesma coisa. Não alterando seu ponteiro**.
+- No item 1 há uma sublista ordenada.
+- No item 4 há uma sublista não ordenada.
 
-# Estrutura De Uma Sub Lista Ordenada e Não Ordenada
-```
+**Atenção:**
+
+- Nas sublistas não ordenadas, os marcadores mudam a cada nova lista criada (diferentes tipos de ponteiros).
+
+- Nas sublistas ordenadas, a numeração continua padrão sem alteração.
+
+#### Estrutura De Uma Sub Lista Ordenada e Não Ordenada
+
+```html
 <h1> Lista Ordenada </h1>
  <ol>
         <li>
@@ -59,4 +79,8 @@ Podemos notar que no *"item 1 "* temos uma sub lista ordenada e no *"item 4"* Te
 </ul>
 ```
 
-# [Continua no Módulo 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%203(Navega%C3%A7%C3%A3o%20e%20M%C3%ADdia))
+---
+
+# 💡 Continuação
+
+- [Continua no Módulo 3](../../Módulo%20-%203(Navegação%20e%20Mídia)/LinksEasÂncoras_Número_07/LinksEasAncoras.md)

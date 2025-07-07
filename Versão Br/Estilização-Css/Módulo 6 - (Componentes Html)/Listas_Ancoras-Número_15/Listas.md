@@ -1,32 +1,76 @@
-# [Leia as Ancoras.md antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Ancoras.md)
+# Observação 👁️
 
-# Listas
-![image](https://github.com/user-attachments/assets/c8c2bcbd-1752-4599-b2ca-51f0bb6c7c32)
+- [Leia as Ancoras.md antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Ancoras.md)
 
-Nessa segunda página, temos uma divisória chamada .box, com um lista não ordenada classificada como .list, dentro dessa lista temos seis itens classificados com .item. Sabendo disso, aplicamos um plano de fundo com a cor azul na .list e um plano de fundo colorido pelo coral na classe .item:
+---
 
-![image](https://github.com/user-attachments/assets/e4ed809f-cd4f-471b-a264-ee5d42eebd13)
+## Listas
 
-### List-Style
-Com esse atributo no css, podemos modificar o estilo de uma lista. Modificando seus pontos de organização,conhecidos como marcadores, se eles ficaram junto ou fora do texto e até adicionar uma imagem como 
-marcador da lista.
-#### List-Style-Position
-Estilo de posição da lista, aqui podemos dizer se os marcadores ficam de fora(outside) ou dentro dos tópicos da lista(inside). 
+![Exemplo de lista](https://github.com/user-attachments/assets/c8c2bcbd-1752-4599-b2ca-51f0bb6c7c32)
 
-1. inside: ![image](https://github.com/user-attachments/assets/78626046-efb7-40cd-88f6-c3c8b6258914)
-2. outside: ![image](https://github.com/user-attachments/assets/6bd6de8b-ef2c-41a5-923f-14facf2e81db)
+Nesta página, temos uma divisória chamada `.box`, com uma lista **não ordenada** classificada como `.list`.  
 
-#### List-Style-Type
-Estilo de Tipo da Lista, temos a possibilidade de alterar o marcador da lista. Assim como os cursores da âncora, existem ínumeros tipos de marcadores:
-- [clique aqui para visualizar os demais tipos de marcadores !](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+Dentro dela, há seis itens classificados como `.item`.  
 
-#### List-Style-Image
-Estilo de Imagem da Lista, podemos adicionar uma imagem como o nosso principal marcador. Por exemplo, queremos que o nosso marcador seja essa estrela:![img icons8](https://github.com/user-attachments/assets/eca30719-cd28-4b3e-93ee-5a333ab212c4). Para isso, faremos da seguinte maneira : `` list-style-image:url(link da imagem)``.Ademais, caso incluirmos ``list-style:inside url(link da imagem) disc ``, ficará com o mesmo resultado:
+Aplicamos plano de fundo azul na `.list` e coral nos itens `.item`:
+
+![Lista estilizada](https://github.com/user-attachments/assets/e4ed809f-cd4f-471b-a264-ee5d42eebd13)
+
+---
+
+## Propriedade `list-style`
+
+Com essa propriedade no CSS, podemos modificar o estilo dos marcadores das listas, como:
+
+- Tipo do marcador;
+- Posição (dentro ou fora do texto);
+- Substituir o marcador por uma imagem personalizada.
+
+---
+
+### `list-style-position`
+
+Define se os marcadores ficam **dentro** ou **fora** do texto da lista.
+
+1. `inside`  
+![Marcador dentro (inside)](https://github.com/user-attachments/assets/78626046-efb7-40cd-88f6-c3c8b6258914)
+
+2. `outside`  
+![Marcador fora (outside)](https://github.com/user-attachments/assets/6bd6de8b-ef2c-41a5-923f-14facf2e81db)
+
+---
+
+### `list-style-type`
+
+Define o tipo do marcador da lista.  
+
+Existem inúmeros tipos, como círculos, quadrados, números, letras, etc.  
+
+Confira todos os tipos disponíveis na documentação oficial da MDN:  
+
+[Tipos de marcadores CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+
+---
+
+### `list-style-image`
+
+Permite usar uma imagem como marcador da lista.  
+
+Por exemplo, para usar essa estrela como marcador:  
+
+![Ícone estrela](https://github.com/user-attachments/assets/eca30719-cd28-4b3e-93ee-5a333ab212c4)  
+
+O CSS para isso seria:  
+
+```css
+list-style-image: url(link-da-imagem);
+```
 
 ![image](https://github.com/user-attachments/assets/927fe037-3a6e-48ed-9b63-694f285c8c13)
 
 ## Css Final Da Lista
-```
+
+```css
 html{
     background-color: grey;
     font-family: Arial, Helvetica, sans-serif;
@@ -48,4 +92,14 @@ html{
 }
 ```
 
-# [Continue no Número_16](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/inputs.md)
+Também é possível combinar com list-style-position e tipo padrão:
+
+```css
+list-style: inside url(link-da-imagem) disc;
+```
+
+---
+
+## ✅ Próximo Capítulo
+
+- [Continue no Número_16](../Inputs-Número_16/inputs.md)

@@ -1,23 +1,36 @@
-# Estrutura Condicional Com Operador Ternário
-- Operador Ternário:
-O operador condicional (ternário) é o único operador JavaScript que possui três operandos. Este operador é frequentemente usado como um atalho para a instrução if.
-![imagem](https://github.com/user-attachments/assets/019ef20a-cf20-40ca-aa79-1ab4cda51fa3)
-# Prática Com O Operador Ternário 
-Assim como na prática do Swicth, vamos usar um documento html para ter a interação do usuário. A prática aplicada será a seguinte, o usuário vai inserir a idade, então o algoritmo fará o seguinte:
-- A idade está entre 1 á 5 anos: alertaremos que o usuário é um bebê ! ;
-- A idade está entre 6 á 10 anos: alertaremos que o usuário é uma criança ! ;
-- A idade está entre 10 á 14 anos: alertaremos que o usuário é um prê-adolescente ! ;
-- A idade está entre 15 á 18 anos: alertaremos que o usuário é um adolescente ! ;
-- A idade é maior do que 18 anos: alertaremos que o usuário é um adulto ! ; 
+# Estrutura Condicional com Operador Ternário
 
-## Documento Html 
-```
+---
+
+## Operador Ternário
+
+O operador condicional (ternário) é o único operador JavaScript que possui três operandos. Este operador é frequentemente usado como um atalho para a instrução `if`.
+
+![imagem](https://github.com/user-attachments/assets/019ef20a-cf20-40ca-aa79-1ab4cda51fa3)
+
+---
+
+## Prática com o Operador Ternário
+
+Assim como na prática do `switch`, vamos usar um documento HTML para ter a interação do usuário. A prática aplicada será a seguinte: o usuário vai inserir a idade, então o algoritmo fará o seguinte:
+
+- A idade está entre 1 a 5 anos: alertaremos que o usuário é um bebê!;
+- A idade está entre 6 a 10 anos: alertaremos que o usuário é uma criança!;
+- A idade está entre 10 a 14 anos: alertaremos que o usuário é um pré-adolescente!;
+- A idade está entre 15 a 18 anos: alertaremos que o usuário é um adolescente!;
+- A idade é maior do que 18 anos: alertaremos que o usuário é um adulto!;
+
+---
+
+## Documento HTML
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Documento</title>
 </head>
 <body>
     <script src="script.js"></script>
@@ -25,8 +38,9 @@ Assim como na prática do Swicth, vamos usar um documento html para ter a intera
 </html>
 ```
 
-## Documento Javascript 
-``` 
+## Documento Javascript
+
+```js
 alert("Seja Bem Vindo Usuário");
 let idade = prompt("Digite sua idade, para saber sua fase da vida :");
 let mensagem =
@@ -38,10 +52,20 @@ let mensagem =
 alert(mensagem);
 ```
 
-## Observação Do Documento Javascript 
-Atente-se, como o código ficou mais légivel, ficando mais simples de se ler e enteder. Olha a diferença usando o comando IF e Ternario:
+---
+
+## Atenção para o Documento Javascript
+
+Atente-se como o código ficou mais legível, ficando mais simples de se ler e entender. Veja a diferença usando o comando if e o operador ternário:
 
 ![Captura de tela 2024-08-15 120148](https://github.com/user-attachments/assets/a7e438ab-c6f3-4564-90cd-13a7916ad887)
 
-A decisão de usar ou não o operador ternário em JavaScript variará de desenvolvedor para desenvolvedor.Eu recomendo utilizá-lo com até duas condições; mais do que isso, ele começa a perder seu propósito de tornar o código mais legível.Empregamos o operador ternário para atribuir diretamente a mensagem com base na condição. 
-Isso torna o código mais conciso e fácil de entender, especialmente em situações mais simples.
+A decisão de usar ou não o operador ternário em JavaScript varia de desenvolvedor para desenvolvedor. Eu recomendo utilizá-lo para até duas condições; mais do que isso, ele começa a perder seu propósito de tornar o código mais legível.
+
+Empregamos o operador ternário para atribuir diretamente a mensagem com base na condição. Isso torna o código mais conciso e fácil de entender, especialmente em situações mais simples.
+
+---
+
+## Próximo Módulo
+
+- [Continua no próximo módulo](../../Modulo%203-Loopings/Loops-Número_06/Loops.md)

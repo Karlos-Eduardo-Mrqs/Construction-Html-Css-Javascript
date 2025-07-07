@@ -1,67 +1,112 @@
-# 🌐 **Construção HTML-CSS-JavaScript**
+# 🌐 **Construction with HTML, CSS and JavaScript**
 
-Bem-vindo ao repositório **Construção HTML, CSS e JavaScript**! 🚀 Este repositório contém recursos e projetos para o desenvolvimento web, cobrindo três áreas essenciais: **HTML**, **CSS** e **JavaScript**.
+! [Github Repo size](https://img.shields.io/github/repo-size/karlos-eduardo-mrqs/construction-html-css-javascript)
 
-## 📚 **Versões Disponíveis**
+! [Github's license](https://img.shields.io/github/license/karlos-eduardo-mrqs/construction-html-css-javascript)
 
-Este repositório oferece duas versões:
+! [Github Issues](https://img.shields.io/github/issues/karlos-eduardo-mrqs/construction-html-css-javascript)
 
-- [**🇧🇷 Versão Br _você está aqui_**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md)
+# 📕 Available languages
 
-- [**🇺🇸 Versão EUA**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md)
+| [🇺🇸 English 🌟](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md) | [🇧🇷 Portuguese (Brazil)](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md) |
+|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
 
-Escolha a versão que deseja explorar clicando nos links abaixo.
+---
 
-## 🗂️ **Estrutura do Repositório**
+Welcome to the repository ** Construction with HTML, CSS and JavaScript **! 🚀
+This repository contains ** resources, examples and practical projects ** for what web development, covering as three fundamental bases: ** html **, ** css ** and ** javascript **.
 
-- **[Versão BR](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br)**: Recursos e projetos voltados para o público brasileiro, com documentação em português.
+---
 
-- **[Versão EUA](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA)**: Recursos com a mesma estrutura, mas documentação em inglês.
+# 🧭 Summary
 
-## 🔍 **Como Navegar**
+- [🌐 **Construction with HTML, CSS and JavaScript**](#-construction-with-html-css-and-javascript)
+- [📕 Available languages](#-available-languages)
+- [🧭 Summary](#-summary)
+  - [📚 \*\* Available versions \*\*](#--available-versions-)
+  - [🗂️ \*\* Repository structure \*\*](#️--repository-structure-)
+  - [🔍 \*\* How to navigate \*\*](#--how-to-navigate-)
+    - [🇧🇷 BR Version:](#-br-version)
+    - [🇺🇸 USA Version](#-usa-version)
+  - [⚙️ **Instructions**](#️-instructions)
+  - [💡 **Contributions**](#-contributions)
+  - [📝 **License**](#-license)
 
-Escolha a versão desejada para começar:
+---
 
-- **Versão Br**:
+## 📚 ** Available versions **
 
-  - [**Construção-HTML**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html)
+This repository is available in two languages:
 
-  - [**Estilização-CSS**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css)
+-🇧🇷 [BR _ Você is here_](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/blob/main/readme-br.md)
+-🇺🇸 [US version](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/blob/main/readme.md)
 
-  - [**Interação-JavaScript**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Intera%C3%A7%C3%A3o-Javascript)
+---
 
-- **Versão EUA**:
+## 🗂️ ** Repository structure **
 
-  - [**Construction-HTML**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html)
+-📁 [** version br **](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br):
+Resources and projects with documentation in Portuguese.
 
-  - [**Styling-CSS**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css)
+-📁 [** USA Version **](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/version%20eua):
+Same structure, but with English documentation.
 
-  - [**Interaction-JavaScript**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-Javascript)
+---
 
-## ⚙️ **Instruções**
+## 🔍 ** How to navigate **
 
-1. Selecione a versão desejada (Br ou EUA).
-2. Navegue pelos módulos de **HTML**, **CSS** e **JavaScript**.
-3. Explore os arquivos para aprender e praticar os conceitos.
+### 🇧🇷 BR Version:
 
-## 💡 **Contribuições**
+- [Construction-html](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br/construte%C3%A7%C3%A3O-html)
 
-Se você deseja contribuir para o projeto, siga estas etapas:
+- [Stylization-CSS](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br/estiliza%C3%A7%C3%A3O-CSS)
 
-1. Faça um **fork** deste repositório.
-2. Crie uma **branch** para sua contribuição.
-3. Envie um **pull request** com suas alterações.
+- [Interaction-javascript](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/tue/main/vers%C3%A3O%20br/intera%C3%A7%C3%A3O-javascript)
 
-## 📝 **Licença**
+### 🇺🇸 USA Version
 
-Você tem todo o direito de usar este material para seu próprio aprendizado. Professores também podem acessar o conteúdo e usá-lo com seus alunos. No entanto, todos os que utilizarem este material – seja qual for a finalidade – deverão manter a referência ao material original, criado e disponibilizado por **Carlos Eduardo Marques Barreto**.
+- [Construction-html](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tue/main/version%20eua/construction-html)
 
-**Importante**: Este conteúdo **não pode ser utilizado** em hipótese alguma para ser replicado - seja de forma integral ou parcial - por autores, editoras ou instituições de ensino para criar livros ou apostilas com a finalidade de obter ganho financeiro.
+- [Styling-CSS](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tue/main/version%20eua/styling-css)
 
-Este repositório segue a licença **MIT**, permitindo que você use, modifique e distribua o conteúdo, desde que a atribuição ao autor seja mantida.
+- [Interaction-JavaScript](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/tee/main/version%20eua/interaction-javascript)
 
-Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+---
 
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue**.
+## ⚙️ **Instructions**
 
-🚀 **Aproveite a aprendizagem e boa codificação!** 💻
+```Bash
+# 1. Select the desired version (BR or US)
+# 2. Browse the modules of HTML, CSS and JavaScript
+# 3. Explore the files to learn and practice the concepts
+```
+
+---
+
+## 💡 **Contributions**
+
+If you want to contribute to improvements or new features:
+
+```Bash
+# 1. Make a fork of this repository
+# 2. Create a new branch with its changes
+# 3. Send a Pull Request
+```
+
+All help is welcome! 💬
+
+---
+
+## 📝 **License**
+
+You have full freedom to use this material for either educational purposes **. Teachers can also adopt it in the classroom. However:
+
+⚠️ ***Total or partial reproduction is prohibited ** for profit by authors, publishers or educational institutions.
+
+This repository follows the license [MIT](./license), allowing use, modification and distribution, **provided that the attribution to the author is maintained**.
+
+---
+
+If you have questions or suggestions, feel free to open a [**ISSUE**](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/issues).
+
+🚀 **Good studies and excellent coding!** 💻

@@ -1,46 +1,77 @@
-# Construção HTML, CSS e JavaScript
-Bem-vindo à construção HTML, CSS e JavaScript! Este repositório foi criado para orientar você no desenvolvimento completo de sites utilizando as principais tecnologias Front-End. Aqui você terá a oportunidade de praticar desde o básico até conceitos avançados, com foco em HTML, CSS e JavaScript, possibilitando a criação de sites interativos e dinâmicos.
+# 🌐 Construção HTML, CSS e JavaScript
+
+Bem-vindo à *Construção HTML, CSS e JavaScript*!  
+Este repositório foi criado para guiá-lo no desenvolvimento completo de sites utilizando as principais tecnologias do **Front-End** moderno.
+
+Aqui você encontrará materiais do nível básico ao avançado, com foco na **estruturação (HTML)**, **estilização (CSS)** e **interatividade (JavaScript)**, permitindo a criação de páginas dinâmicas, acessíveis e visualmente atrativas.
+
+---
 
 ## 🎯 Finalidade do Repositório
 
-Este repositório oferece uma abordagem prática para o desenvolvimento Front-End, permitindo que você desenvolva suas habilidades e domine a criação de sites modernos. Você aprenderá como estruturar, estilizar e adicionar interatividade às suas páginas web, proporcionando uma excelente experiência aos usuários.
+Oferecer uma abordagem prática e progressiva do desenvolvimento web, capacitando você a:
 
-## 📦 Tecnologias Cobertas
+- Entender os fundamentos das principais tecnologias Front-End;
+- Construir sites organizados, responsivos e modernos;
+- Dominar a integração entre HTML, CSS e JavaScript;
+- Praticar com exemplos reais e módulos temáticos bem estruturados.
 
-- **HTML🏠** Para estruturação e conteúdo de páginas;
-- **CSS🧑‍🎨** Para estilizar e melhorar a aparência das páginas;
-- **JavaScript💼** Para agregar interatividade e dinamismo;
+---
+
+## 📦 Tecnologias Abordadas
+
+- **HTML 🏠** — Estrutura e conteúdo das páginas;
+- **CSS 🧑‍🎨** — Estilo visual, responsividade e design;
+- **JavaScript 💼** — Comportamento dinâmico e lógica de interação;
+
+---
 
 ## 🚀 O que você vai aprender?
 
-- **Construção-Html🏗️** Entenda os princípios básicos da construção de sites com HTML. Aprenda sobre a estrutura do documento, uso de tags, semântica e práticas recomendadas;
-- **Estilizando-Css🖌️** Aprenda como estilizar suas páginas, ajustando núcleos, layouts, fontes, espaçamentos e como criar interfaces modernas e responsivas com CSS;
-- **Interação-JavaScript💼** Explore como adicionar comportamento interativo às páginas manipulando o DOM e respondendo a eventos do usuário;
+- **🔨 Construção HTML:**  
+  Fundamentos da marcação, semântica, estruturação e organização do conteúdo de páginas web.
+
+- **🎨 Estilização CSS:**  
+  Cores, fontes, espaçamentos, layout responsivo e técnicas modernas de design com CSS puro.
+
+- **⚙️ Interação JavaScript:**  
+  Introdução à lógica de programação no navegador, manipulação do DOM e eventos para criar experiências interativas.
+
+---
 
 ## 💻 Pré-requisitos
 
-Antes de começar, certifique-se de ter o seguinte:
+Antes de começar, você vai precisar de:
 
-## 1. Um editor de código, como:
+### 1. Um editor de código
 
-- ### [Código do Visual Studio](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)  
+- [Sublime Text](https://www.sublimetext.com/)  
+- [Atom](https://atom-editor.cc/)  
 
-- ### [Texto Sublime](https://www.sublimetext.com/)
+### 2. Seguir os módulos na ordem sugerida
 
-- ### [Átomo](https://atom-editor.cc/)
+- [📁 Construção HTML](./Construção-Html/README.md)
+  
+- [🎨 Estilização CSS](./Estilização-Css/README.md)  
 
-## 2. Siga os módulos na ordem:
+- [⚙️ Interação JavaScript](./Interação-Javascript/README.md)  
 
-- ### [Construção-Html](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Constru%C3%A7%C3%A3o-Html)
-
-- ### [Estilizando-Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Estiliza%C3%A7%C3%A3o-Css)
-
-- ### [Interação JavaScript](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/Test/Intera%C3%A7%C3%A3o-Javascript)
+---
 
 ## 📚 Como começar?
 
-**[Clone este repositório](https://github.com/Karlos-Eduardo-Mrqs/construction-html-css-javascript.git).** Explore os módulos, siga os exemplos práticos e crie seus próprios projetos!
+1. [Clone este repositório](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript.git)
+2. Navegue pelos diretórios e siga os exemplos práticos.
+3. Teste os códigos, modifique e crie seus próprios projetos!
 
-# 🌐 Vamos construir juntos!
+---
 
-Este repositório oferece uma jornada completa em Front-End. Seja você iniciante ou alguém em busca de aprimorar suas habilidades, aqui você encontrará o caminho certo para criar sites incríveis e funcionais!
+## 🤝 Vamos construir juntos ?!?
+
+Este repositório é uma verdadeira jornada pelo universo Front-End.  
+Seja você iniciante ou alguém em busca de reforçar seus conhecimentos, encontrará aqui o caminho ideal para desenvolver **páginas incríveis, organizadas e funcionais**.
+
+> 💡 Continue praticando e explorando — a web está ao seu alcance!
+
+---

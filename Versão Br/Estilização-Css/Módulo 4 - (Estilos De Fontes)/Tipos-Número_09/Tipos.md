@@ -1,42 +1,91 @@
-# [Leia o Módulo 3 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%203%20-%20(Espa%C3%A7amento))
+# Observação 👁️
 
-# Tipos de Fontes 
-Estamos agora no módulo 4, vamos aprender a modificar os tipos de fontes.
-# font-family 
+* 📌 [Leia o Módulo 3 antes de continuar](../../Módulo%203%20-%20(Espaçamento)/Contenção-Número_08/contenção.md)
+
+---
+
+## 🔤 `font-family`
+
 ![image](https://github.com/user-attachments/assets/f3e121ae-5a5f-40ae-bae2-e3b423d839dd)
 
-Temos essa página de exemplo, caso você não modifique o estilo da fonte, o padrão será a Times New Roman:
+Por padrão, se não for especificado o estilo da fonte, o navegador usa **Times New Roman**:
 
-![0_QBGG7EdJWTMq6goC](https://github.com/user-attachments/assets/0181afd3-a366-475e-8f60-40ad967cdfb3)
+![0\_QBGG7EdJWTMq6goC](https://github.com/user-attachments/assets/0181afd3-a366-475e-8f60-40ad967cdfb3)
 
-Podemos perceber que essa fonte possui certas 'pontas de acabamentos', onde as letras possuem pontas. Sendo elas encontradas no T,N,A e entre outras; resumindo, as pontas chamam-se serif, e dentro das fontes elas possuem padrões, tendo serif ou não.**Aquelas que possuem pontas, serif e as que não possuem serif são san-serif, veja a diferença:** 
+### 🧬 Diferença entre `serif` e `sans-serif`
+
+* `serif`: fontes com **pontas decorativas** (ex: Times New Roman)
+* `sans-serif`: fontes **sem essas pontas** (ex: Arial, Verdana)
 
 ![BP-Serif-SansSerif-Graphic1-862x518](https://github.com/user-attachments/assets/725a3018-c9e3-444c-82f9-079a9e05476c)
 
-Agora vamos dizer que eu quero que a caixa com a cor bege, mostrada logo acima, fique com a fonte verdana, para fazer isso é simples: ``font-family:Verdana, Geneva, Tahoma, sans-serif; `` ou no Visual Studio(CTRL+Espaço+Escrever a Fonte que deseja):
+### 📦 Exemplo prático
+
+Para aplicar a fonte **Verdana** à caixa bege:
+
+```css
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+```
+
+Ou, no Visual Studio Code:
+
+> CTRL + Espaço + Nome da fonte desejada
 
 ![image](https://github.com/user-attachments/assets/500c317c-eb99-4491-a90c-4acc406d924f)
 
-## [Importando Fontes Personalizadas](https://fonts.google.com/)
-Dentro do Visual Studio Code, existem inúmeras fontes. Mas, é claro que não tem todas, e ás vezes queremos uma personalizada; para pegarmos uma personalizada, 
-buscaremos um site chamado Google Fonts, onde podemos puxar a fonte personalizada de duas maneiras:
+---
 
-1. **Tag Link:** Ao escolher a fonte desejada. Clique em Get Code e depois Get Embed Code. Ao escolher a opção link, só copiar o código e colá-lo acima da tag link do css;
-2. **Import:**Ao escolher a fonte desejada. Clique em Get Code e depois Get Embed Code. Ao escolher a opção @import, só copiar o código e colá-lo no começo do arquivo.css;
+## 🌐 Importando Fontes Personalizadas
 
-# font-weight
+Você pode usar fontes externas com o [Google Fonts](https://fonts.google.com/):
+
+### 1️⃣ Via `<link>`
+
+* Copie o código `link` gerado e cole **acima da sua tag `<link>` de CSS** no HTML.
+
+### 2️⃣ Via `@import`
+
+* Copie o código `@import` e cole **no início do seu CSS**.
+
+---
+
+## 🏋️‍♂️ `font-weight`
+
+Controla a **espessura** ou **peso** da fonte.
+
 ![image](https://github.com/user-attachments/assets/a5fa6b36-db57-44ff-b536-1b4de0ebd112)
 
-Com essa página de exemplo, podemos definir a espessura ou grossura que a fonte vai possuir; observação, temos fontes que não possuem variações de espessura, por isso, vamos usar uma fonte chamada POPPINS, que possui todas as variantes.Essas variantes são do nível 1 até 9, onde quanto maior o nível for, mais destacada a palavra ou letra fica e quanto menor o oposto ocorre, ficando mais sombreada. Na imagem abaixo, podemos notar isso, sendo algo semelhante com um efeito degradê:
+### Exemplo com a fonte `Poppins`
+
+Ela possui variantes de `100` até `900`. Quanto maior, mais forte e escura fica a fonte:
 
 ![image](https://github.com/user-attachments/assets/82df9c33-58a6-44dc-a204-5c46326ade53)
 
-Além disso, ele também possui quatro tipos padrões como **("lighter","normal","bold","bolder"), na imagem será representado na ordem respectivamente falado anteriormente:**
+### Valores textuais
+
+* `lighter`
+* `normal`
+* `bold`
+* `bolder`
+
+Exemplo visual das quatro variações:
 
 ![image](https://github.com/user-attachments/assets/c783058d-b167-4434-8cd9-f6e04d1dbb01)
 
-# font-style
-- italic ou oblique: _Deixa o texto com uma curva para a direita;_
-- normal: Mantém o texto padrão do jeito que está;
+---
 
-# [Continue no Número_10](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%204%20-%20(Estilos%20De%20Fontes)/Decora%C3%A7%C3%A3o-N%C3%BAmero_10/Decora%C3%A7%C3%A3o.md)
+## ✨ `font-style`
+
+Define o **estilo** do texto:
+
+| Valor     | Efeito                                   |
+| --------- | ---------------------------------------- |
+| `normal`  | Mantém o texto padrão                    |
+| `italic`  | Inclina o texto para a direita (itálico) |
+| `oblique` | Semelhante ao `italic` (menos utilizado) |
+
+---
+
+## ✅ Próximo Conteúdo
+
+* ➡️ [Continue no Número\_10 – Decoração](../Decoração-Número_10/Decoração.md)

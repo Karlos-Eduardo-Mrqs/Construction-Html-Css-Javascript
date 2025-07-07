@@ -1,26 +1,74 @@
-# [Leia o Módulo 4 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas))
+# Observação 👁️
 
-# Formulários 
-Neste módulo, aprenderemos a estruturar um formulário. Onde seria uma forma do usuário interagir com o nosso site, colocando os seus dados e o html recebendo-os. Um exemplo que podemos citar de formulário, seria o cadastro e login; sendo necessário preenchê-los para confirmar sua identidade ou criar uma nova.
+- [Leia o Módulo 4 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas))
 
-- **Estrutura De Um Formulário:``<form> Tag que inicia o nosso formulário </form>``**
+---
 
-## Atributos necessários para o "FORM"
-**action: Indica para qual página os dados são enviados;**
-**method: "Método/Maneira" que os dados são enviados pelo action. Podendo ele ser pelo corpo da página(POST) ou pela url dá Página(GET)**
+## Formulários 📝
 
-# Label
-**``<label> </label>``:** Informa ao usuário, o que ele deve digitar no input  ;
-## Atributo Mais Usado Pelo Label
-**for:** Indicado pelo "identificação(id)", qual é o input de "conexão".
+Neste módulo, aprenderemos a estruturar um formulário em HTML, que é uma das principais formas de interação entre o usuário e o site. Por meio dele, o usuário pode inserir dados, como em páginas de cadastro, login, pesquisas, entre outros.
 
-# Input
-**``<input/>``** Como o próprio nome diz, é a entrada/interação que o usuário vai ter com o formulário;
+### 🔧 Estrutura básica de um formulário
 
-# Botões
-**``<button> </button>``:** Tag usada para enviar ou apagar os dados. Os tipos do botão, podem ser denominados pelo atributo type, podendo ser eles:
-- *submit:* Botão de Envio O Formulário;
-- *reset:* Botão de Apagar/Resetar O Formulário;
-- *button:* Botão Normal;
+Todo formulário começa com a tag ``<form>``, que é o contêiner onde os campos e botões são inseridos.
 
-# [Parte 2 !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Inputs.md)
+```html
+<form action="" method="">
+  <!-- Campos do formulário aqui -->
+</form>
+```
+
+#### Atributos necessários para o "FORM"
+
+- **``action:``** Indica para qual página os dados são enviados;**
+- **``method:``** "Método/Maneira" que os dados são enviados pelo action.
+  - **``GET:``** envia os dados pela URL (mais visível, usado para buscas).
+  - **``POST:``** envia os dados pelo corpo da requisição (mais seguro, usado em cadastros, senhas, etc).
+
+## 🏷️ Label
+
+A tag ``<label>`` serve para informar ao usuário o que ele deve preencher em determinado campo.
+
+```html
+<label for="nome">Nome:</label>
+```
+
+### Atributo Mais Usado Pelo Label
+
+O atributo ``for`` conecta o ``<label>`` a um campo ``<input>`` que tem um id correspondente.
+
+```html
+<input type="text" id="nome" />
+```
+
+> Dessa forma, ao clicar no texto do ``<label>``, o cursor vai diretamente para o campo.
+
+## ⌨️ Input
+
+A tag ``<input>`` representa campos de entrada, como nome, e-mail, senha, etc.
+
+```html
+<input type="text" id="nome" name="nome" />
+```
+
+> Existem vários tipos de input, que serão explicados no próximo módulo.
+
+## 🔘 Botões
+
+A tag ``<button>`` é utilizada para enviar, apagar ou realizar outras ações dentro do formulário.
+
+```html
+<button type="submit">Enviar</button>
+```
+
+### 📌 Tipos mais comuns
+
+- ``submit:`` envia os dados do formulário;
+- ``reset:`` limpa todos os campos preenchidos;
+- ``button:`` botão genérico, que pode ser usado com JavaScript, por exemplo.
+
+---
+
+# 💡 Continuação
+
+- [Continua na parte 2](./Inputs.md)

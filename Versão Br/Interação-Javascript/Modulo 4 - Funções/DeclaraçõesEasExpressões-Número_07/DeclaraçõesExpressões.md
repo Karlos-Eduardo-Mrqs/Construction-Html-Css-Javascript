@@ -1,40 +1,88 @@
-# Procedimentos
-É uma estrutura que agrupa um conjunto de comandos que são executados quando o procedimento é chamado. Procedimentos são rotinas (fragmentos ou módulos) de programas que podem executar uma tarefa definida pelo programador. Temos também a função que retorna um valor (por exemplo, uma função que calcula raiz quadrada retorna um número)
+# Observação 👁️
 
-## Quais são as diferenças? 
+- [Leia a parte de loopings primeiro !](../../Modulo%203-Loopings/Loops-Número_06/Loops.md)
+
+---
+
+## Procedimentos
+
+Procedimentos são estruturas que agrupam um conjunto de comandos que são executados quando o procedimento é chamado. São rotinas (fragmentos ou módulos) de programas que realizam uma tarefa definida pelo programador.
+
+Temos também as funções, que diferem dos procedimentos pois **retornam um valor** (por exemplo, uma função que calcula raiz quadrada retorna um número).
+
+---
+
+### Quais são as diferenças?
+
 ![1_dqABRmyYhz7boiQAbaRP9Q](https://github.com/user-attachments/assets/7a511566-78c2-440e-a997-0621a364979c)
 
-Nas funções, você tem uma entrada de usuário e sua impressão, ou seja, saída. Porém, o procedimento lê apenas algo, como você pode visualizar a imagem.
+Nas funções, você tem uma **entrada (input)** e uma **saída (output)**, enquanto procedimentos normalmente executam uma ação sem retornar um valor.
 
-# Tipos de funções em Javascript 
+---
 
-## 1. Declaração de funções
-A forma mais básica de definir funções em JavaScript é através da declaração de função, toda declaração de função começa com a palavra reservada e obrigatória function, veja este exemplo:
+## Tipos de funções em JavaScript
+
+### 1. Declaração de funções
+
+A forma mais básica de definir funções em JavaScript é através da declaração de função, que começa com a palavra reservada `function`. Exemplo:
 
 ![imagem](https://github.com/user-attachments/assets/610137f1-e9f8-4745-8c28-5e340ee70c2c)
 
-Nessas funções, há três partes importantes:
-- O nome da função (Não possui símbolos, apenas aceita o sublinhado do i(_) );
-- Os parâmetros(Um parâmetro em uma função é uma variável que define um valor específico durante a definição da função. Por exemplo, os dois números têm uma soma.);
-- A chamada (Apenas escreva o nome da função, de sua preferência, console.log(Function_Name() ) );
+Partes importantes:
 
-## 2. Expressão de funções
-Uma expressão de função ocorre quando você cria uma função e a atribui a uma variável. Só existe após a linha em que a expressão foi executada, pois a função é criada no momento da atribuição à variável.
+- **Nome da função:** pode conter letras, números, sublinhado (_), mas não símbolos especiais.
+
+- **Parâmetros:** variáveis que definem valores específicos para a função (ex: dois números para somar).
+
+- **Chamada:** invocar a função pelo nome, por exemplo, `console.log(nomeDaFuncao())`.
+
+---
+
+### 2. Expressão de funções
+
+Uma expressão de função ocorre quando você cria uma função e a atribui a uma variável. A função só existe a partir do momento em que a linha é executada. Exemplo:
 
 ![imagem](https://github.com/user-attachments/assets/f488d91c-9548-4083-8a29-2b769a7b1e96)
 
-Nessas funções, há três partes importantes:
-- O nome da função (Não possui símbolos, apenas aceita o sublinhado do i(_) );
-- Os parâmetros(Um parâmetro em uma função é uma variável que define um valor específico durante a definição da função. Por exemplo, os dois números têm uma multiplicação.);
-- A chamada (Apenas escreva o nome da variável em console.log(Variable_Name() ) );
+**Partes importantes:**
 
-### Expressão X Declaração
-- Elevação: as declarações de função são elevadas e podem ser chamadas antes de sua linha de definição, enquanto as expressões de função não podem.
-- Flexibilidade: Expressões de Função podem ser anônimas e usadas em tempo de execução, o que permite mais flexibilidade.
+- **Nome da função:** pode ser anônima ou nomeada, geralmente omitida em expressões.
 
-# Hosting
-Hoisting é um comportamento JavaScript no qual as declarações de variáveis ​​​​e funções são "movidas" para o topo de seu escopo (global ou função) antes que o código seja executado.Contudo, este é um comportamento conceitual; Na prática, o que acontece é que o JavaScript trata as declarações como se estivessem no topo, mesmo que apareçam em outro lugar do código.
+- **Parâmetros:** variáveis que definem valores, como na declaração.
 
-## Hosting nos exemplos citados
-As funções declaradas usando function são totalmente elevadas ao topo do escopo, incluindo o corpo da função. Isso significa que essas funções podem ser chamadas antes de serem declaradas no código.Nas funções de expressões ocorre apenas a declaração da variável (com var), mas a função só estará disponível após a linha em que está definida. Com let ou const, tentar acessar antes da declaração resulta em erro.
+- **Chamada:** invocar a função pelo nome da variável, ex: `console.log(nomeVariavel())`.
+
+---
+
+#### Expressão X Declaração
+
+| Aspecto         | Declaração de Função                     | Expressão de Função                   |
+|-----------------|-----------------------------------------|-------------------------------------|
+| **Elevação**    | Funções são elevadas e podem ser chamadas antes da declaração | Apenas a variável é elevada; a função só existe após a definição |
+| **Flexibilidade** | Menos flexível, nome fixo e declarativo | Pode ser anônima, usada em tempo de execução e atribuída a variáveis |
+
+---
+
+### Hoisting
+
+Hoisting é um comportamento do JavaScript em que declarações de variáveis e funções são **"movidas" para o topo do escopo** (global ou local) antes da execução do código.
+
+Na prática, o JavaScript trata o código como se todas as declarações estivessem no topo, mesmo que apareçam depois.
+
+---
+
+#### Hoisting nos exemplos citados
+
+- **Funções declaradas com `function`** são totalmente elevadas, incluindo o corpo da função. Assim, podem ser chamadas antes da sua declaração no código.
+
+- **Expressões de função:** apenas a declaração da variável (usando `var`) é elevada, mas a função só estará disponível após a linha de definição.
+
+- Usando `let` ou `const`, tentar acessar a variável antes da declaração gera erro.
+
 ![maxresdefault](https://github.com/user-attachments/assets/5bf77ca5-0dd0-4f8b-8951-7464871bce53)
+
+---
+
+## Próximo Capítulo
+
+- [Continua no próximo capítulo](../ArcosEasGeradoras-Número_08/ArcosGeradoras.md)

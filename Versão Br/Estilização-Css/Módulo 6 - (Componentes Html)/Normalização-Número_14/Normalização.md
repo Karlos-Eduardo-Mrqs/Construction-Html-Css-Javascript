@@ -1,15 +1,47 @@
-# [Leia o Módulo 5 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%205%20-%20(Posi%C3%A7%C3%B5es))
+# Observação 👁️
 
-# Padronização No Css
-Conhecido como Reset.CSS, o CSS reset é uma técnica ou conjunto de estilos CSS projetados para normalizar o estilo padrão dos elementos HTML em todos os navegadores da web.
-O objetivo é criar uma base consistente e previsível para o desenvolvimento web, independentemente das variações de estilo padrão entre diferentes navegadores.
+- [Leia o módulo 5 antes de começar](../../Módulo%205%20-%20(Posições)/Eixos_X,Y,Z-Número_13/Eixos.md)
 
-# Como é interpretado pelos navegadores ?
-Cada navegador tem a sua apresentação por padrão e esse comportamento individualizado pode gerar conflitos de layout diante do seu projeto web.Esse era um problema muito comum, enfrentado por programadores e programadores Front-end.Apesar de ser uma técnica *simples, chegar em um consenso mínimo sobre como “forçar” todos os navegadores a terem o mesmo comportamento, não foi fácil.
+---
 
-## Como usar ?
-Já sabemos que se trata de uma folha de estilo e que podemos usá-la como normalmente utilizamos em um projeto web, seja dentro do arquivo HTML, seja num arquivo externo (e que poderá ser acessado por todos os demais arquivos).O mais habitual é que antes de se começar a estilizar o projeto, o arquivo reset CSS já seja adicionado para que seja feita a remoção da formatação original dos browsers.Isso porque, caso o reset CSS seja adicionado no meio do projeto, por exemplo, pode gerar dores de cabeça já que o layout foi criado utilizando como referência a formatação dos navegadores e não na padronização dos elementos que foram resetados.
+## Padronização no CSS (Reset CSS)
 
-# [Arquivo Reset Css](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/normilize.css);
+O **Reset CSS** é uma técnica (ou conjunto de estilos CSS) projetada para **normalizar a estilização padrão dos elementos HTML** em todos os navegadores.  
 
-# [Continue no Número_15](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Listas_Ancoras-N%C3%BAmero_15/Ancoras.md)
+O objetivo é criar uma base **consistente e previsível** para o desenvolvimento web, eliminando as variações de estilo padrão que cada navegador aplica individualmente.
+
+---
+
+## Como os navegadores interpretam?
+
+Cada navegador possui sua própria apresentação padrão para os elementos HTML, o que pode gerar **conflitos de layout** em projetos web.  
+
+Esse comportamento individualizado era (e ainda é) um desafio frequente para desenvolvedores front-end, já que cada navegador aplica estilos default diferentes.  
+
+Apesar de ser uma técnica simples, chegar a um consenso sobre como "forçar" todos os navegadores a se comportarem da mesma forma não foi fácil.
+
+---
+
+## Como usar o Reset CSS?
+
+Sabemos que o Reset CSS é uma folha de estilos como qualquer outra, e pode ser usada:
+
+- Diretamente dentro do arquivo HTML;
+- Ou importada a partir de um arquivo externo (recomendada para reaproveitamento em vários arquivos).
+
+O mais comum é **adicionar o Reset CSS antes de iniciar a estilização do projeto**, para remover a formatação padrão dos navegadores.  
+
+Se for inserido no meio do projeto, pode gerar problemas, pois o layout pode ter sido criado considerando os estilos padrão dos navegadores — não a base padronizada após o reset.
+
+---
+
+## Exemplo de arquivo Reset CSS
+
+Você pode conferir um arquivo Reset CSS funcional neste link:  
+[normalize.css no GitHub](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/normilize.css)
+
+---
+
+## 🔗 **Próximo passo:**  
+
+- [Continue no Número_15 - Listas e Âncoras](../Listas_Ancoras-Número_15/Ancoras.md)
