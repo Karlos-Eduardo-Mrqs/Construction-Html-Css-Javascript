@@ -1,25 +1,72 @@
-# [Leia A Introdução antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-N%C3%BAmero_01/Introdu%C3%A7%C3%A3o.md)
+# Observação 👁️
 
-# O que são Tags e Blocos ?
-As Tags são conhecidas como Blocos; onde todo o seu conteúdo é _"anexado"_ por elas. Por Exemplo: ``<tag> Conteúdo </tag> ``. Como pode ver, a TAG possui abertura, fechamento e seu conteúdo fica no meio._
+- [Leia a Introdução antes de continuar](Introdução.md)
 
-# Diferença de Tags e Textos comuns
-Qual seria a diferença entre os textos abaixo ?
+---
 
-``<p> Texto1 </p> X Texto 2``
+## O que são Tags e Blocos? 🤔
 
-__Simples, o "Texto 1"está coberto pela tag p, conhecida como tag parágrafo.Já o segundo, não possui bloco e está completamente solto, sem nenhum "comprimento da TAG"__.
+As **tags** são elementos fundamentais do HTML, conhecidas como **blocos** que envolvem e organizam o conteúdo.  
+Um exemplo básico seria:  
 
-# Display  
-*Lembra do exemplo citado anteriormente ?* Então, além deles terem uma diferença de comprimento(de um texto estar entre a abertura e fechamento de uma tag), eles possuem uma outra divergência chamada de Display.
+```html
+<tag> Conteúdo </tag>
+```
 
-## Exemplos e Conceito
-O Display é o espaço que o conteúdo é exibido e como o conteúdo se comporta na tela, por exemplo:
-``<p> Parágrafo 1 </p> <p> Parágrafo 2 </p> ``
+Como você pode ver, a tag possui uma **abertura**, um **fechamento** e o conteúdo é inserido entre ambas.
 
-Na Tag "p", ele possui por padrão o Display "Block", fazendo que o texto "Parágrafo 1" e "Parágrafo 2" ocupem uma linha inteira da página, ficando um abaixo do outro.
-Já quando utilizamos um texto normal dessa maneira: ``Texto 1 Texto 2 ``
+### Diferença entre Tags e Textos comuns
 
-Sem nenhuma TAG, os dois textos ficaram um do lado do outro, por possuírem por padrão o Display "Inline", isso também acontece com a TAG span, uma tag específica para textos. Para observar a diferença de displays basta abrir o documento, usar o atalho "CTRL+SHIFT⬆️+I" procurar um ícone↖️ e clicar no elemento desejado.
+Qual seria a diferença entre os dois trechos abaixo?
 
-# [Continua no Número_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/EstruturaDoHtml-N%C3%BAmero_02/Estrutura.md)
+```html
+<p>Texto 1</p>      vs      Texto 2
+```
+
+A resposta é simples:  
+
+- O **"Texto 1"** está envolvido pela tag `<p>`, usada para definir um **parágrafo**.  
+
+- Já o **"Texto 2"** está **fora de qualquer tag**, ou seja, está **solto na estrutura do HTML**, sem o encapsulamento que uma tag proporciona.
+
+> As tags garantem que o conteúdo seja reconhecido e exibido de forma correta pelos navegadores.
+
+---
+
+### Display
+
+*Lembra do exemplo citado anteriormente?*  
+Além da diferença de estrutura (com ou sem tag), existe também a diferença de **comportamento visual**, chamada **display**.
+
+#### Exemplos e Conceito
+
+O **display** determina como um elemento HTML será exibido na tela — se ocupará toda a linha, ficará ao lado de outros, entre outros comportamentos. Exemplo:
+
+```html
+<p>Parágrafo 1</p>
+<p>Parágrafo 2</p>
+```
+
+As tags `<p>` têm, por padrão, o comportamento **display: block**, o que significa que cada parágrafo ocupa **toda a largura da linha**.  
+
+Por isso, os textos "Parágrafo 1" e "Parágrafo 2" aparecem um **abaixo do outro**. Agora veja esse exemplo:
+
+```html
+Texto 1 Texto 2
+```
+
+Como não há nenhuma tag definindo seu comportamento, os textos são exibidos na **mesma linha**, um ao lado do outro.  
+
+Esse é o comportamento típico de elementos com **display: inline**, que **não forçam quebra de linha**. Um exemplo de tag inline é a `<span>`, usada para destacar partes específicas de um texto sem afetar o fluxo do conteúdo.
+
+---
+
+## 💡 **Dica prática:**
+
+Para visualizar como cada elemento se comporta na página, abra o navegador, pressione `CTRL + SHIFT + I` para abrir as ferramentas de desenvolvedor, clique no ícone de seleção (↖️) e selecione o elemento desejado. Isso mostrará o tipo de display e outras propriedades aplicadas.
+
+---
+
+# 💡 Continuação
+
+- [Continua no Número_02](../EstruturaDoHtml-Número_02/Estrutura.md)

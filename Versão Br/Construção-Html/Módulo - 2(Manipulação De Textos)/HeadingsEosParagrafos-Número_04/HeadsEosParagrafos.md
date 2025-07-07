@@ -1,19 +1,49 @@
-# [Leia o Módulo 1 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos))
+# Observação 👁️
 
-# Títulos(Headers)
-Os títulos são textos de impressão que normalmente, utilizam-se para introduzir um assunto. Por exemplo,Observe as imagens abaixo:
+- [Leia o Módulo 1 antes de continuar](../../Módulo%20-%201(Primeiros%20Passos)/ConceitoDeTags-Número_01/Introdução.md)
+
+---
+
+## Títulos(Headers)
+
+Os títulos são elementos textuais usados normalmente para introduzir um assunto.
+
+Por exemplo, observe as imagens abaixo:
 
 ![ExemploDeTitulos](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/849ebcd8-00cb-40d3-a902-462828f4102c)
+
 ![ExemplosDETitulos2](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/800039e4-06ae-49c1-bba1-59efccc1a4c3)
+
 ![ExemploDeTitulos3](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/29d844d9-720e-44e0-9220-78cb93470512)
+
 ![ExemploDeTitulos4](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/90fe2b88-b425-4f18-8411-8f6437a5f941)
 
-# Observação Das Imagens
-Notou que cada uma possui um Texto "destacados" ? Esses são os títulos, onde cada um tem sua importância e relevância dentro de uma notícia. **Tendo seis(6) níveis, do número um(1) até o seis(6)**.`` <h1> </h1> <h2> </h2> <h3></h3> <h4></h4> <h5> </h5> <h6> </h6> ``. Logo abaixo dos títulos, possui textos explicativos, esses são os parágrafos, que já foram citados anteriormente nos outros **arquivos .md**, confira:
+### O que observou dentro das imagens 🔎 ?
+
+Notou que cada uma possui um texto em destaque?
+
+Esses são os títulos (headers). Cada nível (de 1 a 6) indica a importância da informação, sendo o ``<h1>`` o mais relevante e o ``<h6>`` o menos.
+
+Aqui estão as tags HTML correspondentes:
+
+```html
+<h1>Título nível 1</h1>
+<h2>Título nível 2</h2>
+<h3>Título nível 3</h3>
+<h4>Título nível 4</h4>
+<h5>Título nível 5</h5>
+<h6>Título nível 6</h6>
+```
 
 ## Truque de Formação Do Visual Studio
-Quando é utilizada a programação, precisamos de um bloco de códigos chamado Visual Studio. Nele temos mais facilidade e produtividade na construção de algoritmos/páginas web. **Usando o comando !, podemos criar toda a estrutura html automaticamente, ficando assim:**
-```
+
+Quando é utilizada a programação, precisamos de um bloco de códigos chamado Visual Studio.
+
+Nele temos mais facilidade e produtividade na construção de algoritmos/páginas web.
+
+**Usando o comando !, podemos criar toda a estrutura html automaticamente, ficando assim:**
+
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -27,4 +57,8 @@ Quando é utilizada a programação, precisamos de um bloco de códigos chamado 
 </html>
 ```
 
-# [Continua no Número_05](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Formata%C3%A7%C3%A3oDeTextos-N%C3%BAmero_05)
+---
+
+# 💡 Continuação
+
+- [Continua no Número_05](../FormataçãoDeTextos-Número_05/FormataçãoDeTexto.md)

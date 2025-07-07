@@ -1,19 +1,39 @@
-# [Leia o Número_02 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%201(Primeiros%20Passos)/EstruturaDoHtml-N%C3%BAmero_02/Estrutura.md)
+# Observação 👁️
 
-# Charset
+- [Leia o Número_02 antes de continuar](../EstruturaDoHtml-Número_02/Estrutura.md)
+
+---
+
+## Charset
+
 O Charset é conhecido como uma coleção de caracteres. Por exemplo, o Abecedário é um conjunto de letras de A ... Z; e ao redor do mundo, existem inúmeros tipos de letras e caracteres especiais.Como o abecedário Brasileiro, Chines, Arabe e Hebraico consecutivamente ...
 
 ![alfabeto-romano](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/9c4e7fdb-388d-4acf-8562-e4076e4b2886)
+
 ![index_clip_image042](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/c3b4dc79-a589-46ad-8818-80ea0b106918)
+
 ![4814e7451387e4f5ebb9b5236ec96ca8](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/ffd1ed89-308f-4c85-8e49-c576fbd3d28d)
+
 ![Hebrew_alphabet](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/3fc29925-d2e2-4abd-af72-abe85b85701f)
 
-# Tabela ASCII
-Dentro da área de tecnologia, esse conceito não é diferente, possuindo até mesmo sua própria tabela(conjunto de caracteres) chamada de ASCII.**Denominada de Código Padrão Americano para o Intercâmbio de Informação, ela é baseado no alfabeto romano e sua função é padronizar a forma como os computadores representam letras, números, acentos, sinais diversos e alguns códigos de controle.**
+## Tabela ASCII
+
+Dentro da área de tecnologia, esse conceito não é diferente, possuindo até mesmo sua própria tabela(conjunto de caracteres) chamada de ASCII.
+
+**Denominada de Código Padrão Americano para o Intercâmbio de Informação**, ela é baseado no alfabeto romano e sua função é padronizar a forma como os computadores representam letras, números, acentos, sinais diversos e alguns códigos de controle.
 
 ![4e6047eeebc1470cd6c8c5ae082975e3](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/6cd28b1c-4567-4ba0-ad52-db2419d2ed29)
 
 ## Comando Meta
-Sabendo disso, podemos utilizar uma **TAG** chamada meta, que pode definir por padrão dentro do cabeçalho, ou seja , a **TAG** head qual será a coleção de caracteres padrão. Podendo ser **UTF-8** que engloba todos os idiomas criados até então ou até mesmo **ASCII** utilizando todos os caracteres ASCII.`` <meta charset ="UTF-8" \> ``. Essa tag não possui um fechamento ``</meta> ``, então para fechá-la, é assim `` <meta /> ``;
 
-# [Continua no Módulo 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos))
+Sabendo disso, podemos utilizar uma **TAG** chamada meta, que pode definir por padrão dentro do cabeçalho, ou seja , a **TAG** head qual será a coleção de caracteres padrão.
+
+Podendo ser **UTF-8** que engloba todos os idiomas criados até então ou até mesmo **ASCII** utilizando todos os caracteres ASCII.`` <meta charset ="UTF-8" \> ``.
+
+Essa tag não possui um fechamento ``</meta>``, então para fechá-la, é assim `` <meta /> ``;
+
+---
+
+# 💡 Continuação
+
+- [Continua no Módulo 2](../../Módulo%20-%202(Manipulação%20De%20Textos)/HeadingsEosParagrafos-Número_04/HeadsEosParagrafos.md)

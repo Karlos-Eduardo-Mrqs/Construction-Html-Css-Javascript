@@ -1,42 +1,73 @@
-# [Leia o Número_04 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/HeadingsEosParagrafos-N%C3%BAmero_04/HeadsEosParagrafos.md)
+# Observação 👁️
 
-# Formatação De Texto 
+- [Leia o Número_04 antes de continuar](../HeadingsEosParagrafos-Número_04/HeadsEosParagrafos.md)
+
+---
+
+## Formatação De Texto
+
 Agora que aprendemos a lidar com a Estrutura Básica, Headings(Cabeçalhos/Títulos) e Parágrafos, está na hora de aprender a lidar com a **manipulação de textos**.
 
-## Tags De Manipulação de Texto e exemplos:
+### 🏷️ Tags de Manipulação de Texto e Exemplos
 
-- **Tag `` <br> ``** Começando pela tag `` <br> ``, ela faz uma quebra de linhas, isso é visto quando se abre o documento index desta pasta;
+- **Tag `` <br> ``**
 
-- **Tag `` <p> ``** Adiante temos a  tag `` <p> </p> ``, que é uma Tag padrão para textos, que ocupa uma linha inteira da página.Ou seja, possuí o Display Block.
+Responsável por inserir uma quebra de linha no texto. Você pode ver seu uso no arquivo index desta pasta.
+
+- **Tag `` <p> ``**
+
+Define um parágrafo. É uma tag padrão para textos que ocupam uma linha inteira na página, ou seja, tem display block.
 
 ![ExemploParagrafo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/ed8ed165-fd33-42bc-a21f-9671264ca995)
 
-- **As Tags `` <b> e <strong> ``** Essas Tags formatam o texto escolhido, para um texto em negrito . 
+- **As Tags ``<b> e <strong>``**
+
+Formata o texto em **negrito**.
 
 ![ExemploNegrito](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f31d82ce-8335-4f64-a063-4f9680c4a336)
 
-- **As Tags `` <i> e <em> ``** Essas Tags formatam o texto escolhido, para um texto em itálico .
+- **As Tags `` <i> e <em> ``**
+
+Formata o texto em *itálico*.
 
 ![ExemploItálico](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/1f418e6e-a9af-4947-8f8f-305a38b4fcab)
 
-- **As Tags `` <ins>, <del> e <mark>``** Essas tags deixam o texto com uma linha, podendo ela estar sublinhando, riscando ou marcando o texto.
+- **As Tags ``<ins>, <del> e <mark>``**
+
+Aplicam efeitos no texto, como sublinhado (``<ins>``), texto riscado (``<del>``) ou texto destacado (``<mark>``).
 
 ![ExemploSubMarkDel](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f6d71d72-83e9-4ac5-a966-ec899c190149)
 
-- **As Tags `` <sub> e <sup> ``** Essas tags formam o texto para eles ficarem rebaixados ou elevados.
+- **As Tags `` <sub> e <sup> ``**
+
+Posicionam o texto em formato de subscrito (abaixo) ou sobrescrito (acima).
 
 ![ExemploSuperInferior](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/00330029-c54f-4ad6-acc0-f7940bc30915)
 
-- **As Tags `` <small> e <big> ``** Essas tags formam o tamanho do texto.
+- **As Tags `` <small> e <big> ``**
+
+Alteram o tamanho do texto para menor ou maior, respectivamente.
 
 ![ExemploSmallBig](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e2488a5d-0875-4042-b80e-aaccdf06c213)
 
-## Comando lorem ou Lorem 
-Um comando dentro do Visual Studio Code, que gera um texto aleatório.**Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit, ódio magnam com sequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat**
+## Comando lorem ou Lorem
 
-# Observação das Tags apresentadas
+Um comando dentro do Visual Studio Code, que gera um texto aleatório.
+
+```bash
+lorem 
+```
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit, ódio magnam com sequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat
+
+## Observação das Tags apresentadas
+
 **Todas as tags, MENOS A TAG P**, possuem Display Inline, ou seja só ocupa o espaço que o tamanho do conteúdo tem, olhe a imagem abaixo:
 
 ![ExemploDisplayInline](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
 
-# [Continua no Número_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%202(Manipula%C3%A7%C3%A3o%20De%20Textos)/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas-N%C3%BAmero_06/Cita%C3%A7%C3%A3oDeEndere%C3%A7osEasListas.md)
+---
+
+# 💡 Continuação
+
+- [Continua no Número_06](../CitaçãoDeEndereçosEasListas-Número_06/CitaçãoDeEndereçosEasListas.md)

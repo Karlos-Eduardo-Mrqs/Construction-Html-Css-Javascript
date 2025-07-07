@@ -1,50 +1,112 @@
-# [Leia a parte um antes](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/TabelasPrt1.md)
+# Observação 👁️
+
+- [Leia a parte um antes](./TabelasPrt1.md)
+
+---
 
 ## Melhorando A Tabela Alunos
-Agora que a tabela foi criada, vamos fazer o mesmo Design que está aplicado na imagem de exemplo dos alunos
+
+Agora que já construímos a tabela de alunos, vamos aplicar o design da imagem de referência, deixando-a mais agradável visualmente:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8f046efe-e8cc-42b9-9032-940e9a0fccc6)
 
-### Atributos para melhoria
-Começando pelo **CAPTION**, nosso título da tabela, usaremos o atributo **"STYLE"**, para modificar seu estilo usando:
-- **font-family: Para modificar a sua fonte/letra para Lucida Sans;**
-- **Utilizaremos a tag ``<b>`` dentro do caption, para deixá-lo em negrito; Deixando o Título, assim:**
+### 🧩 Personalizando o ``<caption>``
+
+Começamos formatando o título da tabela usando o atributo ``style`` na tag ``<caption>``. Atributos utilizados:
+
+```html
+<caption style="font-family: Lucida Sans;"><b>Alunos</b></caption>
+```
+
+- ``font-family``: define a fonte usada (ex: Lucida Sans);
+- A tag ``<b>``: deixa o título em **negrito**.
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f67d1852-6130-41d8-be63-c52d7f79e61c)
 
-Indo agora para a nossa tabela, utilizaremos alguns atributos para a tag **TABLE** :
-- **border:** Aplicamos a borda da tabela;
-- **cellpadding:** Formata o espaço que a célula vai ter;
-- **cellspacing:** Formato o espaço que as células terão em relação a tabela;
-- **width:** Já foi citado anteriormente no módulo 3. Para ajustar largura; No final, ficou assim:
+### 🧱 Estilizando a ``<table>``
+
+Na tag ``<table>``, adicionamos os seguintes atributos:
+
+```html
+<table border="1" cellpadding="10" cellspacing="0" width="500">
+```
+
+- ``border``: define a borda da tabela;
+- ``cellpadding``: espaço interno da célula;
+- ``cellspacing``: espaçamento entre células;
+- ``width``: largura da tabela.
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/03ac2e50-d099-4341-9ff2-2a66a748da77)
 
-Agora com a tabela organizada, alteramos o **Thead**, usando novamente o atributo **"style:"**
-- **Background-Color:** Muda a cor de fundo;
-- **Color:** Muda a cor da letra/fonte;
-- **Font-size:** Muda o tamanho da fonte; No final ficou assim:
+### 🎨 Formatando o ``<thead>``
+
+Vamos aplicar estilo ao cabeçalho usando também o atributo ``style``:
+
+```html
+<thead style="background-color: #333; color: white; font-size: 16px;">
+```
+
+- ``background-color``: define a cor de fundo;
+- ``color``: define a cor do texto;
+- ``font-size``: ajusta o tamanho da fonte.
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/569811a2-9fcb-4cfc-9271-2a48b49426be)
 
-# Bônus
-Para finalizar, podemos implementar mais coisas nessa tabela como rodapé.
+## 🏁 Bônus: Rodapé com ``<tfoot>``
 
-## Tags Bônus
-**`` <tfoot> </tfoot> ``:** Cria o rodapé da nossa tabela, depois usaremos a tag ``<tr> <td> </td> </tr>``:
+Podemos adicionar um rodapé à tabela com a tag ``<tfoot>``:
+
+```html
+<tfoot>
+  <tr>
+    <td colspan="3"> Total:</td>
+    <td> 6</td>
+  </tr>
+</tfoot>
+```
+
+- O atributo ``colspan="3"`` faz com que a célula ocupe três colunas, alinhando corretamente com os dados.
+
+> Atributo ``colspan`` faz com que o conteúdo ocupe várias colunas (nesse caso, 4).
+
+### 🆚 Comparativo: com e sem colspan
+
+> **sem ``colspan``**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2d3f2699-18d5-4228-9812-b4684e113dd0)
 
-Observe que na tabela ele criou o rodapé com os dois espaços corretamente. Porém, que tem dois espaços em branco, para resolver podemos usar **o atributo chamado "colspan" definindo quantas colunas uma célula em específico pode ocupar na tabela. Ficando assim:**
+> **com ``colspan``**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/93c426ca-1247-440d-8c2f-228e4dd3c7ca)
 
-## [Código Final](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/tabelas.html)
+## 💻 Código Html
 
-# Desafio
-Está faltando uma tabela, a dos professores ! **O desafio é o seguinte, com os ensinamentos aqui, replique a tabela professores em HTML. Qualquer dúvida comente nas issues, ok ? Tabela dos professores, logo abaixo:**
+- [Código Final](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas)/)
+
+---
+
+## Desafio
+
+Falta uma tabela: a dos Professores!
+
+### 🧠 Sua missão
+
+Utilizando os conhecimentos deste módulo, replique a tabela dos professores com a mesma estrutura e formatação usada na tabela de alunos.
+
+**📷 Modelo da tabela dos professores:**
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/82aabe57-181d-4af8-9da4-0b88f76d3b07)
-# [Bonus2](https://www.homehost.com.br/blog/criar-sites/tabela-html/)
 
-# Atenção, no bônus eu corrigi um erro, eu esqueci de colocar os dados do aluno Carlos ! Perdoem-me pelo erro.
+> ❓Dúvidas? Abra uma Issue no repositório e eu te ajudo!
 
-# [Continua no Módulo 5](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios))
+## 🔎 Extras
+
+- [Guia de tabelas em HTML - HomeHost](https://www.homehost.com.br/blog/criar-sites/tabela-html/)
+
+> 📌 Nota: Corrigimos um detalhe — os dados do aluno Carlos haviam sido esquecidos na primeira versão. 😅
+
+---
+
+# 💡 Continuação
+
+- [Continua no Módulo 5](../Módulo%20-%205(Formulários)/EstruturaDoFormulário_Número_10/Forms.md)

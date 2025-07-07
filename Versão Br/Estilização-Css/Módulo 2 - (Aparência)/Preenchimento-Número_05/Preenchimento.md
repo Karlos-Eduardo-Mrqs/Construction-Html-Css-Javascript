@@ -1,78 +1,147 @@
-# [Leia o Número_04](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Paleta_De_Cores-N%C3%BAmero_04/Paleta.md)
+# Observação 👁️
 
-# Preenchimento 
-O preenchimento é usado para criar espaço ao redor do conteúdo de um elemento, dentro de qualquer borda definida. Aprenderemos agora a fazer isso, com as cores e imagens com css.
+- 📌 [Leia o Número\_04](../Paleta_De_Cores-Número_04/Paleta.md)
 
-## Preenchimento Com Cores 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/7b2ffe71-d5c5-41d0-ad51-0ab1a8661c87)
+---
 
-Vamos usar essa página de exemplo, utilizamos o background para aplicar a cor cinza de fundo principal da página, ou seja, no html todo. Quando criamos uma div, classificada como box, com 150px de altura e largura com a cor azul. observe que na imagem abaixo, ela só ocupa um quadrado:
+## 🌟 O que é Preenchimento?
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/3d24476c-6b08-462d-b34e-265b563627ce)
+O **preenchimento** (ou `background`) é usado para:
 
-Ao construirmos outra div separada, com uma classe chamada box-2, com 350px de altura e largura com a cor vermelha. Observer que na imagem abaixo, ela está ao lado do quadrado azul e ocupa somente aquele espaço, como no velho ditado, "cada um no seu quadrado".:
+- Criar espaços visuais com **cores** 🎨;
+- Inserir **imagens** 🖼️ como fundo;
+- Deixar áreas **transparentes** 👻;
+- Controlar visualmente cada parte da página!
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a8553b0c-3f97-4b39-a4d8-f030314b9f81)
+Vamos explorar tudo isso com exemplos visuais! 👇
 
-Todos eles possuem seu próprio canto, note que, quando criarmos uma seção dentro da box-2 classificada como box-21, com 100px de altura e largura com a cor verde. Mesmo sobrepondo a box-2, ela tem seu espaço dentro dela:
+---
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d1cca5a1-66ae-41e9-ba9e-530e026d3f69)
+## 🎨 Preenchimento com Cores
 
-Isso fica nítido ao inserirmos textos nelas. Para termos certeza que elas têm seu respectivo espaço, criaremos uma quarta caixa, dentro da box-21, será outra seção, classificada como box-21a, possuindo 60px de altura e largura com a cor amarela. Olhe como os textos se comportam. Claro que se aumentar os textos, ficará por cima. Mas, estarão dentro de seus espaços.
+Temos uma página com fundo cinza (`background-color: gray`) e duas caixas:
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8f7c32a2-78b1-4ad7-8dfd-bf58b27db8a6) 
+🔷 Uma `div.box` azul com `150px x 150px`:
 
-### Invisível
-Além disso tudo, podemos deixar as caixas transparentes com o `` background:transparent; ``. Vejamos o que acontecerá ao atribuirmos isso na box-2:
+![box azul](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/3d24476c-6b08-462d-b34e-265b563627ce)
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/66bbab1e-461f-4070-b987-66162eb2969b)
+🔴 Uma `div.box-2` vermelha com `350px x 350px` ao lado da anterior:
 
-Sendo ela invisível ou transparente como preferir, a box-2 não ficará nítida. Ao inspecioná-lá, ficará somente nítido somente o tamanho dela e a área de ocupação, ou seja, seu Display.Isso também acontece, com os botões ao inserirmos seu fundo como transparente. Ao classificarmos ele com button, e adicionar seu fundo como transparente, ele ficará assim:
+![box vermelha](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a8553b0c-3f97-4b39-a4d8-f030314b9f81)
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5562c82f-35f8-44b5-8cfe-30242526c903)
+📦 Dentro da `box-2`, temos a `box-21` verde com `100px x 100px`:
 
-## Preenchimento Com Imagens
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2f90ef4e-1892-4c54-9acc-10fdfb03cb7a)
+![box verde](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d1cca5a1-66ae-41e9-ba9e-530e026d3f69)
 
-Podemos usar imagens como fundo, usaremos essa página como exemplo. Com um fundo acinzentado juntamente de uma caixa branca de 600px de largura e 500 px de altura.
+🟡 Por fim, uma `box-21a` amarela com `60px x 60px`, também dentro da anterior:
 
-### Background - Image
-Usaremos aqui o comando background-image, para adicionar a imagem, logo abaixo está sua sintaxe que será adicionada na div chamada box:**``.box{ background-image: url(images/image.png); } ``**.Ao usarmos esse comando, vejamos o que acontece:
+![box amarela](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8f7c32a2-78b1-4ad7-8dfd-bf58b27db8a6)
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8ffb7a0d-c5b3-45a4-8003-b99a9a209dc8)
+Todas **ocupam seu próprio espaço**, com os textos visivelmente bem posicionados.
 
-### Background - Repeat
-**Percebemos que a imagem se repetiu, para isso não ocorrer usaremos o comando background-repeat, para manipular como a imagem irá se repetir dessa forma:``.box{ background-repeat: formato de repetição;}, podendo ele ser: `` Usaremos de exemplo, para não se repetir o no-repeat:** 
-- repeat: a imagem se repete;
-- no-repeat: a imagem aparece normalmente, não se repetindo;
-- repeat-x: A imagem se repete somente na horizontal;
-- repeat-y:A imagem se repete somente na vertical;
-- space:A imagem se repete dependendo do espaço que ela vai ocupar;
-- initial: A imagem se mantém no padrão;
+---
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/dd72af32-6693-48b0-8603-73bb34020610)
+## 👻 Fundo Transparente
 
-### Background - Repeat
-**Porém, a imagem ficou pequena, podemos usar o background-size, para controlar seu tamanho dessa forma:``.box{ background-size: tamanho; Podendo ele ser:}``
-Usaremos o cover de exemplo, para preencher todo a caixa box:**
-- auto: Tamanho padrão da imagem; 
-- contain: Tamanho contido, até a imagem ser visível sem ser alargada;
-- cover: Tamanho lateral que a imagem irá se esticar ao seu limite;
+Quer tornar a caixa invisível, mas ainda presente na estrutura da página?
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f939704d-239e-4b28-8e9f-91222b2d0db0)
- 
-### Background - Position
-Para resolver o problema da imagem anterior, usaremos o comando **background-position, posicionando assim a imagem assim:``.box{background-position: posição; Podendo ela ser: } ``Usaremos de exemplo o top center, para que a imagem fique centralizada:**
-- top top: Começando da direita no topo e terminando na esquerda no topo;
-- top center: Começando da direita no topo e terminando na esquerda no centro;
-- top bottom: Começando da direita no topo e terminando na esquerda no canto inferior da imagem;
-- Variações: Podendo variar de center bottom, bottom center e entre outras variações do mesmo;
+Use:
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1d0b63f9-c373-4c51-8fdc-b326a0912ec4)
+```css
+.box-2 {
+  background: transparent;
+}
+```
 
-### Duas imagens dentro de uma div ?
-Sim, é possível inserirmos em uma div, duas imagens.**Porém, é uma situação muito específica, sendo mais recomendado que crie uma "div afiliada" para isso. Por exemplo, criarei outra caixa chamada box-21, nele estará contido a outra imagem; após isso, adicionaremos 80px de altura e largura com nenhuma repetição sendo ela posicionada na parte superior da montanha.** Veja agora o resultado:
+🔍 Veja o efeito ao inspecionar o elemento:
 
-![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/9ed49fa5-77fd-409c-9f2c-cc2522345dd6)
+![box transparente](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/66bbab1e-461f-4070-b987-66162eb2969b)
 
-# [Continua no Número_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%202%20-%20(Apar%C3%AAncia)/Bordas-N%C3%BAmero_06/Borda.md)
+🖱️ Também funciona com botões! Por exemplo:
+
+```css
+button {
+  background: transparent;
+}
+```
+
+![botão transparente](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5562c82f-35f8-44b5-8cfe-30242526c903)
+
+---
+
+## 🖼️ Preenchimento com Imagens
+
+Página com caixa branca (`600px x 500px`) sobre fundo cinza:
+
+![estrutura](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2f90ef4e-1892-4c54-9acc-10fdfb03cb7a)
+
+### 📌 `background-image`
+
+Adicionando imagem como fundo:
+
+```css
+.box {
+  background-image: url("images/image.png");
+}
+```
+
+![imagem padrão](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8ffb7a0d-c5b3-45a4-8003-b99a9a209dc8)
+
+### 🔁 `background-repeat`
+
+Controla a repetição da imagem:
+
+```css
+background-repeat: no-repeat; /* outras opções abaixo */
+```
+
+- `repeat`: repete a imagem (padrão)
+- `no-repeat`: mostra uma única vez
+- `repeat-x`: repete só na horizontal
+- `repeat-y`: repete só na vertical
+- `space`: repete conforme o espaço disponível
+
+![sem repetição](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/dd72af32-6693-48b0-8603-73bb34020610)
+
+### 📏 `background-size`
+
+Controla o **tamanho** da imagem:
+
+```css
+background-size: cover;
+```
+
+- `auto`: tamanho original
+- `contain`: ajusta sem cortar
+- `cover`: cobre toda a caixa
+
+![background cover](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/f939704d-239e-4b28-8e9f-91222b2d0db0)
+
+### 🎯 `background-position`
+
+Posiciona a imagem dentro da caixa:
+
+```css
+background-position: top center;
+```
+
+- `top top`
+- `top center`
+- `bottom center`
+- `center center`, etc.
+
+![posição da imagem](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1d0b63f9-c373-4c51-8fdc-b326a0912ec4)
+
+### 🧩 Duas imagens numa `div`?
+
+Sim, mas o ideal é usar **divs filhas**:
+
+Exemplo com `box-21` como filha da `box`, exibindo uma segunda imagem sem repetição, posicionada no topo da imagem anterior:
+
+![duas imagens](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/9ed49fa5-77fd-409c-9f2c-cc2522345dd6)
+
+---
+
+## ✅ Próximo Conteúdo
+
+➡️ [Continua no Número\_06 – Bordas](../Bordas-Número_06/Borda.md)
