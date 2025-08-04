@@ -8,37 +8,37 @@ This module is divided into 6 modules that cover everything from basic concepts 
 
 ## 🗂️ Modules
 
-### 1. [First Passes](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%201%20-%20(First%20Passes)) 🧑‍🎓  
+### 1. [First Passes](../Styling-Css/Module%201%20-%20(First%20Passes)/) 🧑‍🎓  
 
 Discover the basics of CSS: how it interacts with HTML, how to add styles to a document, use basic selectors and the correct syntax to apply style rules. A perfect starting point for beginners.  
 
 ![Module 1](https://github.com/user-attachments/assets/d15f9d5a-a848-4846-bfe0-2f8b3949ca54)
 
-### 2. [Appearance](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%202%20-%20(Appearance)) 🎨  
+### 2. [Appearance](../Styling-Css/Module%202%20-%20(Appearance)/) 🎨  
 
 In this module, you will learn how to control the visual appearance of elements, from the background, edges, to shadows. See how to style the details that make your components stand out, using properties like background, border, box-shadow, and more.  
 
 ![Module 2](https://github.com/user-attachments/assets/dcabee82-7e1b-49ce-b3c7-acbc139039e7)
 
-### 3. [Spacing](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%203%20-%20(Spacing)) 🔲  
+### 3. [Spacing](../Styling-Css/Module%203%20-%20(Spacing)/) 🔲  
 
 Learn how to control the spacing of your elements with margin, padding, and box-sizing. Understand how to ensure proper layout and consistent spacing, essential for an organized and responsive page.  
 
 ![Module 3](https://github.com/user-attachments/assets/b0766086-f7bb-4d3b-891b-f39202ca3491)
 
-### 4. [Styling Fonts](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%204%20-%20(Styling%20Fonts)) ✍️  
+### 4. [Styling Fonts](../Styling-Css/Module%204%20-%20(Styling%20Fonts)/) ✍️  
 
 Styling fonts is one of the main ways to improve the readability and aesthetics of a page. Here you will see how to modify font families, sizes, line-height, letter-spacing, and other text-related properties.  
 
 ![Module 4](https://github.com/user-attachments/assets/533a4091-e2e3-408b-a862-966b4da188bd)
 
-### 5. [Positioning](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%205-%20(Positions)) 🧑‍🎨  
+### 5. [Positioning](../Styling-Css/Module%205-%20(Positions)/) 🧑‍🎨  
 
 This module focuses on layout techniques. Learn how to position elements using properties such as position, float, z-index, and understand how display and flexbox work to create flexible and responsive layouts.  
 
 ![Module 5](https://github.com/user-attachments/assets/6d28f47c-8f43-4105-a5a6-9f66db58ad77)
 
-### 6. [HTML Components](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Styling-Css/Module%206%20-%20(Components%20Html)) 💻  
+### 6. [HTML Components](../Styling-Css/Module%206%20-%20(Components%20Html)/) 💻  
 
 In this module, you'll see how to style common HTML elements like buttons, forms, and navigations. We will cover building reusable and efficiently styled components to create a user-friendly interface.  
 

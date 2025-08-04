@@ -1,59 +1,139 @@
-# [Return Part One For Continue](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Forms.md) 
-## Checkbox Input Types: 
+# Note 👁️
 
-- **checkbox:** The *"checkbox"*, used for marking or selection, represented by a ⬜ .**Html formatting (checkbox):`` <input type="checkbox" name="terms" id="term"> ``**
+- [Read Number_10 before continuing](../StructureOfForm_Number_10/Inputs.md)
 
-- **radio:** A single option box, represented by a ⚪. Attention, this type of input must have two or more radios with the same "name", so the user does not select two at the same time:
-``<input type="radio" name="accept" id="yes"> <input type="radio" name="accept" id="no">``
+---
+
+## 🎯 Advanced Input Types in Forms
+
+In this module, we'll explore selectable inputs, alternative buttons, and special input types.
+These elements enrich the user experience and increase the interactivity of forms.
+
+- ``🔲 checkbox`` – **Multiple Selections**
+
+Allows the user to select more than one option.
+
+```html
+<input type="checkbox" name="terms" id="term">
+```
+
+![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/a55165bc-9242-4ed6-a282-8bff5f47a939)
+
+- ``⚪ radio`` – **Single Selection**
+
+Allows you to select only one option within a group.
+
+```html
+<input type="radio" name="accepted" id="yes">
+<input type="radio" name="accepted" id="no">
+```
+
+![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/e17fed6e-5578-4887-8bba-50c9179819d9)
+
+> 📌 All related radios must have the same name. Otherwise ⬇️
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/31753079-8474-4922-97be-a3e9736a59f8)
 
-- **select:** Option boxes, where you can only choose one. Formatting in Html (Select):
-```
-<select name="opcoes" id="opcoes">
-    <option value="op1"> Opção 1 </option>
-    <option value="op2"> Opção 2 </option>
-    <option value="op3"> Opção 3 </option>
+- ``🔽 select`` – **List of Options**
+
+Creates a box with selectable options.
+
+```html
+<select name="options" id="options"> 
+<option value="op1">Option 1</option> 
+<option value="op2">Option 2</option>
 </select>
 ```
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/d98c1e49-94aa-4cd4-a5b0-0611bfa830af)
-## Button Input Types
-It was explained in part 1 about the types of buttons, here with the inputs they work in the same way, note:
+
+## 🧰 Types of Buttons
+
+- ``🔘 submit, reset and image``
+
+```html
+<input type="submit" value="send">
+<input type="reset" value="clear">
+<input type="image" src="/Construção-Html/Modulo - 3(Navigação e Mídia)/MidiasVisuaisEasMusicais_Número_08/images/image4.jpg">
 ```
-<input type="submit" value="enviar">
-<input type="reset" value="limpar">
-<input type="image"  src="/Construção-Html/Modulo - 3(Navegação e Mídia)/MidiasVisuaisEasMusicais_Número_08/images/image4.jpg">
+
+- ``submit``: Submits the form.
+- ``reset:`` Clears all fields.
+- ``image:`` Uses an image as a button, functioning as a ``submit``.
+
+## 📂 Alternative Input Types
+
+- ``📁 file`` - **File Upload**
+
+Allows the user to upload images, videos, or documents.
+
+```html
+<input type="file" name="arquivo" id="file" accept=".mp3,.mp4,.png" multiple>
 ```
-**However, I have another input with a button called "image", where an image is used as a button. Looking like an anchored image, but instead, it works like a regular button**
-## Alternative Entry Types
-- **file:** Used to insert files into the form. Formatting in Html(file): ``<input type="file" name="arquivo" id="file" accept=".mp3,.mp4,.png" multiple>``:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/69faa58a-b15f-4e73-8290-69749f5a5886)
 
-- **color:** Used to insert a color into an RGB palette (Red, Green, Blue). Formatting in Html(color): ``<input type="color" name="cor" id="cor"/>``:
+- ``🎨 color`` – **Color Picker**
+
+Opens a palette for the user to choose a color.
+
+```html
+<input type="color" name="color" id="color">
+```
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/44d193e9-4bdc-460c-bbcb-fa30fd2be1e0)
 
-- **range:** Used to represent a width or "range" from one number to another; example: 0 to 100. Formatting in Html:``<input type="range" name="range" id="range" min="0" max="50" step="2" >``:
+- ``🎚️ range`` – **Value Range**
+
+Creates a slider bar to choose values between a minimum and maximum.
+
+```html
+<input type="range" name="volume" min="0" max="100" step="5">
+```
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/06c76384-f781-481b-96b9-deea5851ead0)
 
-- **hidden:** A hidden text, where the user will not be able to see this text, only by inspecting = "CTRL+⬆️+I" . Formatting in Html(Hidden):``<input type="hidden" name="hidden" value="00089" />``;
-## Additional Attributes: 
-- **multiple:** Within the selection and file types, can be used to choose more than one option or insert more than one file;
-- **accept:** Within the file, you can use it to define which documents are accepted for sending
-- **min and max:** Within the range, you can define the minimum and maximum value of the "range"
-- **step:** Also within the range, I can define a default step. For example, I can set it to walk in 2 steps.
-- **required:** Global attribute that can be used to define which fields are mandatory
-- **disabled:** Global attribute that can be used to disable the interplay of a field
-- **read only:** Global attribute that can be used for read fields
-- **value:** Attribute that defines the constant/variable value of a field. Depending on the situation
+- ``🙈 hidden`` – **Invisible Field**
 
-# Field Grouping
-Within the form, we need to group certain fields for better visualization and reading for the user, showing what will be important, to do this we use a tag called :
-**``<fieldset> To create this grouping <legend> As the Title of this Grouping < /legend> </fieldset>``**. Observe the example below:
+Submits a value without the user seeing it. Useful for identifiers and tokens.
+
+```html
+<input type="hidden" name="codigo" value="XYZ123">
+```
+
+## ⚙️ Additional Attributes
+
+| Attribute | Function |
+| ------------- | --------------------------------------------------------------------- |
+| `multiple` | Allows multiple selections (`select`) or multiple files (`file`). |
+| `accept` | Defines the accepted file types (`file`). |
+| `min` / `max` | Defines the minimum/maximum limits for `number`, `date`, `range`, etc. |
+| `step` | Defines the increment step (`range`, `number`). |
+| `required` | Makes field entry mandatory. |
+| `disabled` | Disables the field (no interaction). |
+| `readonly` | Read-only (not editable, but visible). |
+| `value` | Defines an initial value for the field. |
+
+## 🗂️ Grouping Fields
+
+Use the ``<fieldset>`` and ``<legend>`` tags to visually organize parts of the form:
+
+```html
+<fieldset>
+<legend>Personal Data</legend>
+<label for="nome">Nome:</label>
+<input type="text" id="nome">
+</fieldset>
+```
+
+Visual example 📸:
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/1eff2f5e-6a80-4fce-a4c9-d1af423c2136)
 
-# [Go To Module 6](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%206(Developing%20In%20Web))
+## 📌 Tip
+
+> 🔐 Hidden fields are useful for submitting invisible data, such as Internal IDs or codes, without interfering with the interface.
+
+## 🚀 Continued
+
+- [Continued in Module 6](../../Module%20-%206(Developing%20In%20Web)/Structure_Number_12/Structure.md)

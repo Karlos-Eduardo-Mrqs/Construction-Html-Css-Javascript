@@ -1,112 +1,98 @@
-# 🌐 **Construction with HTML, CSS and JavaScript**
+# 🌐 Construção com HTML, CSS e JavaScript
 
-! [Github Repo size](https://img.shields.io/github/repo-size/karlos-eduardo-mrqs/construction-html-css-javascript)
+![Github Repo Size](https://img.shields.io/github/repo-size/karlos-eduardo-mrqs/construction-html-css-javascript)
+![Licença do Github](https://img.shields.io/github/license/karlos-eduardo-mrqs/construction-html-css-javascript)
+![Github Issues](https://img.shields.io/github/issues/karlos-eduardo-mrqs/construction-html-css-javascript)
 
-! [Github's license](https://img.shields.io/github/license/karlos-eduardo-mrqs/construction-html-css-javascript)
+## 📕 Idiomas disponíveis
 
-! [Github Issues](https://img.shields.io/github/issues/karlos-eduardo-mrqs/construction-html-css-javascript)
+| [🇺🇸 English](README.md) | [🇧🇷 Portuguese (Brasil)🌟](README-BR.md) | [🇪🇸 Español](README-ES.md) |
+|:---------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 
-# 📕 Available languages
+----
 
-| [🇺🇸 English 🌟](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md) | [🇧🇷 Portuguese (Brazil)](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md) |
-|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+Bem -vindo à **Construção com HTML, CSS e JavaScript** ! 🚀
+Este repositório contém **recursos, exemplos e projetos práticos** para o desenvolvimento da web, cobrindo os três pilares fundamentais: **html**, **css** e **javascript**.
 
----
+----
 
-Welcome to the repository ** Construction with HTML, CSS and JavaScript **! 🚀
-This repository contains ** resources, examples and practical projects ** for what web development, covering as three fundamental bases: ** html **, ** css ** and ** javascript **.
+## 🧭 Índice
 
----
+- [🌐 Construção com HTML, CSS e JavaScript](#-construção-com-html-css-e-javascript)
+  - [📕 Idiomas disponíveis](#-idiomas-disponíveis)
+  - [🧭 Índice](#-índice)
+    - [🗂️ Estrutura do repositório](#️-estrutura-do-repositório)
+    - [⚙️ Instruções](#️-instruções)
+  - [💡 Contribuições](#-contribuições)
+  - [🙋 Sobre o autor](#-sobre-o-autor)
+  - [📝 Licença](#-licença)
 
-# 🧭 Summary
+----
 
-- [🌐 **Construction with HTML, CSS and JavaScript**](#-construction-with-html-css-and-javascript)
-- [📕 Available languages](#-available-languages)
-- [🧭 Summary](#-summary)
-  - [📚 \*\* Available versions \*\*](#--available-versions-)
-  - [🗂️ \*\* Repository structure \*\*](#️--repository-structure-)
-  - [🔍 \*\* How to navigate \*\*](#--how-to-navigate-)
-    - [🇧🇷 BR Version:](#-br-version)
-    - [🇺🇸 USA Version](#-usa-version)
-  - [⚙️ **Instructions**](#️-instructions)
-  - [💡 **Contributions**](#-contributions)
-  - [📝 **License**](#-license)
+### 🗂️ Estrutura do repositório
 
----
+- 📁 [**BR Versão**](./Versão%20Br/README.md)
+Recursos e projetos com documentação em português.
 
-## 📚 ** Available versions **
+- 📁 [**US Version**](./Version%20EUA/README.md)
+A mesma estrutura, com documentação em inglês.
 
-This repository is available in two languages:
+- 📁 [**ES Version**](./Version%20Es/README.md)
+Documentação em espanhol para uma acessibilidade mais ampla.
 
--🇧🇷 [BR _ Você is here_](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/blob/main/readme-br.md)
--🇺🇸 [US version](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/blob/main/readme.md)
+----
 
----
+### ⚙️ Instruções
 
-## 🗂️ ** Repository structure **
+```bash
+1. Selecione a versão desejada ( BR, US ou ES )
 
--📁 [** version br **](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br):
-Resources and projects with documentation in Portuguese.
+2. Navegue pelos módulos HTML, CSS e JavaScript
 
--📁 [** USA Version **](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/version%20eua):
-Same structure, but with English documentation.
-
----
-
-## 🔍 ** How to navigate **
-
-### 🇧🇷 BR Version:
-
-- [Construction-html](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br/construte%C3%A7%C3%A3O-html)
-
-- [Stylization-CSS](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tree/main/vers%C3%A3O%20br/estiliza%C3%A7%C3%A3O-CSS)
-
-- [Interaction-javascript](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/tue/main/vers%C3%A3O%20br/intera%C3%A7%C3%A3O-javascript)
-
-### 🇺🇸 USA Version
-
-- [Construction-html](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tue/main/version%20eua/construction-html)
-
-- [Styling-CSS](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/tue/main/version%20eua/styling-css)
-
-- [Interaction-JavaScript](https://github.com/karlos-eduardo-mrqs/construction-html-css-javavascript/tee/main/version%20eua/interaction-javascript)
-
----
-
-## ⚙️ **Instructions**
-
-```Bash
-# 1. Select the desired version (BR or US)
-# 2. Browse the modules of HTML, CSS and JavaScript
-# 3. Explore the files to learn and practice the concepts
+3. Explore os arquivos para aprender e praticar cada conceito
 ```
 
----
+----
 
-## 💡 **Contributions**
+## 💡 Contribuições
 
-If you want to contribute to improvements or new features:
+Se você quiser contribuir com melhorias ou novos recursos:
 
-```Bash
-# 1. Make a fork of this repository
-# 2. Create a new branch with its changes
-# 3. Send a Pull Request
+```bash
+1. Fork este repositório
+
+2. Crie um novo ramo com suas mudanças
+
+3. Abra um pedido de tração
 ```
 
-All help is welcome! 💬
+🔁 Recentemente, foi feita uma solicitação de tração **para atualizar todos os arquivos de marcação na versão BR**, melhorando a estrutura, a consistência do idioma e a clareza educacional.
+🙌 *Suporte e feedback são sempre bem -vindos!*
 
----
+📬 [Abra um problema ou solicitação de puxão](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/pulls)
 
-## 📝 **License**
+----
 
-You have full freedom to use this material for either educational purposes **. Teachers can also adopt it in the classroom. However:
+## 🙋 Sobre o autor
 
-⚠️ ***Total or partial reproduction is prohibited ** for profit by authors, publishers or educational institutions.
+Desenvolvido com cuidado por [**Karlos Eduardo**](https://github.com/karlos-eduardo-mrqs) 👨‍💻
+Apaixonado pelo desenvolvimento da Web e educação de código aberto.
 
-This repository follows the license [MIT](./license), allowing use, modification and distribution, **provided that the attribution to the author is maintained**.
+📫 Sinta -se à vontade para conectar, fazer perguntas ou sugerir melhorias!
 
----
+----
 
-If you have questions or suggestions, feel free to open a [**ISSUE**](https://github.com/karlos-eduardo-mrqs/construction-html-css-javascript/issues).
+## 📝 Licença
 
-🚀 **Good studies and excellent coding!** 💻
+Você é livre para usar este material para **fins educacionais**. Os professores também podem usá -lo nas salas de aula. No entanto:
+
+⚠️ **A reprodução, no todo ou em parte, é proibida** para fins comerciais por autores, editores ou instituições.
+
+Este repositório é licenciado sob a [MIT Licença](./Licença), que permite o uso, modificação e distribuição **enquanto a atribuição ao autor original for preservada**.
+
+----
+
+✨ *Este projeto foi criado com dedicação para quem deseja crescer no desenvolvimento da Web. Seu apoio é sempre apreciado!*
+⭐ **Se isso o ajudou, não se esqueça de dar uma estrela ao repositório !**
+
+🚀 **Aprendizado feliz e ótima codificação!**

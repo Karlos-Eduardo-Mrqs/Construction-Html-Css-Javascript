@@ -67,6 +67,6 @@ Para visualizar como cada elemento se comporta na página, abra o navegador, pre
 
 ---
 
-# 💡 Continuação
+## 💡 Continuação
 
 - [Continua no Número_02](../EstruturaDoHtml-Número_02/Estrutura.md)

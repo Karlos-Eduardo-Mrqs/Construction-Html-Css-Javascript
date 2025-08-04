@@ -1,75 +1,85 @@
-# [Return Introduction](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%201%20-%20(First%20Passes)/IntrodutoriesConcepts-%20Number_01/Introduction.md)
+# Note 👁️
 
-# Basic concepts 
-Css is a very powerful tool that makes it possible to create different functionalities instead of using JavaScript or another heavier language. If used in moderation, CSS can provide a great experience for developers and users of web pages.
+- [Read the Introduction before continuing](../IntrodutoriesConcepts-%20Number_01/)
 
-# Structure for CSS
-As mentioned in the introduction, HTML and CSS are like "partners", one for the structure (Html) and the other for styling (Css). An HTML document is necessary to carry out the styling, where the STYLE tag will be inserted in the HEAD, therefore, it will be in the header. The Css structure will be explained below.
+---
 
-## Css Structure Formatting 
-Within Css it is used as a set of rules. Where these rules need a "Selector" for styling and a statement block. Where the Selector represents the html tags, the instruction block are attributes that are inserted to assign to that specific tag. Watch:
+## 🎨 CSS Basics
 
+CSS is a powerful tool that allows you to create various visual effects and layouts without the need for more complex languages like JavaScript. When used in moderation, it provides a great experience for developers and users.
+
+## 🧱 CSS Structure Format
+
+CSS works with **rules**. Each rule has:
+
+- A **selector** (who will be styled)
+- A **instruction block** (how it will be styled)
+
+### 🧾 Syntax
+
+```html
+<style>
+selector {
+property: value;
+property: value;
+}
+</style>
 ```
-    <style>
-        seletor(tag_Html) {
-            atributo: valor;
-            atributo: valor;
-        }
-    </style>
-```
 
-## Explanation 
-Before starting styling, we must first open the ``<style> tag to open Css </style> ``. Then we will choose which html tag will be styled and then which attribute it will receive.
-
-### Practical example
+## Practical Example
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/0f148e54-9e32-4891-a7a8-23c13ee276fa)
 
-We have this example html, we can say that all paragraphs are blue, how do we do that? Simple:``<style> p { color: blue; } </style>``. Returning to Html, it looked like this:
+We have this sample HTML, we can tell all paragraphs to be blue. How do we do that? Simple:
+``<style> p{color: blue;} </style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/294a315f-afa5-4eae-b2e4-c3a36c5da837)
 
-#### P Styling
-Making all ``<p> </p> `` tags characterized by the color blue. Now, what about Text 4? It's a ``<span> </span>`` tag and let's suppose I want to leave this tag with a red background. How will we assign this background? Simple: ``<style>span{background-color: red;}</style>``. Going back to Html, it looked like this:
+Making all ``<p> </p>`` tags blue. Now, what about Text 4? It's a ``<span> </span>`` tag, and let's suppose I want to give this tag a red background. How will we assign this background? Simple: ``<style>span{background-color: red;}</style>``
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/2977944f-fecf-45e9-8d6a-723661d236ab)
 
-# Call Methods
-As you can see from the Practical Example, css styles a tag by the tag name also mentioned in Paragraphs and Text 4. But, we can call them another way, **by the html attributes "id" and "class"**
+## 📌 Calling Methods
 
-## Id X Class
+In addition to calling elements by their tags (p, span, h1, etc.), we can also use:
 
-### Id
-Known as the identification attribute, that is, all tags must have their own ID. To call it in the css is simple, let's assume that Text 4 has an ID called Span1 and I want to make the color of Span1 Magenta. How do we style this?:
+- ID (unique identifier)
+- Class (general classification)
 
-#### Formatting Id
+### 🔖 Using ID
 
+The ID is unique. No other element on the page should have the same one. Let's suppose Text 4 has an ID called Span1 and I want to make Span1's color magenta. How do we style this? Simple:
+
+```html
+<span id="meuSpan">Text</span>
+
+<style>
+#meuSpan { color: magenta; }
+</style>
 ```
-    <style>
-        #Span1{
-            color: magenta;
-        }
-    </style>
-```
 
-##### Result Page 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/eef2c3f9-09ec-4780-b724-72d54d8e6ce4)
 
-### Class
-Known as a classification attribute, that is, we can say that it is like a filter to include styles for countless HTML tags at once. Like this? For example, imagine that all paragraphs have a class called ParGrf1, and all that have this class have a black background and a white font color. Styling it this way:
+### 🗂️ Using Class
 
-#### Formatting Class
+A class can be applied to multiple elements at the same time. For example, imagine that all paragraphs have a class called ParGrf1, and all those with this class will have a black background and white font color.
 
+```html
+<p class="highlight">Text 1</p>
+<p class="highlight">Text 2</p>
+
+<style>
+.highlight {
+background-color: black;
+color: white;
+}
+</style>
 ```
-    <style>
-        .ParGrf1{
-            background-color: black;
-            color:white;
-        }
-    </style>
-```
 
-##### Result Page
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/6c2033ce-eda8-49db-b832-fd6e52af48a7)
 
-# [Go To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%201%20-%20(First%20Passes)/HtmlIncludes-%20Number_02)
+---
+
+## 📎 Continued
+
+- [Continued in Number_02](../Inserindo_No_Html-%20Número_02/AtribuindoNoHtml.md)

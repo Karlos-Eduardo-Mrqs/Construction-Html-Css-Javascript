@@ -1,59 +1,105 @@
-# [Return Anchors](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ListsAndAnchors-Number_15/Anchors.md)
+# Note 👁️
 
-# Lists
+- [Read Anchors.md before continuing](../ListsAndAnchors-Number_15/Anchors.md)
 
-![image](https://github.com/user-attachments/assets/c8c2bcbd-1752-4599-b2ca-51f0bb6c7c32)
+---
 
-On this second page, we have a divider called .box, with an unordered list classified as .list, within this list we have six items classified as .item. Knowing this, we will apply a blue background to the .list and a background background colored by coral in class .item:
+## Lists
 
-![image](https://github.com/user-attachments/assets/e4ed809f-cd4f-471b-a264-ee5d42eebd13)
+![Example list](https://github.com/user-attachments/assets/c8c2bcbd-1752-4599-b2ca-51f0bb6c7c32)
 
-### List-Style
-With this attribute in CSS, we can modify the style of a list. Modifying your organization points,
-known as markers, whether they are next to or outside the text and even add an image as a marker 
-from the list.
+On this page, we have a divider called `.box`, with an **unordered** list labeled `.list`.
 
-#### List-Style-Position
-List position style, here we can tell if the markers are outside (outside) or inside the list topics (inside).
-1. inside: 
+Inside it, there are six items labeled `.item`.
 
-![image](https://github.com/user-attachments/assets/78626046-efb7-40cd-88f6-c3c8b6258914)
+We applied a blue background to the `.list` and a coral background to the `.item` items:
 
-2. outside: 
+![Stylished list](https://github.com/user-attachments/assets/e4ed809f-cd4f-471b-a264-ee5d42eebd13)
 
-![image](https://github.com/user-attachments/assets/6bd6de8b-ef2c-41a5-923f-14facf2e81db)
+---
 
-#### List-Style-Type
-List Type Style, we have the possibility to change the list marker. Just like anchor cursors, there are numerous types of markers, [click here to view the other types of markers!](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+## `list-style` Property
 
-#### List-Style-Image
-List Image Style, we can add an image as our main bullet. For example, we want our marker to be this star:![img icons8](https://github.com/user-attachments/assets/eca30719-cd28-4b3e-93ee-5a333ab212c4).To do this, we will do it as follows : ``list-style-image:url(image link)``.Result:
+With this CSS property, we can modify the style of the list bullets, such as:
+
+- Bullet type;
+- Position (inside or outside the text);
+- Replace the bullet with a custom image.
+
+---
+
+### `list-style-position`
+
+Defines whether the bullets are **inside** or **outside** the list text.
+
+1. `inside`
+![Inside marker](https://github.com/user-attachments/assets/78626046-efb7-40cd-88f6-c3c8b6258914)
+
+2. `outside`
+![Outside marker](https://github.com/user-attachments/assets/6bd6de8b-ef2c-41a5-923f-14facf2e81db)
+
+---
+
+### `list-style-type`
+
+Sets the type of list marker.
+
+There are numerous types, such as circles, squares, numbers, letters, etc.
+
+Check out all the available types in the official MDN documentation:
+
+[CSS Marker Types](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+
+---
+
+### `list-style-image`
+
+Allows you to use an image as a list marker.
+
+For example, to use this star as a marker:
+
+![Star Icon](https://github.com/user-attachments/assets/eca30719-cd28-4b3e-93ee-5a333ab212c4)
+
+The CSS for this would be:
+
+```css
+list-style-image: url(image-link);
+```
 
 ![image](https://github.com/user-attachments/assets/927fe037-3a6e-48ed-9b63-694f285c8c13)
 
-Furthermore, if we include ``list-style:inside url(image link) disc ``, we will have the same result.
+## Css End Of List
 
-## Final List for List
+```css
+html{ 
+background-color: gray; 
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 16px;
+}
+
+.box{ 
+padding: 30px;
+}
+
+.list{ 
+color: aliceblue; 
+background-color: cornflowerblue; 
+list-style: outside url(https://img.icons8.com/?size=30&id=LlgB5a8aAr0G&format=png&color=000000);
+}
+
+.item{ 
+background-color:coral;
+}
 ```
-html{
-    background-color: grey;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-}
 
-.box{
-    padding: 30px;
-}
+You can also combine it with list-style-position and default type:
 
-.list{
-    color: aliceblue;
-    background-color: cornflowerblue;
-    list-style: outside url(https://img.icons8.com/?size=30&id=LlgB5a8aAr0G&format=png&color=000000);
-}
-
-.item{
-    background-color:coral;
-}
+```css
+list-style: inside url(image-link) disc;
 ```
 
-# [Go To Number_16](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Inputs-Number_16)
+---
+
+## ✅ Next Chapter
+
+- [Continue at Number 16](../Inputs-Number_16/Inputs.md)

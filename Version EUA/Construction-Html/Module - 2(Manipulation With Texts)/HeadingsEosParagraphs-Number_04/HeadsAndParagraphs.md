@@ -1,20 +1,49 @@
-# Titles(Headers)
-Titles are printed texts that are normally used to introduce a subject. For example, look at the images below:
+# Observation 👁️
 
-![ExemploDeTitulos](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/849ebcd8-00cb-40d3-a902-462828f4102c)
-![ExemplosDETitulos2](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/800039e4-06ae-49c1-bba1-59efccc1a4c3)
-![ExemploDeTitulos3](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/29d844d9-720e-44e0-9220-78cb93470512)
-![ExemploDeTitulos4](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/90fe2b88-b425-4f18-8411-8f6437a5f941)
+- [Read Module 1 before continuing](../../Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/Introduction.md)
 
-# Observation of Images
-Did you notice that each one has **"highlighted texts"?** These are the titles, where each one has its importance and relevance within a news story. **Having six(6) levels, from number one(1) to six(6) = h1 ... h6**.
+---
 
-## Visual Studio Training Trick
-When programming is used, we need a code block called Visual Studio. It makes it easier and more productive to build algorithms/web pages.**Using the ! command, we can create the entire HTML structure automatically, looking like this:**
+## Headings
 
+Headings are textual elements commonly used to introduce a topic or section.
+
+For example, check the images below:
+
+![ExampleTitles](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/849ebcd8-00cb-40d3-a902-462828f4102c)
+
+![ExampleTitles2](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/800039e4-06ae-49c1-bba1-59efccc1a4c3)
+
+![ExampleTitles3](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/29d844d9-720e-44e0-9220-78cb93470512)
+
+![ExampleTitles4](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/90fe2b88-b425-4f18-8411-8f6437a5f941)
+
+### What did you notice in the images? 🔎
+
+Did you see how each one highlights a specific text?
+
+These are **headings**. Each level (from 1 to 6) indicates the importance of the content — `<h1>` being the most important and `<h6>` the least.
+
+Here are the corresponding HTML tags:
+
+```html
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
 ```
+
+## Visual Studio Code Tip 💻
+
+When writing code, we use a development environment like **Visual Studio Code** to make the process easier and more efficient.
+
+**By typing `!` and pressing Enter, we automatically generate the basic HTML structure, like this:**
+
+```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,4 +55,8 @@ When programming is used, we need a code block called Visual Studio. It makes it
 </html>
 ```
 
-# [Go To Number_05](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/TextFormating-Number_05)
+---
+
+## 💡 Continue
+
+- [Continue in Number_05](../TextFormating-Number_05/TextFormating.md)

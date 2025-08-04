@@ -1,35 +1,83 @@
-# [Return Module 4](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%204%20-%20(Styling%20Fonts))
+# Note 👁️
 
-# Floating Position
-With Module 5 in hand, we will learn how to manipulate the positions of objects, starting with the floating position;
+- 📌 [Read Module 4 before continuing](../../Module%204%20-%20(Styling%20Fonts)/)
 
-# Float
+---
+
+## 📦 Floating Position – `float`
+
+We will now learn how to manipulate **floating positions** of elements in CSS.
+
+## 📘 Initial Example
+
+We have four boxes with the same `box` class. The `float` property can be used to control the lateral alignment of these elements:
+
+```css
+float: left;
+```
+
+| Value | Effect |
+| ------- | --------------------------------- |
+| `left` | Positions the element to the left |
+| `right` | Positions the element to the right |
+| `none` | Removes floating positioning |
 
 ![image](https://github.com/user-attachments/assets/3fa946c3-9b3c-43f9-8d5b-930480e37e97)
 
-We will use this example page, with four dividing boxes classified box. To learn how to deal with the floating position, we can use the ``float command``, with the types:
+---
 
-- left, inline-start: 
-The object will start on the left;
-- right, inline-end: 
-The object will go to the right;
-- none:
-The object remains the same;
+## 🎯 Visual Variations of `float`
 
-## Float Variations 
+### 🔹 1. All elements on the left
 
-**1. All to the left or starting on the line:**
+```css
+.box {
+float: left;
+}
+```
+
 ![image](https://github.com/user-attachments/assets/4fdd58ef-e03c-493e-8b64-65484447a3a1)
 
-**2. Second Box. All to the right or ending on the line:**
+### 🔸 2. All elements on the right
+
+```css
+.box {
+float: right;
+}
+```
+
 ![image](https://github.com/user-attachments/assets/3900bbb7-d558-4ba0-badd-670ff60304e6)
 
-**3. Box-1 and Box-2 starting on the line and the other two ending:**
+### 🔹 3. Two on the left and two on the right
+
+```css
+.box1, .box2 {
+float: left;
+}
+.box3, .box4 {
+float: right;
+}
+```
+
 ![image](https://github.com/user-attachments/assets/394d4232-48db-454b-9fae-7b71a68cbe4b)
 
-**4. Box-4 does not have a floating position and all others start on the line or to the left:**
+### 🔸 4. Three floating on the left, one fixed
+
+```css
+.box1, .box2, .box3 {
+float: left;
+}
+.box4 {
+float: none;
+}
+```
+
 ![image](https://github.com/user-attachments/assets/bedcb8f6-78bc-4bea-bdd6-f3bb33eaf5e4)
 
-And so on, having countless variations of floating positions within websites and web pages, being able to modify them as you prefer.
+You can create several variations by combining the `float` types with `width`, `margin`, `padding`, and `display` to organize your layout.
 
-# [Go To Number_12](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%205-%20(Positions)/Position-Number_12/Positions.md)
+---
+
+## ✅ Next Content
+
+- ➡️ [Continued in Number 12 – Poses](../Position-Number_12/Positions.md)

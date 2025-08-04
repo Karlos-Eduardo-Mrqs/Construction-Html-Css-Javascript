@@ -1,20 +1,72 @@
-# [Read Introduction First](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/Introduction.md)
+# Observation 👁️
 
-# What i's Tags and Block's ? 
-The tags are know blocks; where all your content i's __annex__ .For Example: ``<tag> Content </tag> `` . _How you view, the tag have opening and closure and finalize your lining._
+- [Read the Introduction before continuing](Introduction.md)
 
-# Diferences The Tags and Communs Text's
-What is the difference between the texts below ?
+---
 
-```<p> Text 1 </p> X Text 2``
-__Simple, the "Text1" are covered for the block p, know tag paragraph.Already in second, don't have tag and it i's completely loose, without any "covering if tag".__
+## What are Tags and Blocks? 🤔
 
-# Display
-Remember for example cited lastely ? Then, beside them one difference in covered(in one text be between a opening and closing the one tag), They having divergence called Display.
+**Tags** are fundamental elements of HTML, known as **blocks** that wrap and organize the content.  
+A basic example would be:
 
-## Examples and Concepts
-The Display is the space in which the content is displayed and how the content behaves on the screen, for example: ``<p> Paragraph 1 </p> <p> Paragraph 2 </p> `` In the "p" Tag, it has the "Block" Display by default, making the text "Paragraph 1" and "Paragraph 2" occupy an entire line of the page, one below the other. When we use normal text in this way :
-``Text 1Text 2 ``.Without any TAG, the two texts were next to each other, as they have the "Inline" Display by default. This also happens with the TAG span, a specific tag for texts. To observe the difference in displays, simply open the document, use the "CTRL+SHIFT⬆️+I" button, look for an icon↖️ and click on the desired element.
+```html
+<tag> Content </tag>
+```
 
+As you can see, the tag has an **opening**, a **closing**, and the content is placed between them.
 
-# [Go To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/StructOfHtml-Number_02/Structure.md)
+### Difference between Tags and Plain Text
+
+What is the difference between the two examples below?
+
+```html
+<p>Text 1</p>      vs      Text 2
+```
+
+The answer is simple:
+
+- **"Text 1"** is wrapped by the `<p>` tag, which is used to define a **paragraph**.  
+
+- **"Text 2"** is **outside any tag**, meaning it’s **floating in the HTML structure**, without the encapsulation that a tag provides.
+
+> Tags ensure that the content is recognized and displayed correctly by browsers.
+
+---
+
+### Display
+
+*Remember the example mentioned earlier?*  
+Besides the difference in structure (with or without a tag), there is also a difference in **visual behavior**, called **display**.
+
+#### Examples and Concept
+
+**Display** determines how an HTML element will be rendered on the screen — whether it takes up the entire line, sits next to others, and so on. Example:
+
+```html
+<p>Paragraph 1</p>
+<p>Paragraph 2</p>
+```
+
+The `<p>` tags have, by default, the behavior **display: block**, which means each paragraph takes up **the entire width of the line**.
+
+That’s why "Paragraph 1" and "Paragraph 2" appear **one below the other**. Now see this example:
+
+```html
+Text 1 Text 2
+```
+
+Since there's no tag defining its behavior, the texts are displayed on the **same line**, side by side.
+
+This is typical behavior for elements with **display: inline**, which **do not force line breaks**. A common inline tag is `<span>`, used to highlight specific parts of a text without affecting the content flow.
+
+---
+
+## 💡 **Practical Tip:**
+
+To see how each element behaves on the page, open your browser, press `CTRL + SHIFT + I` to open Developer Tools, click the select icon (↖️), and pick the desired element. This will show the display type and other applied properties.
+
+---
+
+## 💡 Continue
+
+- [Continues in Number_02](../StructOfHtml-Number_02/Structure.md)

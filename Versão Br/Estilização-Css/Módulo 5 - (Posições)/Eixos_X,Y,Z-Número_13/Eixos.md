@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- 📌 [Leia O Número_12 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Estilizacao-Css/Modulo%205%20-%20(Posi%C3%A7%C3%B5es)/Poses-N%C3%BAmero_12/Poses.md)
+- 📌 [Leia O Número_12 antes de continuar](../Poses-Número_12/Poses.md)
 
 ---
 

@@ -88,8 +88,9 @@ Para chamar essa tag dentro da página, usamos:
         </ul>
     </p>
 ```
+
 ---
 
-# 💡 Continuação
+## 💡 Continuação
 
 - [Continua no Número_08](../MidiasVisuaisEasMusicais_Número_08/Midias.md)

@@ -89,7 +89,7 @@ Finalmente, centralizamos o botão com `text-align: center`:
 
 ![Exemplo placeholder e hover](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
 
-- [**CSS Final**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/style.css)
+- [**CSS Final**](../Inputs-Número_16/style.css)
 
 ---
 

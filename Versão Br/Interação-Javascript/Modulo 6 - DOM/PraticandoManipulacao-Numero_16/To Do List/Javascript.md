@@ -1,10 +1,17 @@
-# [Retornar #Parte1](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/HtmlAndCss.md)
+# Observação 👁️
 
-# Explicação do Código JavaScript
+- [Leia a construção antes](HtmlEoCss.md)
+
+---
+
+## Explicação do Código JavaScript
+
 Este código trata da criação e manipulação de uma lista dinâmica, onde o usuário pode adicionar ou remover itens. Ele também fornece um feedback visual em uma área de mensagem e utiliza uma janela pop-up para confirmar a exclusão de todos os itens da lista.
 
-## Regras 
+## Regras
+
 As regras serão as seguintes:
+
 1. Haverá uma lista comum para armazenar ou para o usuário inserir itens;
 2. Os itens da lista serão diferentes, ou seja, não haverá itens repetidos;
 3. Ao clicar no botão de adicionar, a mensagem e o item serão selecionados dentro da lista;
@@ -13,7 +20,7 @@ As regras serão as seguintes:
 
 Levando isso em conta, vamos começar!
 
-# Regra Número #1
+### Regra Número_#1
 
 ```javascript
 let List = [];
@@ -23,7 +30,7 @@ mensagem.style.display = "none";
 
 Aqui, um array `List` é inicializado para armazenar os itens da lista. A variável `mensagem` seleciona um elemento HTML com a classe `.message`, que será usado para exibir mensagens temporárias. Inicialmente, a mensagem é escondida com `mensagem.style.display = "none"`.
 
-## Regras Número #2, #3 e #5
+### Regras Número #2, #3 e #5
 
 ```javascript
 function Adicionar() {
@@ -73,7 +80,7 @@ Aqui, verifica-se se o nome já existe na lista, usando `List.includes` (fazendo
 
 Depois de adicionar o item ou exibir a mensagem de erro, o campo de texto é limpo. A mensagem temporária é exibida por 2 segundos e, em seguida, desaparece. Isso é feito com a função `setTimeout` (fazendo a mensagem aparecer por um curto período).
 
-# Regra Número #4
+### Regra Número_#4
 
 ```javascript
 function Deletar() {
@@ -123,3 +130,4 @@ Se o usuário confirmar a remoção clicando em "Sim", todos os itens da lista s
         backPop.style.display = "none";
     };
 }
+```

@@ -34,6 +34,6 @@ Essa tag não possui um fechamento ``</meta>``, então para fechá-la, é assim 
 
 ---
 
-# 💡 Continuação
+## 💡 Continuação
 
 - [Continua no Módulo 2](../../Módulo%20-%202(Manipulação%20De%20Textos)/HeadingsEosParagrafos-Número_04/HeadsEosParagrafos.md)

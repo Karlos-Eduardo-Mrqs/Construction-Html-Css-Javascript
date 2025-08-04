@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- [Leia o Módulo 4 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%204(Tabelas))
+- [Leia o Módulo 4 antes de continuar](../../Módulo%20-%204(Tabelas)/TabelasPrt1.md)
 
 ---
 
@@ -69,6 +69,6 @@ A tag ``<button>`` é utilizada para enviar, apagar ou realizar outras ações d
 
 ---
 
-# 💡 Continuação
+## 💡 Continuação
 
 - [Continua na parte 2](./Inputs.md)

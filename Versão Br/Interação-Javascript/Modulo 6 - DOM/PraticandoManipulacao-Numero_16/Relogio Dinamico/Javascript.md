@@ -1,29 +1,38 @@
-## **Documentação do Código JavaScript: Data, Hora e Atualização de Plano de Fundo**  
+# Observação 👁️
+
+- [Leia a parte de construção primeiro](HtmlCss.md)
+
+---
+
+## Documentação do Código JavaScript: Data, Hora e Atualização de Plano de Fundo
+
 Este documento explica, passo a passo, como o código JavaScript atualiza dinamicamente a data, a hora e altera o plano de fundo e o ícone com base no horário do dia.  
 
 ---
 
-## **Estrutura do Código**
+### Configuração Inicial  
 
-### **1. Configuração Inicial**  
 ```javascript
 document.addEventListener("DOMContentLoaded", () => {
     const data = new Date();
     const body = document.body;
 ```
+
 - **`DOMContentLoaded`**: Garante que o script seja executado apenas após o DOM estar completamente carregado.  
 - **`data`**: Cria um objeto `Date` para acessar a data e hora atuais.  
 - **`body`**: Seleciona o elemento `<body>` para posteriormente modificar seu estilo.  
 
 ---
 
-### **2. Selecionando Elementos HTML**  
+### Selecionando Elementos HTML  
+
 ```javascript
     const fundo = document.querySelector('.fundo');
     const imagemRelogio = document.querySelector('.img-icone');
     const horaElement = document.querySelector('.hora');
     const dataCompleta = document.querySelector('.data-completa');
 ```
+
 - Utiliza **`querySelector`** para selecionar elementos do DOM que serão manipulados:  
   - `.fundo`: Ajusta o plano de fundo conforme o horário do dia.  
   - `.img-icone`: Altera a imagem do ícone do relógio.  
@@ -32,15 +41,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ---
 
-### **3. Função para Formatar Números**  
+### Função para Formatar Números  
+
 ```javascript
     const formatarNumero = (numero) => (numero < 10 ? `0${numero}` : numero);
 ```
+
 - Esta função formata números menores que 10, adicionando um zero à esquerda para garantir o formato de dois dígitos.  
 
 ---
 
-### **4. Exibindo a Data no Formato Brasileiro**  
+### Exibindo a Data no Formato Brasileiro  
+
 ```javascript
     const dataFormatada = new Intl.DateTimeFormat('pt-BR', {
         day: '2-digit',
@@ -50,12 +62,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     dataCompleta.textContent = dataFormatada;
 ```
+
 - **`Intl.DateTimeFormat`**: Formata a data no padrão brasileiro (dd de mês por extenso de aaaa).  
 - Define o texto formatado no elemento `.data-completa`.  
 
 ---
 
-### **5. Atualizando o Relógio**  
+### Atualizando o Relógio  
+
 ```javascript
     const atualizarRelogio = () => {
         const dataAtualizada = new Date();
@@ -65,6 +79,7 @@ document.addEventListener("DOMContentLoaded", () => {
         horaElement.textContent = `${hora}:${minuto}:${segundo}`;
     };
 ```
+
 - **`atualizarRelogio`**:  
   - Obtém as horas, minutos e segundos atuais.  
   - Utiliza `formatarNumero` para garantir o formato de dois dígitos.  
@@ -72,7 +87,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ---
 
-### **6. Alterando Plano de Fundo e Imagem com Base no Horário do Dia**  
+### Alterando Plano de Fundo e Imagem com Base no Horário do Dia  
+
 ```javascript
     const horaAtual = data.getHours();
     if (horaAtual >= 6 && horaAtual < 12) {
@@ -97,6 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
         imagemRelogio.alt = 'Imagem do período noturno';
     }
 ```
+
 - Determina o **período do dia** com base na hora atual:  
   - **Manhã (6h às 12h)**: Classe `morning`, plano de fundo claro e imagem da manhã.  
   - **Tarde (12h às 18h)**: Classe `afternoon`, plano de fundo amarelo e imagem da tarde.  
@@ -106,18 +123,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ---
 
-### **7. Atualização do Relógio em Tempo Real**  
+### Atualização do Relógio em Tempo Real
+
 ```javascript
     atualizarRelogio();
     setInterval(atualizarRelogio, 1000);
 });
 ```
+
 - **`atualizarRelogio`**: Executado ao carregar a página para exibir a hora inicial.  
 - **`setInterval`**: Atualiza o relógio a cada segundo.  
 
 ---
 
-## **Resumo**
+## Resumo
 
 - **Funcionalidade**:  
   - Atualiza dinamicamente a data e a hora no formato brasileiro.  

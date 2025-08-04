@@ -1,43 +1,72 @@
-# [Return Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Variables-Number_02/Variables.md)
+# Note 👁️
 
-# Operators
-Operators are essential elements in the JavaScript programming language. They allow diverse operations, from simple mathematical calculations to complex data manipulations. In this article, we'll explore operators in JavaScript and discover how they can power your code.
+- [Read about variables first](../Variables-Number_02/Variables.md)
 
-## Types of Operators
-In programming languages ​​we have three types, namely, Arithmetic, Logical and Comparison.
+---
+
+## Operators
+
+Operators are essential elements in the JavaScript programming language. They allow you to perform various operations, from simple mathematical calculations to complex data manipulation.
+In this article, we'll explore operators in JavaScript and discover how they can enhance your code.
+
+---
+
+## Operator Types
+
+In programming languages, we have three main types of operators: **Arithmetic**, **Logical**, and **Comparison**.
+
+---
 
 ### Arithmetic Operators
-Arithmetic operators are types of operators used in mathematical operations.
+
+Arithmetic operators are used to perform basic mathematical operations.
 
 ![image](https://github.com/user-attachments/assets/18c720c3-6746-440d-9cb4-ecc7fb049a40)
 
-#### Representing Mathematical Form 
-1. Sum = 10 + 5;
-2. Subtraction = 10 - 5;
-3. Multiplication = 10 * 5;
-4. Split = 10/5;
-5. Exponential = 10^5 or 10 * 10 *10 * 10 * 10;
-6. Remainder of Division = (10/5 = 2) and remainder of division 0;
-7. Increment = 10 + 1;
-8. Decrement = 5 - 1;
+#### Mathematical Representation
+
+1. Addition: `10 + 5`
+2. Subtraction: `10 - 5`
+3. Multiplication: `10 * 5`
+4. Division: `10 / 5`
+5. Exponentiation: `10 ** 5` (or `10 * 10 * 10 * 10 * 10`)
+6. Remainder of Division (Modulus): `10 % 5` (example: division `10 / 5 = 2` with remainder `0`)
+7. Increment: `10 + 1`
+8. Decrement: `5 - 1`
+
+---
 
 ### Assignment Operators
-Assignment operators are used to set values ​​to variables. The main one being (the = symbol). Additionally, we can make a reservation for Arithmetic Operators.
+
+Assignment operators are used to assign values to variables. The main operator is the `=` symbol.
+Additionally, it is possible to combine arithmetic operators with assignment for simplified operations.
 
 ![image](https://github.com/user-attachments/assets/dd59cf84-e467-4485-a386-802b214f44e5)
 
-#### Representing Mathematical Form
-1. Sum = 20 + 5;
-2. Subtraction = 20 - 5;
-3. Multiplication = 20 * 5;
-4. Split = 20/5;
-5. Remainder of Division = 20/5 = 4 and remainder of division 0;
+#### Mathematical Examples
 
-# Observation 
-The subtraction operator - ,can have a negative value. For example, 8 - 16 = -8. The operator Modulo(Remainder Of Division) % , if you were in doubt, see the image below:
+1. Addition: `x += 5` is equivalent to `x = x + 5`
+2. Subtraction: `x -= 5` is equivalent to `x = x - 5`
+3. Multiplication: `x *= 5` is equivalent to `x = x * 5`
+4. Division: `x /= 5` is equivalent to `x = x / 5`
+5. Remainder from Division: `x %= 5` is equivalent to `x = x % 5`
 
-![divisc3a3o1](https://github.com/user-attachments/assets/bf6dcdec-19c0-4564-b7c5-ffdb87a07fad)
+---
 
-The Quotient is the result of the division operator and the remainder is the result of the modulus. For example, 10/5 = 2, but the remainder of your division is 0 .
+## Caution
 
-# [Go To Part 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Operators-Number_03/OperatorsPt2.md)
+The subtraction operator `-` can result in negative values. For example, `8 - 16 = -8`.
+
+The modulo operator (remainder of division) `%` returns the remainder of the division between two numbers. See the image below to understand:
+
+![division and modulo](https://github.com/user-attachments/assets/bf6dcdec-19c0-4564-b7c5-ffdb87a07fad)
+
+**Explanation:**
+The quotient is the result of integer division, while the remainder is what's left over.
+For example, `10/5 = 2` and the remainder is `0`.
+
+---
+
+## Next Chapter
+
+- [Continued in the next part](../Operators-Number_03/OperatorsPt2.md)

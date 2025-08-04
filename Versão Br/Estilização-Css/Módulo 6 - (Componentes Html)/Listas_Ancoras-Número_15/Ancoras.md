@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- 📝 [Leia o Número_14 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Normaliza%C3%A7%C3%A3o-N%C3%BAmero_14/Normaliza%C3%A7%C3%A3o.md)
+- 📝 [Leia o Número_14 antes de continuar](../Normalização-Número_14/Normalização.md)
 
 ---
 

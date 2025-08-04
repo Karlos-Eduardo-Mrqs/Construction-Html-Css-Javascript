@@ -117,6 +117,6 @@ Cria uma data baseada no número de **milissegundos desde 01/01/1970**:
 
 ---
 
-## Próximo Capítulo 
+## Próximo Capítulo
 
 - [Continua no próximo capítulo](../Objetos-Número_14/Manual.md)

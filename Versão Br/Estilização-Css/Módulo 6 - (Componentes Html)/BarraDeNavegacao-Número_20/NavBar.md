@@ -60,7 +60,7 @@ Página simples com barra lateral fixa e seções de conteúdo:
 
 ## 🎨 CSS para Barra de Navegação Fixa
 
-### Estilo do `<body>`
+### Estilo `<body>`
 
 - Fonte Arial  
 - Fundo cinza claro `#f4f4f4`  
@@ -70,7 +70,7 @@ Página simples com barra lateral fixa e seções de conteúdo:
 
 ---
 
-### Estilo da `<nav>`
+### Estilo `<nav>`
 
 - `position: fixed`  
 - `top: 0`, `left: 0`  
@@ -96,7 +96,7 @@ Página simples com barra lateral fixa e seções de conteúdo:
 
 ---
 
-### Estilo do `<main>`
+### Estilo `<main>`
 
 - `text-align: center`  
 - `padding: 20px`  

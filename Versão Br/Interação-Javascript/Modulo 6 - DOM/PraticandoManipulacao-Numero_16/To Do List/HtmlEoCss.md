@@ -18,7 +18,7 @@ Todo o conteúdo da lista e os campos de entrada estão localizados dentro de um
 
 Os campos de entrada, onde o usuário interage e insere os itens da lista, estão na seção `.input`. Ela inclui uma caixa de texto, um rótulo (`label="name"`) e dois botões: um para adicionar itens e outro para limpar a lista inteira. A seção `.list-box` separa o conteúdo abaixo da lista não ordenada (`ul`), de forma semelhante à relação entre `popup-back` e `popup`.
 
-### [Documento HTML](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%206%20-%20DOM/Pratice_ManipulationNumber_16/index.html)
+- **[Documento HTML](index.html)**
 
 ---
 
@@ -36,9 +36,12 @@ Na classe `.container`, usamos display `flex`, direção da coluna, alinhamento 
 
 A seção `.input` é configurada como posição relativa, display `flex` (em coluna), largura máxima de 500px, bordas arredondadas e sombra suave. O fundo é `rgb(234, 234, 234)` e há uma margem inferior para espaçamento.
 
-#### Componentes de .input
+### Componentes de .input
+
 - **label:** Posição absoluta, fonte de 18px, cor cinza, transformação para maiúsculas e transição suave ao focar.
+
 - **input:** Largura total, bordas arredondadas, margem superior e fonte em negrito.
+
 - **button:** Bordas, altura fixa, transição suave e mudança de cor ao passar o cursor (`hover`).
 
 ### .Message
@@ -50,6 +53,7 @@ A classe `.message` define a área onde as mensagens são exibidas. Ela tem bord
 A identidade `list-box` define uma seção com fundo branco, bordas arredondadas, sombra suave e margens adequadas.
 
 #### Componentes de list-box
+
 - **li:** Estilo de lista removido, texto em maiúsculas, espaçamento e truncamento de texto quando necessário.
 
 ### .Popup
@@ -60,7 +64,7 @@ O elemento `.popup` é inicialmente invisível. Ele é centralizado na tela com 
 
 Para finalizar, o elemento `.popup-back` cobre toda a tela como fundo escurecido para destacar o pop-up. Inicialmente, está escondido (`display: none`).
 
-### [Documento CSS](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/style.css)
+- **[Documento CSS](style.css)**
 
 ---
 
@@ -70,4 +74,4 @@ Para finalizar, o elemento `.popup-back` cobre toda a tela como fundo escurecido
 
 ---
 
-### [Parte 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Interaction-Javascript/Module%206%20-%20DOM/Pratice_Manipulation-Number_16/Javascript.md)
+- **[Parte 2](Javascript.md)**

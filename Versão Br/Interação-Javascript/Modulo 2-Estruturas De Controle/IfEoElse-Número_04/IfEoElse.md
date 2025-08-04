@@ -1,4 +1,10 @@
-# Estruturas De Controle
+# Observação 👁️
+
+- [Leia o módulo 1 primeiro](../../Modulo%201-Introdução/)
+
+---
+
+## Estruturas De Controle
 
 As estruturas condicionais são recursos oferecidos pelas linguagens para que seja possível verificar uma condição e alterar o fluxo de execução do algoritmo. Assim, é possível definir uma ação específica para diferentes cenários e obter exatamente o resultado esperado durante o desenvolvimento de um site ou de uma aplicação.
 

@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- [Continuando a parte 1](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/Test/Intera%C3%A7%C3%A3o-Javascript/Modulo%201-Introdu%C3%A7%C3%A3o/Operadores_N%C3%BAmero_03/OperadoresPt1.md)
+- [Continuando a parte 1](../Operadores_Número_03/OperadoresPt1.md)
 
 ---
 

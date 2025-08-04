@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- [Leia o Número_16 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css/M%C3%B3dulo%206%20-%20(Componentes%20Html)/Inputs-N%C3%BAmero_16/inputs.md)
+- [Leia o Número_16 antes de continuar](../Inputs-Número_16/inputs.md)
 
 ---
 

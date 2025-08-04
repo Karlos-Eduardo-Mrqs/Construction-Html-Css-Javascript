@@ -1,32 +1,74 @@
-# Forms 
-In this module, we will learn how to structure a form. Where would be a way for the user to interact with our website, entering their data and the html received. An example we can mention of a form is registration and login; It is necessary to fill them in to confirm your identity or create a new one.
-## Structure of a Form
-**`` <form> </form>``:** Tag that starts our form;
+# Note 👁️
 
-### Necessary attributes for "FORM"
-- **action:** Indicates which page the data is sent to; 
-- **method:** "Method/Manner" that data is sent by action. It can be through the body of the page (POST) or the URL of the Page (GET)**
+- [Read Module 4 before continuing](../../Module%20-%204(Tables)/Tables_Number_09/ConstructTable.md)
 
-## Buttons
-**``<button> </button>``:** Tag used to send or delete data;
-_The button types can be named by the type attribute, which can be:_
-1. *submit:* Submit Button The Form;
-2. *reset:* Erase/Reset Form Button;
-3. *button:* Normal Button;
+---
 
-## Label
-**`` <label> </label> ``:** Tells the user what he should type in the input.And your atribute for are indicated by "identification(id)", which is the "connection" input;
+## Forms 📝
 
-## Input
-**``<input/>``:** As the name suggests, it is the input/interaction that the user will have with the form;I'll talk more about inputs in part two.
+In this module, we'll learn how to structure an HTML form, which is one of the main forms of interaction between users and websites. Through it, users can enter data, such as on registration pages, login pages, surveys, and more.
 
-# Final Code:
-```
-<form action="FormularioEnviado.html" method="get">
-        <label for="nome">Nome</label>
-        <input type="text" name="nome" id="nome">
-        <button type="submit"> Enviar</button>
-    </form>
+### 🔧 Basic Form Structure
+
+Every form begins with the ``<form>`` tag, which is the container where fields and buttons are inserted.
+
+```html
+<form action="" method="">
+<!-- Form fields here -->
+</form>
 ```
 
-# [Part Two !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%205(Forms)/StructureOfForm_Number_10/Inputs.md)
+#### Required attributes for the "FORM"
+
+- **``action:``** Indicates which page the data is sent to;**
+- **``method:``** "Method/Manner" the data is sent by the action.
+- **``GET:``** sends the data via the URL (more visible, used for searches).
+- **``POST:``** sends the data via the request body (more secure, used for registrations, passwords, etc.).
+
+## 🏷️ Label
+
+The ``<label>`` tag informs the user what to fill in a given field.
+
+```html
+<label for="nome">Nome:</label>
+```
+
+### Most Used Attribute for the Label
+
+The ``for`` attribute connects the ``<label>`` to an ``<input>`` field that has a corresponding id.
+
+```html
+<input type="text" id="nome" />
+```
+
+> This way, when you click on the ``<label>`` text, the cursor goes directly to the field.
+
+## ⌨️ Input
+
+The ``<input>`` tag represents input fields, such as name, email, password, etc.
+
+```html
+<input type="text" id="nome" name="nome" />
+```
+
+> There are several types of input, which will be explained in the next module.
+
+## 🔘 Buttons
+
+The ``<button>`` tag is used to submit, delete, or perform other actions within the form.
+
+```html
+<button type="submit">Submit</button>
+```
+
+### 📌 Most common types
+
+- ``submit:`` submits the form data;
+- ``reset:`` clears all completed fields;
+- ``button:`` generic button, which can be used with JavaScript, for example.
+
+---
+
+## 💡 Continued
+
+- [Continued in part 2](./Inputs.md)
