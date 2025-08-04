@@ -1,32 +1,58 @@
-# [Return To Citacion Of Address](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06/CitacionOfAddress.md)
+# Note 👁️
 
-# Ordered and Unordered Lists
-In Html, we can create two types of lists, ordered (with numbers) and unordered (with dots).
-## Ordered Lists 
-In ordered lists we use the `` <ol> </ol> `` tag along with the ``<li> </li> `` tag, which defines the list items. See its structure below: 
+- [Read part one before continuing](../AddressCitationsAndLists-Module_06/AddressCitationsAndLists.md)
+
+---
+
+## Ordered and Unordered Lists
+
+In HTML, we can create two main types of lists:
+
+- Ordered Lists (numbered)
+- Unordered Lists (with bullets/dots)
+
+### Ordered Lists
+
+For ordered lists, we use the `<ol>` tag (ordered list) containing list items with the `<li>` tag (list item).
+
+```html
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
 ```
-  <ol>
-      <li>Item 1</li> 
-      <li>Item 2</li>
-      <li>Item 3</li>
-  </ol>
-```
-## Unordered Lists
-In unordered lists, we use the `` <ul> </ul> `` tag along with the ``<li> </li> `` tag, which defines the list items. See its structure below:
-  ```
+
+### Unordered Lists
+
+For unordered lists, we use the ``<ul>`` tag (unordered list) containing items with the ``<li>`` tag.
+
+```html
 <ul>
         <li>Item 4 </li>
         <li>Item 5</li>
         <li>Item 6</li>
     </ul>
-  ```
-## SubLists 
+```
+
+### SubLists
+
+Besides simple lists, we can create sublists — lists inside lists.
+
 ![ExemploDeSubListas](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/baa57203-51bf-4fa5-8845-c25d50b355ce)
 
-We not only have ordered and unordered lists. We also have sublists, which is a list within another list. Note in up.We can notice that in *"item 1 "* we have an ordered sublist and in *"item 4"* we have an unordered sublist. The difference is in *item 4*, when we create more than one unordered list, we can notice that its pointer changes. **Happening every time we create a new one**. **As for item 1, it remains the same. Not changing your pointer**.
+- Item 1 contains an ordered sublist.
+- Item 4 contains an unordered sublist.
 
-### Structure of an ordered and unordered sublist 
-```
+**Note:**
+
+In unordered sublists, the bullet styles change with each new list created (different pointer types).
+
+In ordered sublists, numbering continues normally without changes.
+
+#### Structure of an ordered and unordered sublist
+
+```html
 <h1> Lista Ordenada </h1>
  <ol>
         <li>
@@ -52,21 +78,9 @@ We not only have ordered and unordered lists. We also have sublists, which is a 
         </li>
 </ul>
 ```
-# Description Lists
-In addition to ordered and unordered lists, we also have description lists, which are useful for defining terms and their descriptions. That list you use ``<dl></dl>`` for initial, ``<dt></dt>``, for title of description and ``<dd></dd>`` to item this list:
 
-### Structure of Description Lists
-```
-<dl>
-    <dt>HTML</dt>
-    <dd>Uma linguagem de marcação.</dd>
-    
-    <dt>CSS</dt>
-    <dd>Uma folha de cascata.</dd>
-    
-    <dt>JavaScript</dt>
-    <dd>Uma linguagem de programação.</dd>
-</dl>
-```
+---
 
-# [Go To Module 3](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%203(Navegation%20And%20Media))
+## Continue 💡
+
+- [Continues in Modules 3](../../Module%20-%203(Navegation%20And%20Media)/LinksAndAnchors_Number_07/LinksAndAnchors.md)

@@ -1,4 +1,4 @@
-# 💻 Interaction JavaScript
+# 💻 Interação JavaScript
 
 Bem-vindo ao **Interaction JavaScript**, um guia completo para aprender JavaScript e interagir dinamicamente com a web!  
 

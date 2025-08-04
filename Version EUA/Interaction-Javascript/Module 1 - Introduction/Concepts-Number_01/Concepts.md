@@ -1,57 +1,108 @@
-# [Read Introduction First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Concepts-Number_01/Introduction.md)
+# Note 👁️
 
-# Front - End
-Now, we finally come to Javascript, the interaction of our websites. Where with it, we can work together with Html and Css. All three of these technologies are used to make the Front-End, that is, the front part. It can be represented by this image:
+- [Read the introduction first!](Introduction.md)
 
-![image](https://github.com/user-attachments/assets/f74f1228-6f55-4285-82da-824d46c794b4)
+---
 
-## Structures Of Front - End
+## Front-End
 
-- **Structure (Skeleton):** The skeleton is the structure of our muscular mass, just as HTML is the structure/construction of all our content within the pages;
+We finally arrive at JavaScript, the technology that brings interaction to our websites. It works in conjunction with HTML and CSS, forming the three main technologies used to build the Front-End — the visual and interactive part of websites.
 
-- **Coloration (Clothes and others):** Clothes, our eyes, limb size and other measurements of body size and characteristics. They are our "painting", just as css is the coloring inside the pages;
+This relationship can be represented by the image below:
 
-- **Interaction (Brain):** Our brain, internal organs, blood vessels and the like. They are responsible for our ability to think, interact, communicate and "protect". Having the same function as Javascript on our pages;
+![Front-End: HTML, CSS, and JavaScript](https://github.com/user-attachments/assets/f74f1228-6f55-4285-82da-824d46c794b4)
 
-# Html implementation
-Javascript can be implemented by Html internally or externally. Similar to Css, we can do it in the following ways...
+---
 
-## Internal
-To implement Javascript internally in HMTL, you have to use the ``script`` tag for HTML to interpret the language:
+### Analogies to Understand the Front-End
+
+1. **Structure (Skeleton):**
+The skeleton is the foundation of our body, just as **HTML** is the structure that builds all the content on the page.
+
+2. **Coloring (Clothing and Appearance):**
+Clothing, eye color, size, and other characteristics are like the "paint" of the body — just as **CSS** defines the style and visual appearance of pages.
+
+3. **Interaction (Brain):**
+Our brain, organs, and nervous system control communication and interaction — similarly, **JavaScript** is responsible for making pages dynamic and interactive.
+
+---
+
+## Implementing JavaScript in HTML
+
+JavaScript can be added to an HTML document in two ways: **internal** or **external** — similar to CSS.
+
+### 1. Internal
+
+To include JavaScript code directly in HTML, we use the `<script>` tag. It can be placed inside the `<head>` or `<body>`, as needed.
+
+Example:
+
+```html
+<script>
+alert("Hello, World!");
+</script>
+```
 
 ![image](https://github.com/user-attachments/assets/7b58b6ee-a4c0-4653-b2bc-97c2e9d7ce25)
+You can add it to either the body or the head, as you prefer.
 
-**You can add it to either the body or the head, as you prefer.**
+### 2. External
 
-## External
-In the external part, using the same tag mentioned above, it is possible to add an attribute called src, for those who did Construction-Html and Styling-Css, you know what this is about. Remembering, this attribute is used for anchors or for imports from other files:
+To add an external JavaScript file, use the ``<script>`` tag with the ``src`` attribute pointing to the ``.js`` file. This helps keep the code organized and reusable.
+
+```html
+<script src="script.js"></script>
+```
 
 ![image](https://github.com/user-attachments/assets/e885aad6-35c7-473d-a8c7-80b3bc0f1adc)
 
-# Bonus
+---
 
-To get started with Javascript, let's destroy a curse called Hello World!. As the legend goes, whoever doesn't make the first program saying Hello World!, won't be a successful programmer. To do this is simple, just type the command ``console.log("Hello, World!");``, so that the console receives this message. View it using the shortcut CTRL+⬆️+I:
+## Bonus: Break the "Hello, World!" curse
+
+Legend has it that every successful programmer begins their learning process by displaying the message "Hello, World!".
+
+To do this, use the command:
+
+```js
+console.log("Hello, World!");
+```
+
+This command prints the message to the browser console, which can be opened with the shortcut: ``CTRL + Shift + I``.
 
 ![image](https://github.com/user-attachments/assets/6173f36d-607c-4290-92f8-96414a046408)
 
-If you want it to appear on the screen, use the command alert("Hello, World!"). Where alert, a message on the screen:
+If you prefer to display an alert on the screen, use:
+
+```js
+alert("Hello, World!");
+```
 
 ![image](https://github.com/user-attachments/assets/53c01b9a-b13d-4891-a154-e76a3aa00916)
 
-# Bônus 2 
-Did you know that there is a way for you to run your Javascript commands in the VsCode terminal? No ?!? So, follow this step by step to run your codes through the console:
+---
 
-# 1. Node.js Installation
-Immediately, we need Node.js, go to the website [node.js](https://nodejs.org/pt) and install it. Attention, just follow the installation instructions, do not modify anything. At the end, this screen will be shown here:
+## Bonus 2: Running JavaScript in the VSCode Terminal
+
+Did you know you can run your JavaScript code directly in the VSCode terminal? Here's how:
+
+**1. Installing Node.js**
+First, we need Node.js. Go to the [node.js](https://nodejs.org/pt) website and install it. Be careful, just follow the installation instructions; don't modify anything. At the end, you'll see this screen:
 
 ![image](https://github.com/user-attachments/assets/34322da6-5cb5-400e-ad0c-da46470a6717)
+Type the command "node," which will execute Javascript commands.
 
-# 2. VsCode Installation
-Then, if you don't have Visual Studio Code, access the website [Visual Studio Code.com](https://code.visualstudio.com/). Type the "node" command, thus executing Javascript commands. Follow the installation instructions and let's move on:
+**2. Installing VsCode**
+Next, if you don't have Visual Studio Code, go to [Visual Studio Code.com](https://code.visualstudio.com/). Follow the installation instructions and let's get started:
 ![image](https://github.com/user-attachments/assets/2c04ec27-4712-4bc8-bb95-9f839c681b60)
 
-# 3. Additional Extensions
-Now with VsCode installed, we will have to install programming language extensions, for example (Javascript, Python, C#, C++ and among others), helpers being used to help you debug these codes in the terminal, code.runner.
+**3. Additional Extensions**
+Now that VsCode is installed, we'll need to install extensions for programming languages, for example (Javascript, Python, C#, C++, and others), which are helpers used to help you debug these codes in the terminal, code.runner.
+
 ![image](https://github.com/user-attachments/assets/287744d6-75b2-426c-8256-58c4a78c86bd)
 
-# [Go To Number_02](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Variables-Number_02/Variables.md)
+---
+
+## Next Chapter
+
+- [Continue to the next chapter](../Variables-Number_02/Variables.md)

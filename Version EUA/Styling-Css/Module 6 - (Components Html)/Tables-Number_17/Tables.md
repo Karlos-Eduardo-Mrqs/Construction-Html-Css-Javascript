@@ -1,106 +1,148 @@
-# [Return Number_16](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Inputs-Number_16/Inputs.md)
+# Note 👁️
 
-# Styles with Tables
-In this chapter on HTML component styles, we will style an HTML table.
+- [Read Number_16 before continuing](../Inputs-Number_16/inputs.md)
+
+---
+
+## Styles with Tables
+
+In this chapter, we'll style an HTML table.
 
 ## Reference Table
-![image](https://github.com/user-attachments/assets/768076cd-fb8b-4c5e-8e65-a332179729f3)
-![image](https://github.com/user-attachments/assets/75125165-eff0-4cd9-b288-82b845321962)
 
-Using this reference table, let's make the table below look similar to the one above, notice:
-![image](https://github.com/user-attachments/assets/f028ef37-b682-4733-88ba-d9f9a82054c3)
+![Reference Table 1](https://github.com/user-attachments/assets/768076cd-fb8b-4c5e-8e65-a332179729f3)
 
-## Table Styling 
-To avoid getting lost in too many details, we will start the style with the title part.
+![Reference Table 2](https://github.com/user-attachments/assets/75125165-eff0-4cd9-b288-82b845321962)
 
-## Caption
-In the table title, we will apply a font size of 15px with 10px horizontal and 60px vertical padding and greater emphasis with the font:
+---
 
-![image](https://github.com/user-attachments/assets/32e6363f-ac69-470b-9d95-f9d2f830b22c)
+## Example to be styled
 
-## Table 
-In the table, it will be assigned a centralized position:
+We will use this reference table to make the table below look like this:
 
-![image](https://github.com/user-attachments/assets/b65eff78-445f-4a21-aa39-12e537ba1195)
+![Table to style](https://github.com/user-attachments/assets/f028ef37-b682-4733-88ba-d9f9a82054c3)
 
-### Size of Table
-Width 100% and a height of 200px:
+---
 
-![image](https://github.com/user-attachments/assets/9d2832ed-abd7-450f-b128-de8736990f49)
+## Styling of Table
 
-### Thead Of Table
-Going to the header, a dark red background, a height of 40px and width 20px with a 16px font size:
+### Caption (title)
 
-![image](https://github.com/user-attachments/assets/49c36dba-31f9-4a21-93cb-5cc0350b86ba)
+- Font size: 15px
+- Padding: 10px horizontal and 60px vertical
+- Font with greater emphasis
 
-Going back to the total table, we will add 1,3,5 with a white background:
+![Stylized caption](https://github.com/user-attachments/assets/32e6363f-ac69-470b-9d95-f9d2f830b22c)
 
-![image](https://github.com/user-attachments/assets/d4c2bd64-e3a6-49fc-ad2e-7b22ad09388e)
+---
 
-## Tfoot
-Moving to the footer, we'll apply a border to the top and bottom of the footer:
+### Table
 
-![image](https://github.com/user-attachments/assets/d311688a-8cc6-4623-b8e9-707f3334e9fb)
+- Centered text
+- Width: 100%
+- Height: 200px
 
-We will place the total in the corner next to the number of cars:
+![Centered table](https://github.com/user-attachments/assets/b65eff78-445f-4a21-aa39-12e537ba1195)
+![Table with height](https://github.com/user-attachments/assets/9d2832ed-abd7-450f-b128-de8736990f49)
 
-![image](https://github.com/user-attachments/assets/1ba4d97a-7b3b-4a0b-bf78-1929942b593d)
+---
 
-## Hover Effect
-And to finaly, let's add one hover effect on background color red:
-![image](https://github.com/user-attachments/assets/e3b9adff-25eb-4e0d-bec9-cc4f0d074807)
+### Thead (header)
 
-# Styling Css
+- Dark red background
+- Height: 40px
+- Width: 20px
+- Font: 16px
+
+![Styled header](https://github.com/user-attachments/assets/49c36dba-31f9-4a21-93cb-5cc0350b86ba)
+
+---
+
+### Alternate rows
+
+- Rows 1, 3, 5 with white background
+
+![Rows with background white](https://github.com/user-attachments/assets/d4c2bd64-e3a6-49fc-ad2e-7b22ad09388e)
+
+---
+
+### Footer
+
+- Border at the top and bottom
+
+![Footer with borders](https://github.com/user-attachments/assets/d311688a-8cc6-4623-b8e9-707f3334e9fb)
+
+- Total aligned to the right, next to the number of cars
+
+![Total aligned](https://github.com/user-attachments/assets/1ba4d97a-7b3b-4a0b-bf78-1929942b593d)
+
+---
+
+### Hover Effect
+
+- When hovering mouse, the line changes to a red background
+
+![Hover on line](https://github.com/user-attachments/assets/e3b9adff-25eb-4e0d-bec9-cc4f0d074807)
+
+---
+
+## Final CSS
+
+```css
+html { 
+background-color: #333; 
+margin: 0;
+}
+
+body { 
+color: aliceblue; 
+font-size: 16px; 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.table-car2 caption { 
+font-weight: bold; 
+font-size: 15px; 
+padding: 10px 15px;
+}
+
+.table-car2 { 
+text-align: center; 
+width: 100%; 
+height: 200px; 
+border-collapse: collapse; 
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.Car-head th { 
+background-color: darkred; 
+font-size: 16px; 
+width: 20px; 
+height: 40px;
+}
+
+.Car-body .linne { 
+background-color: #555;
+}
+
+.Car-foot { 
+border-top: solid 1px darkred; 
+border-bottom: 3px solid darkred; 
+text-align: end;
+}
+
+.Car-foot .Total-Car { 
+text-align: end;
+}
+
+.Car-body tr:hover td { 
+background-color: red;
+}
 ```
-html{
-    background-color: #333;
-    margin: 0;
-}
 
-body{
-    color: aliceblue;
-    font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
-}
+---
 
-.table-car2 caption{
-    font-weight: bold;
-    font-size: 15px;
-    padding:10px 15px;
-}
+## ✅ Next Chapter
 
-.table-car2{
-    text-align: center;
-    width: 100%;
-    height: 200px;
-    border-collapse: collapse;
-    font-family: Arial, Helvetica, sans-serif;
-    }
-
-.Car-head th{
-    background-color: darkred;
-    font-size: 16px;
-    width: 20px;
-    height: 40px;
-}
-
-.Car-body .linne{
-    background-color: #555;
-}
-
-.Car-foot{
-    border-top:solid 1px darkred;
-    border-bottom: 3px solid darkred;
-    text-align: end;
-}
-
-.Car-foot .Total-Car{
-    text-align: end;
-}
-
-.Car-body tr:hover td{
-    background-color: red;
-}
-```
-
-# [Go To Number_18](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ScrollBar-Number_18/ScrollBar.md)
+- [▶️ Continued at Number 18](../ScrollBar-Number_18/ScrollBar.md)
+  

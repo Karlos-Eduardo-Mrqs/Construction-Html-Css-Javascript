@@ -1,104 +1,98 @@
-# [Return Number_15](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/ListsAndAnchors-Number_15/Lists.md)
+# Note 👁️
 
-# Styling Inputs
-In this chapter, we will cover the styling of inputs, called inputs with css.
+- [Read Issue 15 before continuing](../ListsAndAnchors-Number_15/Lists.md)
 
-# Example Page
+---
 
-![image](https://github.com/user-attachments/assets/fdf6458e-53e4-4133-bb3d-7caf03324232)
+## Styling Entries
 
-We will use this page here to improve it and make it more beautiful. We will then start to modify the behavior of the screen element being blocked, its width to 100% and the font color to black:
+In this chapter, we'll cover styling entries, called CSS entries.
 
-![image](https://github.com/user-attachments/assets/a554bc79-1a1f-4a6d-9212-b7eeec9da236)
+## Example Page
 
-Looking at the three elements, we see that the options are misaligned with the messages and name fields, we will use a padding of 10px and the box size for the border box:
+![Example Page](https://github.com/user-attachments/assets/fdf6458e-53e4-4133-bb3d-7caf03324232)
 
-![image](https://github.com/user-attachments/assets/a6cb2348-6fcf-4687-8a54-f444a747c7dd)
+---
 
-Next, let's increase the height of the text area to 200px:
+## Initial Adjustments
 
-![image](https://github.com/user-attachments/assets/4bbd78a9-232f-44c0-aa76-aa2a56d333e3)
+Let's improve the page by changing the behavior of the blocked element on the screen, setting its width to 100% and the font color to black:
 
-# Rezize attribute
-Inside css, we have an attribute called `` resize: resize type; `` where we can manipulate how the text area moves. For example, in this field we can move it horizontally and vertically, that is, up and down, left and right. Damaging the dimensions of other fields, this does not occur when we use resize.
+![Width 100% and color black](https://github.com/user-attachments/assets/a554bc79-1a1f-4a6d-9212-b7eeec9da236)
 
-## Types of Resizing
-- both:
-Default, moves the text box to all sides;
-- horizontal:
-Moves horizontally, that is, left and right;
-- vertical:
-Moves vertically, that is, up and down;
-- none:
-Blocks movement of the text box;
+---
 
-# Button 
-Now focusing on the styling of the button, we will remove its border and apply a green background, as it is a submit button:
+## Alignment and Spacing
 
-![image](https://github.com/user-attachments/assets/c0f24730-a4b3-4d80-ac68-f75222a9e9b4)
+We noticed that the options are misaligned with the message and name fields.
 
-As your font is small, we will increase it to 16px, give it a padding of 10px (top and bottom) 60px (left and right side) finishing with a rounding of 30px:
+We apply a 10px padding and adjust the box size to the box's edge:
 
-![image](https://github.com/user-attachments/assets/b313a339-aad9-436a-8b40-68f02b7b9a13)
+![Padding applied](https://github.com/user-attachments/assets/a6cb2348-6fcf-4687-8a54-f444a747c7dd)
 
-To close the button, let's center this button with text-align:center :
+---
 
-![image](https://github.com/user-attachments/assets/fc8b3cf3-2f0b-4c79-a59f-03af35e5ce40)
+## Adjusting the text area height
 
-## Bonus
-Furthermore, we can apply style to the placeholder (the shaded messages in the input field name and textarea), using a pseudo-code called input:placeholder, causing only the input placeholder to be styled.Concluding, with another command seen in the previous chapter, button:hover, changing the button when focused or pressed with the pointer (which will also be changed to pointer):
+Let's increase the text area height to 200px:
 
-![image](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
+![Larger text area](https://github.com/user-attachments/assets/4bbd78a9-232f-44c0-aa76-aa2a56d333e3)
 
-# Final Css
-```
-html{
-    background-color: #999;
-    margin: 0;
-}
+---
 
-.box{
-    color: aliceblue;
-}
+## `resize` property
 
-.form-group{
-    margin-bottom: 15px;
-}
+CSS has a `resize` attribute that controls how the text area can be resized.
 
-label,input,textarea,select{
-    display: block;
-    width: 100%;
-    box-sizing:border-box;
-    padding: 10px;
-    color: black;
-}
+We can enable resizing:
 
-textarea{
-    height: 200px;
-    resize: none;
-}
+- To both sides (`both`) — default;
+- Only horizontally (`horizontal`);
+- Only vertically (`vertical`);
+- Or block it completely (`none`).
 
-button{
-    border: none;
-    background-color: darkgreen;
-    color: aliceblue;
-    font-size: 16px;
-    padding: 10px 60px;
-    border-radius: 30px;
-}
+---
 
-.form-action{
-    text-align: center;
-}
+## Styling the button
 
-input::placeholder{
-    color: red;
-}
+Let's focus on the button now:
 
-button:hover{
-    background-color: rgb(1, 255, 1);
-    cursor: pointer;
-}
-```
+- Remove the border;
+- Apply a green background, as it's a submit button.
 
-# [Go To Number_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Tables-Number_17/Tables.md)
+![Button with green background](https://github.com/user-attachments/assets/c0f24730-a4b3-4d80-ac68-f75222a9e9b4)
+
+---
+
+## Adjustments to the button
+
+- Increase the font to 16px;
+- Apply padding of 10px (top and bottom) and 60px (sides);
+- Add rounded edges with a 30px radius.
+
+![Button with padding and rounded border](https://github.com/user-attachments/assets/b313a339-aad9-436a-8b40-68f02b7b9a13)
+
+---
+
+## Centering the button
+
+Finally, we center the button with `text-align: center`:
+
+![Centered button](https://github.com/user-attachments/assets/fc8b3cf3-2f0b-4c79-a59f-03af35e5ce40)
+
+---
+
+## Bonus: Styling the button's placeholder and hover
+
+- We can style the placeholder using the `input::placeholder` pseudocode.
+- We can also change the button's style when it has focus or when the mouse hovers (`button:hover`), changing the color and cursor.
+
+![Example placeholder and hover](https://github.com/user-attachments/assets/657a4b20-6b96-4f73-967d-bb2d1ccd7645)
+
+- [**CSS Final**](../Inputs-Number_16/style.css)
+
+---
+
+## ✅ Next Chapter
+
+- ▶️ [Continues on Number_17](../Tables-Number_17/Tables.md)

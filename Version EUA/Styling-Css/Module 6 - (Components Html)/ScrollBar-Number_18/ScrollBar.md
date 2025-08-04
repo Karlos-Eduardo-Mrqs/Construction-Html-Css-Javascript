@@ -1,32 +1,66 @@
-# [Return Number_17](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Tables-Number_17/Tables.md)
+# Note 👁️
 
-# Scrollbar 
-Within the css, we can style the scrollbar in the body of our page.
+- [Read Number_17](../Tables-Number_17/Tables.md)
 
-## Example
+---
 
-![image](https://github.com/user-attachments/assets/42ceca08-7e99-4479-9e2e-4b935b490930)
+## Scroll Bar
 
-## -webkit-scrollbar
-With this attribute, we can apply styling to the navigation bar, for example, let's apply a blue background:
+In CSS, we can style the scroll bar in the body of the page.
 
-![image](https://github.com/user-attachments/assets/e58fc44f-5dea-4b0a-bbd5-921fc614df3b)
+---
 
-## -webkit-scrollbar-track
-With this attribute, assign a characteristic to the entire path of the navigation bar, similar to webkit-scrollbar.
+## Visual Example
 
-## -webkit-scrollbar-thumb
-Going to this attribute, we can know where we are on the website, for example:
+![Scroll Bar Example](https://github.com/user-attachments/assets/42ceca08-7e99-4479-9e2e-4b935b490930)
 
-![image](https://github.com/user-attachments/assets/be1275a1-285b-4b15-b32f-3cf1ffefb702)
+---
 
-In the navigation bar, we have three parts. In the first, we have the up and down arrows, to go up and down. In the second, there is the navigation bar (light gray) and finally the white background, the navigation limit part. Going back to -webkit-scrollbar-thumb, we can set the part to light gray, for example a dark gray background and 15px rounding:
+## `-webkit-scrollbar`
 
-![image](https://github.com/user-attachments/assets/b77954eb-7c6f-4334-9a54-6e8ac4e8a243)
+This selector styles the entire scroll bar.
 
-## ::-webkit-scrollbar-button
-Here we can apply the up and down buttons, for example earthy colored and rounded buttons:
+Example: Apply a blue background:
 
-![image](https://github.com/user-attachments/assets/9471ce79-3623-4564-becf-7ed5c022336b)
+![Blue navigation bar](https://github.com/user-attachments/assets/e58fc44f-5dea-4b0a-bbd5-921fc614df3b)
 
-# [Go To Forms Style One](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Styling-Css/Module%206%20-%20(Components%20Html)/Forms-Number_19/StyleOne/Forms.md)
+---
+
+## `-webkit-scrollbar-track`
+
+Sets the style of the "path" along which the navigation bar slides, similar to the previous selector.
+
+---
+
+## `-webkit-scrollbar-thumb`
+
+Sets the "handle" of the bar, which indicates the current scroll position.
+
+Visual example of the bar and its parts:
+
+![Scroll bar parts](https://github.com/user-attachments/assets/be1275a1-285b-4b15-b32f-3cf1ffefb702)
+
+- Up/down arrows;
+
+- Navigation bar (light gray);
+- White background (navigation border).
+
+We can apply a dark gray background and 15px rounded edges to the "handle":
+
+![Handle with dark background and rounded edges](https://github.com/user-attachments/assets/b77954eb-7c6f-4334-9a54-6e8ac4e8a243)
+
+---
+
+## `::-webkit-scrollbar-button`
+
+Styles the up and down buttons.
+
+Example: rounded buttons with earthy colors:
+
+![Stylized scrollbar buttons](https://github.com/user-attachments/assets/9471ce79-3623-4564-becf-7ed5c022336b)
+
+---
+
+## ✅ Next Chapter
+
+- ▶️ [Continued in Issue 19](../Forms-Number_19/StyleOne/Forms.md)

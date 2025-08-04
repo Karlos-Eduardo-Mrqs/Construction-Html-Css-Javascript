@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- [Leia a parte um antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios)/EstruturaDoFormul%C3%A1rio_N%C3%BAmero_10/Forms.md)
+- [Leia a parte um antes de continuar](./Forms.md)
 
 ---
 
@@ -68,7 +68,7 @@ A maioria dos campos de formulário é definida pela tag ``<input>`` e seu atrib
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/013f097a-bae8-4fae-aa4a-5cefb72d6164)
 
-## Atributos Globais Para Os Inputs:  
+## Atributos Globais Para Os Inputs
 
 | Atributo      | Função                                                            |
 | ------------- | ----------------------------------------------------------------- |
@@ -90,6 +90,8 @@ A maioria dos campos de formulário é definida pela tag ``<input>`` e seu atrib
 
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/5efd7067-5d20-44a6-b0ee-10455b3e6cbc)
 
-# 💡 Continuação
+---
+
+## 💡 Continuação
 
 - [Continua no Número_11](../ManipulaçãoDeEntradas_Número_11/Inputs2.md)

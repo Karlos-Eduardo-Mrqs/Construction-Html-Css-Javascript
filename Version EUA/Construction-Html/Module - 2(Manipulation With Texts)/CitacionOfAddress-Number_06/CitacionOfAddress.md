@@ -1,42 +1,43 @@
-# [Return To Number_05](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/TextFormating-Number_05/TextFormating.md)
+# Note 👁️
 
-# Quotes In Html
-Within Html, we can "reference" text that has already been created on our website using the tag `` <blockquote> </blockquote>``, its structure being like this:
-``` 
+- [Read Module 05 before continuing](../TextFormatting-Module_05/TextFormatting.md)
+
+---
+
+## Quotes in HTML
+
+In HTML, we can "reference" a text already created on our site using the ``<blockquote> </blockquote>`` tag. The basic structure is:
+
+```html
   <blockquote cite="https://g1.globo.com/economia/noticia/2024/06/20/dolar-ibovespa.ghtml">
-        The previous day, the North American currency advanced 0.15%, quoted at R$5.4417, renewing its highest level since January 2023. The main stock index on the Brazilian stock exchange closed with an increase of 0.53% , at 120,261 points.
+        On the previous day, the US dollar rose 0.15%, quoted at R$5.4417, reaching its highest level since January 2023. Meanwhile, the main stock index of the Brazilian stock exchange closed up 0.53%, at 120,261 points.
   </blockquote>
 ```
-# Tag Address
-Also, we can mention addresses with the ``<address> </address> `` tag, the structure being like this:
+
+## Tag Address
+
+We can also quote with the ``<address> </address>`` tag, with its structure as follows:
+
+```html
+<address>
+Rua São Agostinho Nº 67, Centro <br>
+São Paulo/SP <br>
+ZIP Code: 010100-00
+</address>
 ```
-  <address>
-        Rua São Agostinho Número 67, Centro <br>
-        São Paulo/SP <br>
-        CEP: 010100-00 
-    </address>
-```
+
 ## Attribute Concept
-Did you notice that next to the `` <blockquote> `` tag, there is a term called "cite" (Which defines, where I got this text from).This term is called attribute, where a tag can have a new function or characteristics, for example:
 
-![ExemplosDeAtributo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e7296dd7-996c-49fa-9103-8ae7e76a262e)
+You may have noticed that the ``<blockquote>`` tag has a term called cite, which indicates the source of the quoted text. This term is called an attribute and is used to add additional functionality or features to a tag.
 
-We can model attributes to make tags and blocks behave the way we want. As seen above, changing the color of the paragraph to blue.
+For example, in the image below, attributes are used to change the color of a paragraph to blue:
 
-# Text's For Quotes
-## Tag q (Short Quotes)
-This tag are used to define short quotes within a paragraph. The browser usually adds quotation marks around the content:
+![ExamplesOfAttributes](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e7296dd7-996c-49fa-9103-8ae7e76a262e)
 
-``<q>Imagination is more important than knowledge.</q>``
+Through attributes, we can control the behavior of tags and customize their functionality according to our needs.
 
-## Tag bdo (Bi-Directional Override)
-The this tag allows us to override the text directionality (for example, changing text from left-to-right to right-to-left):
+---
 
-``<bdo dir="rtl">This text will be displayed right-to-left.</bdo>``
+## 💡Continued
 
-## Tag abbr (Abbreviation)
-This tag defines an abbreviation or acronym, and we can provide a tooltip with the full form of the term using the title attribute:
-
-`` <abbr title="World Health Organization">The WHO</abbr> was founded in 1948. ``
-
-# [Lists](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06/Lists.md)
+- [Continued in part two](../CitacionOfAddress-Number_06/Lists.md)

@@ -1,64 +1,131 @@
-# [Read Structure First !](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%206(Developing%20In%20Web)/Structure_Number_12/Structure.md)
+# Note 👁️
 
-# Web Page Content
-In the previous folder (Estrutura_Número_12), we learned how to observe and interpret the blocks within Web pages. And now, we will make the main content and differentiate them, having three important parts, **Header, Content and Footer**.
-## Header
-The header is the top part of our website, where the navigation bar (set of anchors), account, support or contact us, etc. are located. Watch:
+- [Read Number_12 before continuing!](../Structure_Number_12/Structure.md)
+
+---
+
+## 🧱 Web Page Content
+
+In the previous file (Structure-Number_12), you learned how to identify blocks on web pages. Now, let's delve deeper into the main structure that makes up any website:
+
+## 🧭 Header
+
+This is the top part of the website, typically home to:
+
+- Navigation menus (page links)
+- Logo
+- Account access
+- Support or contact
+
+**📸 Visual example:**
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/8d58ea6e-dcb8-4f94-a7a7-1ef5560e7b17)
-### Formatting in Html
-**This entire part is called the header. We can use the tags ``<header> </header> and <nav> </nav>``**
+
+### 🏷️ Common Tags
+
+```html
+<header>
+<nav>
+<a href="#">Home</a>
+<a href="page-2.html">Page 2</a>
+</nav>
+</header>
 ```
-<header> 
-        Cabeçalho 
-        <nav>
-            <a href="#">Início</a>
-            <a href="pagina-2.html">Página 2</a>
-        </nav>
-    </header>
-```
-## Content
-Content is the central part of our website, containing all texts, images, anchors, titles and others.What is necessary to explain/talk about a topic that the user will read. Watch:
+
+- ``<header>``: Delimits the page header.
+- ``<nav>``: Contains navigation links.
+
+## 📄 Content (Main)
+
+This is the central area of the page — where the main content that the user will read, watch, or interact with is located. This section can contain:
+
+- Headings, paragraphs, lists
+- Images and videos
+- Secondary and side content
+
+**📸 Visual example:**
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/673f6235-b253-4941-8a75-e3672b5a3519)
-### Formatting in Html
-**Note that we have numerous attributes and tags to make our content, the most "eye-catching for user interaction. We can use the tags ``<main></main> <section> </section> <div> </div> <aside> </aside> ``**
-```
+
+### Common Tags🏷️
+
+```html
 <main>
-        <div>
-            <section>
-                <h1> Cabeçalho, Conteúdo e o Rodápe</h1>
-                <p> Conteúdo </p>
-            </section>
-    
-            <section>
-                <h2> Conteúdo Secundário</h2>
-                <span> conteúdo </span>
-    
-            </section>
-    
-            <aside>
-                <h2> Conteúdo Complementar</h2>
-                <p> Conteúdo</p>
-            </aside>
+<div>
+<section>
+<h1>Header, Content, and Footer</h1>
+<p>Main Content</p>
+</section>
 
-        </div>
-    </main>
+<section>
+<h2>Secondary Content</h2>
+<span>More Content</span>
+</section>
+
+<aside>
+<h2>Supplementary Content</h2>
+<p>Additional Information</p>
+</aside>
+</div>
+</main>
 ```
-## Baseboard 
-The Footer is the bottom part of our website, located at the end it cites "the copyright holder", and can be used to indicate bibliographic sources, texts related to the statements contained in the study, or to refer the reader to other parts of the same text or to other texts. Watch:
+
+- ``<main>``: delimits the main content.
+- ``<section>``: separates the thematic blocks.
+- ``<aside>``: supplementary content (sidebar).
+- ``<div>``: generic block for organization.
+
+## 📬 Footer
+
+This is the final part of the page, usually containing:
+
+- Copyright
+- Company information
+- Credits
+- References
+
+**📸 Visual example:**
+
 ![image](https://github.com/Karlos-Eduardo-Mrqs/Construcao-Html-Css-Javascript/assets/172524894/c490f5ad-5a2e-47d8-a01e-91b39236e28e)
-### Formatting in Html
-**As pictured, this is our footer. This can be done with the tags `` <article> </article>``, ``<footer> </footer> ``. The ARTICLE tag can have its HEADER and FOOTER within this tag**
-```
-    <article>
-        <header> Nossa Empresa </header>
 
-        <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quo voluptas fuga laudantium perspiciatis dolore repellat adipisci! Magni sit distinctio, repudiandae cumque magnam totam dolorem at asperiores, corrupti, accusantium aut.
-        </div>
+### Common tags 🏷️
 
-        <footer>Carlos Eduardo</footer>
-    </article>
+```html
+<article>
+<header>Our Company</header>
+
+<div>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis quo voluptas fuga...
+</div>
+
+<footer>Carlos Eduardo</footer>
+</article>
+
 ```
-# Finalization
-We end here, **Construction-Html**. Where we learn to build our pages from a blank page to a page with lots of texts, images, audio, etc... With a lot of organization and hierarchy. Thank you for reading all these modules, I hope they help you in some way to understand how to do things in HTML.
-# [Bonus](https://www.w3schools.com/tags/default.asp)
+
+- ``<article>`` → independent content block (e.g., post, card).
+- ``<footer>`` → general or specific footer for an article.
+
+> 🔎 Tip: An ``<article>`` can contain its own ``<header>`` and ``<footer>``!
+
+---
+
+## 🏁 Conclusion
+
+Congratulations on making it this far! 🎉
+You have successfully completed the HTML Construction Module and now master the fundamentals of creating well-structured web pages.
+
+### ✅ What did you learn?
+
+1. How to organize a page's structure with HTML.
+2. How to use the right tags to create hierarchy and meaning.
+3. How to make content clearer, cleaner, and more organized.
+4. Create pages with a logical and professional layout.
+5. Improve readability and navigation for users.
+6. Apply styles with CSS and bring your design to life.
+
+> Keep practicing and building — every line of code is another step in your journey as a developer!
+
+## 🎁 Bonus
+
+- [👉 Explore all HTML tags at W3Schools](https://www.w3schools.com/tags/default.asp)

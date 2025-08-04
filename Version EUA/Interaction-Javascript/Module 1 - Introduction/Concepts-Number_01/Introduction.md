@@ -1,35 +1,62 @@
-# What is Javascript?
-Javascript is a lightweight programming language that developers use to create more dynamic interactions when developing web pages, applications, servers, games, etc. It creates elements to improve website visitors' interaction with web pages, such as drop-down menus, animated graphics, and dynamic background cores. However, it still maintains user interaction, something CSS cannot do alone.
+# What is JavaScript?
 
-# Characteristics
-JavaScript, as its name suggests, is a scripting language. A scripting language is commonly defined as a programming language that allows the programmer to control one or more third-party applications. In the case of JavaScript, we can control some browser behaviors through snippets of code that are sent in the HTML page. Another common characteristic in scripting languages ​​is that they are normally interpreted languages, that is, they do not depend on compilation to be executed.
+JavaScript is a lightweight programming language used by developers to create dynamic interactions in web pages, applications, servers, games, and more. It adds elements that enhance the user experience, such as drop-down menus, animated graphics, and dynamic background colors. Unlike CSS, which only styles, JavaScript allows interactivity and real-time page manipulation.
 
-# Historical Summary
-Aiming at the potential of the Internet for the general public and the need for greater user interaction with pages, Netscape, creator of the most popular browser of the early 90s, with the same name, created Livescript, a simple language that allowed the execution of scripts contained in pages within the 
-browser itself.
+---
 
-![Microsoft VisualStudio Services Icons](https://github.com/user-attachments/assets/5bf6105d-5275-4fa9-9a51-0e944feb4639)
+## Features
 
-Taking advantage of the imminent success of the Java language, which was gaining more and more space in the corporate application development market, Netscape soon renamed Livescript as JavaScript in an agreement with Sun to leverage the use of both. The then vice-leader of browsers, Microsoft, added support for scripts written in VBScript to Internet Explorer and created its own version of JavaScript, JScript.
+JavaScript is a **scripting** language, meaning it allows you to control one or more applications through scripts inserted into HTML pages. Generally, scripting languages are **interpreted**, meaning they don't need to be compiled to run—the code is executed directly by the browser.
 
-![java](https://github.com/user-attachments/assets/0d3a7500-b4d8-4638-a961-416509fc5c01)
+In the case of JavaScript, it allows you to control browser behavior and user interaction through code snippets embedded in pages.
 
-## Java X Javascript
-**1. Language model:** While Java is an OOP programming language, JavaScript manifests itself as a strictly scripting language – also of the OOP type.
+---
 
-**2. The code:** While the code used in the Java language requires compilation, the code used in the JavaScript platform is attributed in text form in its entirety.
+### Historical Summary
 
-**3. A Machine:** JavaScript, within its scenario, is known to only run in a browser, while Java's range of options is much greater. In addition to the browser, Java also runs on any and all virtual machines.
+With the growth of the internet for the general public, there was a need to increase user interaction with web pages. Netscape, creator of the browser that dominated the early 1990s, released LiveScript, a simple language for executing scripts directly in the browser.
 
-**4. Language features:** The Java language was designed, from its inception, as a language model aimed mainly at objects, while JavaScript does not have a pure and simple definition of classes.
+![Microsoft Visual Studio Services Icons](https://github.com/user-attachments/assets/5bf6105d-5275-4fa9-9a51-0e944feb4639)
 
-**5. Simplicity:** It is exactly in this context that Java and JavaScript differ the most, since the second is considered much simpler by the large mass of experts involved in the issue. Because it uses objects created in the body of HTML, JavaScript is easier to use, the opposite of Java – where in-depth knowledge of the classes it comprises is necessary.
+Building on the success of Java, Netscape rebranded LiveScript as JavaScript after a deal with Sun Microsystems to capitalize on Java's popularity and leverage both technologies.
 
-# Conclusion 
-In short, these two elements of the development and technology area relate to the same purpose, although certain differences are easy to observe. The so-called programming language is the north of these two pieces that, on the one hand, are considered to be part of the same family and, on the other, are considered completely different.
+Microsoft, then the second-largest browser market, added VBScript scripting support to Internet Explorer and created its own version of JavaScript, called JScript.
 
-# [Reference 1](https://labs.bluesoft.com.br/2015/10/13/java-e-javascript/) 
+![Java](https://github.com/user-attachments/assets/0d3a7500-b4d8-4638-a961-416509fc5c01)
 
-# [Reference 2](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript)
+---
 
-# [Concepts](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Interaction-Javascript/Module%201%20-%20Introduction/Concepts-Number_01/Concepts.md)
+## Java vs. JavaScript
+
+Despite their similar names, Java and JavaScript are distinct technologies with fundamental differences:
+
+1. **Language Model:**
+Java is an object-oriented programming (OOP) language, while JavaScript is a scripting language that also supports OOP, but with a different model.
+
+2. **Compilation:**
+Java needs to be compiled before running, while JavaScript is interpreted directly by the browser, being inserted as text into HTML.
+
+3. **Runtime Environment:**
+Javascript traditionally runs in web browsers, while Java can run on multiple platforms through the Java Virtual Machine (JVM).
+
+4. **Language Characteristics:**
+Java was designed as a purely object-oriented language, while JavaScript uses a prototype-based model, without traditional classes (although classes have been introduced in more recent versions).
+
+5. **Simplicity:**
+JavaScript is generally considered simpler and easier to learn, especially for manipulating HTML pages, while Java requires a deeper understanding of concepts such as classes and objects.
+
+In short, Java and JavaScript have different purposes and characteristics, despite the similarity in name that can lead to confusion.
+
+---
+
+## References
+
+- [Java and JavaScript: Understand the Differences](https://labs.bluesoft.com.br/2015/10/13/java-e-javascript/)
+
+- [Events with JavaScript - Alura Handbook](https://www.alura.com.br/apostila-html-css-javascript/38CA-eventos-com-javascript)
+
+---
+
+## Next Chapter
+
+- [Continued in the next chapter](Concepts.md)

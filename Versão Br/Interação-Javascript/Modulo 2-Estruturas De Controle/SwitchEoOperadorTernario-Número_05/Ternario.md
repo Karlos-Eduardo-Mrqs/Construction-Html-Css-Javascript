@@ -1,4 +1,6 @@
-# Estrutura Condicional com Operador Ternário
+# Observação 👁️
+
+- [Leia a condição switch antes](../SwitchEoOperadorTernario-Número_05/Switch.md)
 
 ---
 

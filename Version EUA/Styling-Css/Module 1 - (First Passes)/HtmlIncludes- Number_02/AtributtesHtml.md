@@ -1,24 +1,61 @@
-# [Return Number_01](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%201%20-%20(First%20Passes)/IntrodutoriesConcepts-%20Number_01)
+# Note 👁️
 
-# Assigning In Html
-We use Css for styling and design within our pages. But, how do we assign it to Html? 
+- 📌 [Read Issue 01 before continuing](../IntrodutoriesConcepts-%20Number_01/FormattingConcepts.md)
 
-## Forms of Attribution
-1. **Tag style:** 
-We can use the style tag, inside the header (head) or in the body (body): ``<style> p {color: red;} </style> ``
+---
 
-2. **Inline:**
-Translating it would be something like "Na Linha", where you can insert your own css within the html tag. Using the style attribute. That way:``<p style="color: brown;"> Paragrafo 1 </p>``
+## 🎯 Assigning CSS to HTML
 
-3. **Import and Link:**
-We can use css externally, that is, in separate files. Importing them within the style tag or with the link tag. You can do it in two ways:``<style> @import url(styles.css); </style>`` and ``<link rel="stylesheet" href="styles.css">``;
+We use CSS to apply style and design to web pages. But how do we connect CSS to HTML?
 
-### Import X Link
-The ``<link>`` tag is used in the HTML file to reference a source as if it were an external file. The @import function is used in the CSS file to import a font as if it were an external style file.
+### 📎 Attribution Methods
 
-## Importance Hierarchy:
-1. Inline;
-2. Import or Link;
-3. ``<style> </style>``;  
+#### 1.🔹 `<style>` Tag
 
-# [Go To Module 2](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css/Module%202%20-%20(Appearance))
+We can use the `<style>` tag in the `<head>` or `<body>` of the HTML document:
+
+```html
+<style>
+p { color: red; }
+</style>
+```
+
+#### 2.🔹 Inline CSS
+
+As the name suggests, CSS is applied directly to the HTML tag line using the style attribute:
+
+```html
+<p style="color: brown;">Paragraph 1</p>
+```
+
+#### 3. 🔹 External File (Import or Link)
+
+You can also keep CSS separate from HTML by importing an external .css file.
+
+- Via import:
+
+```html
+<style>
+@import url("styles.css");
+</style>
+```
+
+Via link (most recommended):
+
+```html
+<link rel="stylesheet" href="styles.css">
+```
+
+---
+
+## 🧭 Priority Hierarchy (highest to lowest)
+
+1. Inline CSS
+2. External CSS (link or @import)
+3. ``<style>`` tag in the document
+
+> 🎯 Tip: Prefer external CSS to keep your code cleaner, more organized, and reusable.
+
+## 📎 Continued
+
+- [Continued in Module 2](../../Module%202%20-%20(Appearance)/Layouts-Number_03/Layout.md)

@@ -77,7 +77,7 @@ margin: 20px 15px 15px 20px;  /* Topo, Direita, Baixo, Esquerda */
 
 O `padding` define o espaço **dentro** da borda do elemento. Ou seja, entre a borda e o conteúdo (texto, imagem, etc).
 
-### ✅ Exemplo Prático
+### ✅ Exemplo
 
 Observe o texto grudado no topo da caixa:
 

@@ -1,6 +1,6 @@
 # Observação 👁️
 
-- [Leia o Módulo 5 antes de continuar](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html/M%C3%B3dulo%20-%205(Formul%C3%A1rios))
+- [Leia o Módulo 5 antes de continuar](../../Módulo%20-%205(Formulários)/)
 
 ---
 
@@ -74,6 +74,6 @@ Ao inspecionar os sites com o navegador (``Ctrl + Shift + I``), percebemos como 
 
 ---
 
-# 🚀 Continuação
+## 🚀 Continuação
 
 - [Continua no Número_13](../Estrutura_De_Conteudo_Número_13/Conteúdo.md)

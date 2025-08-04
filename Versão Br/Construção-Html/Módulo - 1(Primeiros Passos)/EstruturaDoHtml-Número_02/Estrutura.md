@@ -42,6 +42,6 @@ Agora que entendemos o conceito de tags, vamos direto à estrutura do HTML!
 
 ---
 
-# 💡 Continuação
+## 💡 Continuação
 
 - [Continua no Número_03](../Charset-Número_03/Charset.md)

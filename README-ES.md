@@ -6,8 +6,8 @@
 
 ## 📕 Idiomas Disponibles
 
-|[🇪🇸 Español ⭐](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-ES.md) | [🇧🇷 Portugués (Brasil)](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md) | [🇺🇸 Inglés](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md)  |
-|:--------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+| [🇺🇸 English](README.md) | [🇧🇷 Portuguese (Brasil)](README-BR.md) | [🇪🇸 Español🌟](README-ES.md) |
+|:---------------------------------------:|:----------------------------------------:|:----------------------------------------:|
 
 ---
 
@@ -22,53 +22,48 @@ Este repositorio contiene **recursos, ejemplos y proyectos prácticos** para el 
 - [🌐 **Construcción con HTML, CSS y JavaScript**](#-construcción-con-html-css-y-javascript)
   - [📕 Idiomas Disponibles](#-idiomas-disponibles)
   - [🧭 Tabla de Contenidos](#-tabla-de-contenidos)
-  - [📚 Versiones Disponibles](#-versiones-disponibles)
-  - [🗂️ Estructura del Repositorio](#️-estructura-del-repositorio)
-  - [🔍 Cómo Navegar](#-cómo-navegar)
+    - [📚 Versiones Disponibles](#-versiones-disponibles)
+    - [🗂️ Estructura del Repositorio](#️-estructura-del-repositorio)
   - [⚙️ Instrucciones](#️-instrucciones)
   - [💡 Contribuciones](#-contribuciones)
   - [📝 Licencia](#-licencia)
+  - [🙋 Sobre el autor](#-sobre-el-autor)
 
 ---
 
-## 📚 Versiones Disponibles
+### 📚 Versiones Disponibles
 
 Este repositorio está disponible en tres idiomas:
 
-- 🇺🇸 [Versión en Inglés](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README.md)
+- 🇺🇸 [Versión en Inglés](./Version%20EUA/README.md)
 
 - 🇧🇷 [Versión en Portugués](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-BR.md)
 
-- 🇪🇸 [Versión en Español *usted está aquí*](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-ES.md)
+- 🇪🇸 [Versión en Español](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/README-ES.md)
 
 ---
 
-## 🗂️ Estructura del Repositorio
+### 🗂️ Estructura del Repositorio
 
-- 📁 [Versión BR](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br):  
+- 📁 [Versión BR](./Versão%20Br/README.md):  
 Recursos y proyectos con documentación en portugués.
 
-- 📁 [Versión EUA](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA):  
+- 📁 [Versión EUA](./Version%20EUA/README.md):  
 Estructura equivalente con documentación en inglés.
 
----
-
-## 🔍 Cómo Navegar
-
-| 🇧🇷 Versión BR | 🇺🇸 Versión EUA |
-|---------------|----------------|
-| [Construcción-HTML](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Constru%C3%A7%C3%A3o-Html) | [Construction-HTML](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html) |
-| [Estilización-CSS](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Estiliza%C3%A7%C3%A3o-Css) | [Styling-CSS](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Styling-Css) |
-| [Interacción-JavaScript](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Vers%C3%A3o%20Br/Intera%C3%A7%C3%A3o-Javascript) | [Interaction-JavaScript](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Interaction-JavaScript) |
+- 📁 [Versión ES](./Version%20Es/README.md):  
+Estructura equivalente con documentación en espanol.
 
 ---
 
 ## ⚙️ Instrucciones
 
 ```bash
-# 1. Seleccione el idioma deseado (BR o EUA)
-# 2. Navegue por los módulos de HTML, CSS y JavaScript
-# 3. Explore los archivos para aprender y practicar los conceptos
+1. Seleccione el idioma deseado ( BR, EUA o ES)
+
+2. Navegue por los módulos de HTML, CSS y JavaScript
+
+3. Explore los archivos para aprender y practicar los conceptos
 ```
 
 ---
@@ -78,12 +73,14 @@ Estructura equivalente con documentación en inglés.
 Si desea contribuir con mejoras o nuevas funciones:
 
 ```bash
-# 1. Haga un fork de este repositorio
-# 2. Cree una nueva rama con sus cambios
-# 3. Envíe un Pull Request
+1. Haga un fork de este repositorio
+
+2. Cree una nueva rama con sus cambios
+
+3. Envíe un Pull Request
 ```
 
-¡Toda ayuda es bienvenida! 💬
+> *¡Toda ayuda es bienvenida! 💬*
 
 ---
 
@@ -95,8 +92,20 @@ Usted tiene total libertad para usar este material con fines **educativos**. Los
 
 Este repositorio está bajo la licencia [MIT](./LICENSE), lo que permite usar, modificar y distribuir el contenido **siempre que se mantenga la atribución al autor**.
 
+Si tiene dudas o sugerencias, no dude en abrir una [**issue**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/issues).
+
 ---
 
-Si tiene dudas o sugerencias, no dude en abrir una [**issue**](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/issues).
+## 🙋 Sobre el autor
+
+Desarrollado con esmero por [**Karlos Eduardo**](https://github.com/karlos-eduardo-mrqs) 👨‍💻
+Apasionado por el desarrollo web y la educación en código abierto.
+📫 ¡No dudes en contactar, hacer preguntas o sugerir mejoras!
+
+---
+
+✨ *Este proyecto fue creado con dedicación para quienes desean crecer en el desarrollo web. ¡Siempre agradecemos tu apoyo!*
+
+⭐ **Si te fue útil, ¡no olvides darle una estrella al repositorio!**
 
 🚀 **¡Buen aprendizaje y excelente codificación!** 💻

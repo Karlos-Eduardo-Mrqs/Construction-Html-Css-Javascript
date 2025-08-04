@@ -1,40 +1,73 @@
-# [Return To Number_04](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/tree/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/HeadingsEosParagraphs-Number_04)
+# Observation 👁️
 
-# Text Formating
-Now that we've learned how to deal with the Basic Structure, Headings and Paragraphs, it's time to learn how to deal with **text manipulation**.
+- [Read Number_04 before continuing](../HeadingsEosParagraphs-Number_04/HeadsAndParagraphs.md)
 
-## Text Manipulation Tags and examples:
-- **Tag `` <br> ``:** Starting with the `` <br> `` tag, it breaks lines, this is seen when opening the index document in that folder;
+---
 
-- **Tag `` <p> ``:** Below we have the `` <p> </p> `` tag, which is a standard tag for texts, which occupies an entire line of the page. In other words, it has the Display Block.
+## Text Formatting
 
-![ExemploParagrafo](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/ed8ed165-fd33-42bc-a21f-9671264ca995)
+Now that we've learned how to structure a basic HTML page using headings and paragraphs, it's time to explore **text manipulation**.
 
-- **Tags `` <b> and <strong> ``:** These Tags format the chosen text into bold text; 
+### 🏷️ Text Manipulation Tags and Examples
 
-![ExemploNegrito](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f31d82ce-8335-4f64-a063-4f9680c4a336)
+- **Tag ``<br>``**
 
-- **Tags `` <i> and <em> ``:**  These Tags format the chosen text into italicized text; 
+Responsible for inserting a line break in the text. You can see its use in the index file of this folder.
 
-![ExemploItálico](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/1f418e6e-a9af-4947-8f8f-305a38b4fcab)
+- **Tag ``<p>``**
 
-- **Tags `` <ins>, <del> and <mark>``:** These tags leave the text with one line, which may be underlining, crossing out or marking the text;
+Defines a paragraph. It is a standard tag for text that occupies a full line in the page layout — in other words, it has block display.
 
-![ExemploSubMarkDel](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f6d71d72-83e9-4ac5-a966-ec899c190149)
+![ParagraphExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/ed8ed165-fd33-42bc-a21f-9671264ca995)
 
-- **Tags `` <sub> and <sup> ``:**  These tags format the text so they are lowered or raised;
+- **Tags ``<b>`` and ``<strong>``**
 
-![ExemploSuperInferior](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/00330029-c54f-4ad6-acc0-f7940bc30915)
+Format text in **bold**.
 
-- **Tags `` <small> and <big> ``:** These tags format the text size;
+![BoldExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f31d82ce-8335-4f64-a063-4f9680c4a336)
 
-![ExemploSmallBig](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e2488a5d-0875-4042-b80e-aaccdf06c213)
+- **Tags ``<i>`` and ``<em>``**
 
-# Lorem or Lorem command 
-A command within Visual Studio Code, which generates random text.**Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit, odio magnam consequuntur quisquam tempore, obcaecati eaque ex veniam inventore grandes similique assumptionnda eius voluptatibus nostrum quaerat?**
+Format text in *italic*.
 
-# Observation of the presented Tags
-**All tags, EXCEPT TAG P**, have Inline Display, that is, it only occupies the space that the content size has, look at the image below:
-![ExemploDisplayInline](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
+![ItalicExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/1f418e6e-a9af-4947-8f8f-305a38b4fcab)
 
-# [Go To Number_06](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%202(Manipulation%20With%20Texts)/CitacionOfAddress-Number_06/CitacionOfAddress.md)
+- **Tags ``<ins>``, ``<del>``, and ``<mark>``**
+
+Apply different effects such as underline (`<ins>`), strikethrough (`<del>`), and highlighted text (`<mark>`).
+
+![EffectTagsExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/f6d71d72-83e9-4ac5-a966-ec899c190149)
+
+- **Tags ``<sub>`` and ``<sup>``**
+
+Position the text as subscript (below) or superscript (above).
+
+![SubSupExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/00330029-c54f-4ad6-acc0-f7940bc30915)
+
+- **Tags ``<small>`` and ``<big>``**
+
+Change the text size to smaller or larger, respectively.
+
+![SmallBigExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/e2488a5d-0875-4042-b80e-aaccdf06c213)
+
+## The `lorem` Command
+
+This is a command in Visual Studio Code that generates placeholder text automatically:
+
+```bash
+lorem
+```
+
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ducimus laudantium ratione odit, ódio magnam com sequuntur quisquam tempore, obcaecati eaque ex veniam inventore maiores similique assumenda eius voluptatibus nostrum quaerat
+
+## Tag Display Observation
+
+**All the tags EXCEPT the `<p>` tag** have **inline display**, meaning they only take up as much space as their content requires. See the image below:
+
+![InlineDisplayExample](https://github.com/Karlos-Eduardo-Mrqs/Trabalhos_Operacionais/assets/172524894/37625b09-02a4-41cf-aec2-dfaa2425aba0)
+
+---
+
+## 💡 Continue
+
+- [Continue in Number_06](../CitacionOfAddress-Number_06/CitacionOfAddress.md)

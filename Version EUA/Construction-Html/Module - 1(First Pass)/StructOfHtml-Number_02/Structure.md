@@ -1,30 +1,47 @@
-# [Return Concepts In Tags Number_01](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/ConceptsOfTags-Number_01/ConceptsInTags.md)
-# Structure Concepts
-_Understanding the concept of Tags, we will go directly to the HTML structure!_
+# Note 👁️
 
-## Essential Tags
-1. **!DOCTYPE html:** It is stating that the document type is html, with no closing tag `` <!DOCTYPE html> `` ; 
-2. **html:**Where the entire site is created, all tags can be used, if you open this tag ``` <html> </html> ``` ;
-3. **head:** Where the header or "header" of our page is located, the information is directed to the browser ``<head> </head>`` ;
-4. **title:** Page Title, your name`` <title> </title> `` ;
-5. **body:** Where the body of our page is located, the information will be displayed`` <body> </body> ``;
+- [Read Number_01 before continuing](../ConceptsOfTags-Number_01/ConceptsInTags.md)
 
-# Finally Illusrtation 
-``` 
+---
+
+## Structure Concepts
+
+Now that we understand the concept of tags, let’s go straight to the structure of HTML!
+
+### Essential Tags
+
+- **!DOCTYPE html:** Declares that the document type is HTML. It does **not** have a closing tag: `` <!DOCTYPE html> `` ;
+
+- **html:** Where the entire website is created. All tags can only be used if this tag is opened: ``` <html> </html> ``` ;
+
+- **head:** Contains the page’s header or "head"; the information here is directed to the browser: ``<head> </head>`` ;
+
+- **title:** The title of the page (name that appears in the browser tab): `` <title> </title> `` ;
+
+- **body:** Contains the body of the page; everything here will be displayed to the user: `` <body> </body> ``;
+
+### Final Illustration
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Titulo Da Página </title>
+        <title> Page Title </title>
     </head>
     <body>
         <p>
-            Paragrafo 1
+            Paragraph 1
         </p>
         <p>
             Paragraph 2
         </p>
-        <span> All texts are located in body </span>
+        <span> All This Content Is Inside The Body </span>
     </body>
 </html>
 ```
-# [Go To Number_03](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript/blob/main/Version%20EUA/Construction-Html/Module%20-%201(First%20Pass)/Charset-Number_03/Charset.md)
+
+---
+
+## 💡 Continue
+
+- [Continue to Number_03](../Charset-Number_03/Charset.md)
